@@ -37,10 +37,6 @@ CCTV-14少儿,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226182/index.m3
 CCTV-15音乐,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227549/index.m3u8
 CCTV-16奥林匹克,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227071/index.m3u8
 CCTV-17农业农村,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226869/index.m3u8
-CETV1,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227593/index.m3u8
-CETV2,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226170/index.m3u8
-CETV3,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226950/index.m3u8
-CETV4,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226940/index.m3u8
 
 CHC电影系列,#genre#
 CHC动作电影,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227724/index.m3u8
