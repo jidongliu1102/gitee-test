@@ -1,157 +1,187 @@
 央视频道,#genre#
+CCTV1,http://120.238.84.45:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://183.243.90.126:9003/hls/1/index.m3u8
-CCTV1,http://my1nas.dpdns.org:1234/608807420
+CCTV2,http://120.238.84.45:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://183.243.90.126:9003/hls/2/index.m3u8
-CCTV2,http://my1nas.dpdns.org:1234/631780532
+CCTV3,http://120.238.84.45:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3,http://183.243.90.126:9003/hls/3/index.m3u8
-CCTV3,http://my1nas.dpdns.org:1234/624878271
+CCTV4,http://120.238.84.45:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4,http://183.243.90.126:9003/hls/4/index.m3u8
-CCTV4,http://my1nas.dpdns.org:1234/631780421
-CCTV4欧洲,http://my1nas.dpdns.org:1234/608807419
-CCTV4美洲,http://my1nas.dpdns.org:1234/608807416
+CCTV5,http://120.238.84.45:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5,http://183.243.90.126:9003/hls/5/index.m3u8
-CCTV5,http://my1nas.dpdns.org:1234/641886683
+CCTV5+,http://120.238.84.45:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5+,http://183.243.90.126:9003/hls/31/index.m3u8
+CCTV6,http://120.238.84.45:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV6,http://183.243.90.126:9003/hls/6/index.m3u8
-CCTV6,http://my1nas.dpdns.org:1234/624878396
+CCTV7,http://120.238.84.45:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV7,http://183.243.90.126:9003/hls/7/index.m3u8
-CCTV7,http://my1nas.dpdns.org:1234/673168121
+CCTV8,http://120.238.84.45:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV8,http://183.243.90.126:9003/hls/8/index.m3u8
-CCTV8,http://my1nas.dpdns.org:1234/624878356
+CCTV9,http://120.238.84.45:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV9,http://183.243.90.126:9003/hls/9/index.m3u8
-CCTV9,http://my1nas.dpdns.org:1234/673168140
+CCTV10,http://120.238.84.45:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV10,http://183.243.90.126:9003/hls/10/index.m3u8
-CCTV10,http://my1nas.dpdns.org:1234/624878405
+CCTV11,http://120.238.84.45:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV11,http://183.243.90.126:9003/hls/11/index.m3u8
-CCTV11,http://my1nas.dpdns.org:1234/667987558
+CCTV12,http://120.238.84.45:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV12,http://183.243.90.126:9003/hls/12/index.m3u8
-CCTV12,http://my1nas.dpdns.org:1234/673168185
+CCTV13,http://120.238.84.45:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13,http://183.243.90.126:9003/hls/13/index.m3u8
-CCTV13,http://my1nas.dpdns.org:1234/608807423
+CCTV14,http://120.238.84.45:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV14,http://183.243.90.126:9003/hls/14/index.m3u8
-CCTV14,http://my1nas.dpdns.org:1234/624878440
+CCTV15,http://120.238.84.45:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15,http://183.243.90.126:9003/hls/15/index.m3u8
-CCTV15,http://my1nas.dpdns.org:1234/673168223
 CCTV16,http://183.243.90.126:9003/hls/16/index.m3u8
+CCTV17,http://120.238.84.45:9901/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV17,http://183.243.90.126:9003/hls/17/index.m3u8
-CETV1,http://my1nas.dpdns.org:1234/923287154
-CETV2,http://my1nas.dpdns.org:1234/923287211
-CETV4,http://my1nas.dpdns.org:1234/923287339
+CETV1,http://120.238.84.45:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0
 CGTN,http://139.227.221.198:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
-CGTN,http://my1nas.dpdns.org:1234/609017205
-CGTN俄语,http://my1nas.dpdns.org:1234/609006446
-CGTN法语,http://my1nas.dpdns.org:1234/609006476
 
 中数传媒,#genre#
-CHC影迷电影,http://my1nas.dpdns.org:1234/952383261
-CHC家庭影院,http://my1nas.dpdns.org:1234/644368373
-CHC动作电影,http://my1nas.dpdns.org:1234/644368714
-梨园频道,http://my1nas.dpdns.org:1234/961930369
-中学生,http://my1nas.dpdns.org:1234/708869532
-武术世界,http://my1nas.dpdns.org:1234/958475359
+CHC家庭影院,http://120.238.84.45:9901/tsfile/live/1093_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC动作电影,http://120.238.84.45:9901/tsfile/live/1094_1.m3u8?key=txiptv&playlive=1&authid=0
+第一剧场,http://120.238.84.45:9901/tsfile/live/1086_1.m3u8?key=txiptv&playlive=1&authid=0
+风云剧场,http://120.238.84.45:9901/tsfile/live/1090_1.m3u8?key=txiptv&playlive=1&authid=0
+风云足球,http://120.238.84.45:9901/tsfile/live/1087_1.m3u8?key=txiptv&playlive=1&authid=0
+风云音乐,http://120.238.84.45:9901/tsfile/live/1089_1.m3u8?key=txiptv&playlive=1&authid=0
+世界地理,http://120.238.84.45:9901/tsfile/live/1088_1.m3u8?key=txiptv&playlive=1&authid=0
+怀旧剧场,http://120.238.84.45:9901/tsfile/live/1091_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰纪实,http://120.238.84.45:9901/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰纪实,http://116.128.243.121:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-发现之旅,http://my1nas.dpdns.org:1234/624878970
-环球旅游,http://my1nas.dpdns.org:1234/958475356
-老故事,http://my1nas.dpdns.org:1234/884121956
-快乐垂钓,http://my1nas.dpdns.org:1234/961930263
-中国天气,http://my1nas.dpdns.org:1234/959986621
 
 卫视频道,#genre#
+重庆卫视,http://120.238.84.45:9901/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://116.128.243.121:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://183.243.90.126:9003/hls/27/index.m3u8
 重庆卫视,http://123.159.71.4:85/tsfile/live/1033_1.m3u8?key=txiptv&playlive=0&authid=0
 重庆卫视,http://139.227.221.198:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
-重庆卫视,http://my1nas.dpdns.org:1234/738910914
+重庆卫视,http://183.239.248.218:8181/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://120.238.84.45:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://183.131.110.207:85/tsfile/live/23/2010_1.m3u8?key=txiptv
 江苏卫视,http://116.128.243.121:85/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://221.221.137.78:8888/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://123.159.71.4:85/tsfile/live/1029_1.m3u8?key=txiptv&playlive=0&authid=0
 江苏卫视,http://139.227.221.198:85/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0
-江苏卫视,http://my1nas.dpdns.org:1234/623899368
+江苏卫视,http://183.239.248.218:8181/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://120.238.84.45:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://183.131.110.207:85/tsfile/live/22/2009_1.m3u8?key=txiptv
 浙江卫视,http://116.128.243.121:85/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://123.159.71.4:85/tsfile/live/1052_1.m3u8?key=txiptv&playlive=0&authid=0
 浙江卫视,http://139.227.221.198:85/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
+浙江卫视,http://183.239.248.218:8181/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://120.238.84.45:9901/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://183.131.110.207:85/tsfile/live/24/2011_1.m3u8?key=txiptv
 东方卫视,http://116.128.243.121:85/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://183.243.90.126:9003/hls/28/index.m3u8
 东方卫视,http://221.221.137.78:8888/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://123.159.71.4:85/tsfile/live/1030_1.m3u8?key=txiptv&playlive=0&authid=0
 东方卫视,http://139.227.221.198:85/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0
-东方卫视,http://my1nas.dpdns.org:1234/651632648
+深圳卫视,http://120.238.84.45:9901/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://116.128.243.121:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://221.221.137.78:8888/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://139.227.221.198:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0
+深圳卫视,http://183.239.248.218:8181/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://120.238.84.45:9901/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://183.131.110.207:85/tsfile/live/25/2012_1.m3u8?key=txiptv
 北京卫视,http://116.128.243.121:85/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://221.221.137.78:8888/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://123.159.71.4:85/tsfile/live/1028_1.m3u8?key=txiptv&playlive=0&authid=0
 北京卫视,http://139.227.221.198:85/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0
-北京卫视,http://my1nas.dpdns.org:1234/630287636
+北京卫视,http://183.239.248.218:8181/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://120.238.84.45:9901/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://183.131.110.207:85/tsfile/live/2/2002_1.m3u8?key=txiptv
 山东卫视,http://116.128.243.121:85/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://221.221.137.78:8888/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://123.159.71.4:85/tsfile/live/1038_1.m3u8?key=txiptv&playlive=0&authid=0
 山东卫视,http://139.227.221.198:85/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
+山东卫视,http://183.239.248.218:8181/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://120.238.84.45:9901/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0
 天津卫视,http://116.128.243.121:85/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 天津卫视,http://123.159.71.4:85/tsfile/live/1040_1.m3u8?key=txiptv&playlive=0&authid=0
 天津卫视,http://139.227.221.198:85/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0
+天津卫视,http://183.239.248.218:8181/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
+贵州卫视,http://120.238.84.45:9901/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,http://123.159.71.4:85/tsfile/live/1037_1.m3u8?key=txiptv&playlive=0&authid=0
+四川卫视,http://120.238.84.45:9901/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0
 四川卫视,http://116.128.243.121:85/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
 四川卫视,http://123.159.71.4:85/tsfile/live/1035_1.m3u8?key=txiptv&playlive=0&authid=0
+四川卫视,http://183.239.248.218:8181/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+云南卫视,http://120.238.84.45:9901/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0
+云南卫视,http://183.239.248.218:8181/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
+广西卫视,http://120.238.84.45:9901/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://120.238.84.45:9901/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江卫视,http://116.128.243.121:85/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江卫视,http://123.159.71.4:85/tsfile/live/1041_1.m3u8?key=txiptv&playlive=0&authid=0
-黑龙江卫视,http://my1nas.dpdns.org:1234/738906901
+黑龙江卫视,http://183.239.248.218:8181/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://120.238.84.45:9901/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
 安徽卫视,http://116.128.243.121:85/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 安徽卫视,http://123.159.71.4:85/tsfile/live/1032_1.m3u8?key=txiptv&playlive=0&authid=0
 安徽卫视,http://139.227.221.198:85/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
+安徽卫视,http://183.239.248.218:8181/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+山西卫视,http://120.238.84.45:9901/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
 山西卫视,http://123.159.71.4:85/tsfile/live/1046_1.m3u8?key=txiptv&playlive=0&authid=0
+江西卫视,http://120.238.84.45:9901/tsfile/live/1053_1.m3u8?key=txiptv&playlive=1&authid=0
 江西卫视,http://116.128.243.121:85/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 江西卫视,http://221.221.137.78:8888/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 江西卫视,http://123.159.71.4:85/tsfile/live/1036_1.m3u8?key=txiptv&playlive=0&authid=0
-江西卫视,http://my1nas.dpdns.org:1234/783847495
+湖北卫视,http://120.238.84.45:9901/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,http://116.128.243.121:85/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,http://123.159.71.4:85/tsfile/live/1044_1.m3u8?key=txiptv&playlive=0&authid=0
 湖北卫视,http://139.227.221.198:85/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
-湖北卫视,http://my1nas.dpdns.org:1234/947472496
+旅游卫视,http://120.238.84.45:9901/tsfile/live/1075_1.m3u8?key=txiptv&playlive=1&authid=0
 旅游卫视,http://116.128.243.121:85/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0
 旅游卫视,http://221.221.137.78:8888/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0
 旅游卫视,http://139.227.221.198:85/tsfile/live/0114_1.m3u8?key=txiptv&playlive=0&authid=0
-旅游卫视,http://my1nas.dpdns.org:1234/947472502
+陕西卫视,http://120.238.84.45:9901/tsfile/live/1070_1.m3u8?key=txiptv&playlive=1&authid=0
 陕西卫视,http://123.159.71.4:85/tsfile/live/1045_1.m3u8?key=txiptv&playlive=0&authid=0
-陕西卫视,http://my1nas.dpdns.org:1234/738910838
+东南卫视,http://120.238.84.45:9901/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://183.243.90.126:9003/hls/30/index.m3u8
 东南卫视,http://123.159.71.4:85/tsfile/live/1042_1.m3u8?key=txiptv&playlive=0&authid=0
 东南卫视,http://139.227.221.198:85/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
-东南卫视,http://my1nas.dpdns.org:1234/849116810
+东南卫视,http://183.239.248.218:8181/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林卫视,http://120.238.84.45:9901/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://123.159.71.4:85/tsfile/live/1039_1.m3u8?key=txiptv&playlive=0&authid=0
-吉林卫视,http://my1nas.dpdns.org:1234/947472500
+辽宁卫视,http://120.238.84.45:9901/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://183.131.110.207:85/tsfile/live/27/2014_1.m3u8?key=txiptv
 辽宁卫视,http://116.128.243.121:85/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁卫视,http://123.159.71.4:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 辽宁卫视,http://139.227.221.198:85/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
-辽宁卫视,http://my1nas.dpdns.org:1234/630291707
+湖南卫视,http://120.238.84.45:9901/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://116.128.243.121:85/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://123.159.71.4:85/tsfile/live/1031_1.m3u8?key=txiptv&playlive=0&authid=0
 湖南卫视,http://139.227.221.198:85/tsfile/live/0128_1.m3u8?key=txiptv&playlive=0&authid=0
+广东卫视,http://120.238.84.45:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://116.128.243.121:85/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://123.159.71.4:85/tsfile/live/1034_1.m3u8?key=txiptv&playlive=0&authid=0
 广东卫视,http://139.227.221.198:85/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
-广东卫视,http://my1nas.dpdns.org:1234/608831231
-大湾区卫视,http://my1nas.dpdns.org:1234/608917627
+广东卫视,http://183.239.248.218:8181/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://120.238.84.45:9901/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://221.221.137.78:8888/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://123.159.71.4:85/tsfile/live/1043_1.m3u8?key=txiptv&playlive=0&authid=0
-河南卫视,http://my1nas.dpdns.org:1234/790187291
+河南卫视,http://183.239.248.218:8181/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视,http://120.238.84.45:9901/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0
 河北卫视,http://116.128.243.121:85/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 河北卫视,http://221.221.137.78:8888/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 河北卫视,http://139.227.221.198:85/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
-河北卫视,http://my1nas.dpdns.org:1234/962042070
-宁夏卫视,http://my1nas.dpdns.org:1234/738910535
-青海卫视,http://my1nas.dpdns.org:1234/947472506
-兵团卫视,http://my1nas.dpdns.org:1234/956923145
-三沙卫视,http://my1nas.dpdns.org:1234/961023778
+宁夏卫视,http://120.238.84.45:9901/tsfile/live/1076_1.m3u8?key=txiptv&playlive=1&authid=0
+甘肃卫视,http://120.238.84.45:9901/tsfile/live/1079_1.m3u8?key=txiptv&playlive=1&authid=0
+青海卫视,http://120.238.84.45:9901/tsfile/live/1073_1.m3u8?key=txiptv&playlive=1&authid=0
+西藏卫视,http://120.238.84.45:9901/tsfile/live/1077_1.m3u8?key=txiptv&playlive=1&authid=0
+兵团卫视,http://120.238.84.45:9901/tsfile/live/1080_1.m3u8?key=txiptv&playlive=1&authid=0
+三沙卫视,http://183.239.248.218:8181/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://120.238.84.45:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://116.128.243.121:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-嘉佳卡通,http://my1nas.dpdns.org:1234/614952364
+嘉佳卡通,http://120.238.84.45:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
+嘉佳卡通,http://183.239.248.218:8181/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 卡酷少儿,http://116.128.243.121:85/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-山东教育卫视,http://my1nas.dpdns.org:1234/609154353
+山东教育卫视,http://120.238.84.45:9901/tsfile/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0
 
-江苏节目,#genre#
-江苏教育,http://my1nas.dpdns.org:1234/628008321
-财富天下,http://my1nas.dpdns.org:1234/956923159
+港台节目,#genre#
+翡翠台,http://120.238.84.45:9901/tsfile/live/1103_1.m3u8?key=txiptv&playlive=1&authid=0
+明珠台,http://120.238.84.45:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+
+上海节目,#genre#
+都市剧场,http://120.238.84.45:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 
 湖南节目,#genre#
 湖南都市,http://116.128.243.121:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -161,11 +191,18 @@ CHC动作电影,http://my1nas.dpdns.org:1234/644368714
 湖南娱乐,http://116.128.243.121:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南教育,http://116.128.243.121:85/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 
+广东频道,#genre#
+广东珠江,http://120.238.84.45:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+广东新闻,http://120.238.84.45:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+广东民生,http://120.238.84.45:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+岭南戏曲,http://120.238.84.45:9901/tsfile/live/1095_1.m3u8?key=txiptv&playlive=1&authid=0
+广东体育,http://120.238.84.45:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+
 地方频道,#genre#
-财富天下,http://my1nas.dpdns.org:1234/956923159
+少儿动画,http://120.238.84.45:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
+经典电影,http://120.238.84.45:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
 
 未分类节目,#genre#
-24小时城市联赛轮播台,http://my1nas.dpdns.org:1234/915512915
 BRTV冬奥纪实,http://183.243.90.126:9003/hls/26/index.m3u8
 BRTV北京卫视,http://183.243.90.126:9003/hls/21/index.m3u8
 BRTV卡酷动画,http://183.243.90.126:9003/hls/25/index.m3u8
@@ -173,34 +210,25 @@ BRTV影视,http://183.243.90.126:9003/hls/20/index.m3u8
 BRTV文艺,http://183.243.90.126:9003/hls/18/index.m3u8
 BRTV新闻,http://183.243.90.126:9003/hls/24/index.m3u8
 BRTV科教,http://183.243.90.126:9003/hls/19/index.m3u8
-BWF 1/16决赛 1号场地 01:00,http://my1nas.dpdns.org:1234/968329854
-BWF 1/16决赛 1号场地 15:00,http://my1nas.dpdns.org:1234/968329802
-BWF 1/16决赛 1号场地英文视角 15:00,http://my1nas.dpdns.org:1234/968329921
-BWF 1/16决赛 2号场地 15:10,http://my1nas.dpdns.org:1234/968329874
-BWF 1/16决赛 3号场地 15:10,http://my1nas.dpdns.org:1234/968329904
-BWF 1/8决赛 1号场地 01:00,http://my1nas.dpdns.org:1234/968330013
-BWF 1/8决赛 1号场地 15:00,http://my1nas.dpdns.org:1234/968329982
-BWF 1/8决赛 1号场地英文视角 15:00,http://my1nas.dpdns.org:1234/968330094
-BWF 1/8决赛 2号场地 15:00,http://my1nas.dpdns.org:1234/968330034
-BWF 1/8决赛 2号场地 23:00,http://my1nas.dpdns.org:1234/968330052
-BWF 1/8决赛 2号场地英文视角 15:00,http://my1nas.dpdns.org:1234/968330127
-BWF 1/8决赛 3号场地 15:10,http://my1nas.dpdns.org:1234/968330090
-BWF 凤凰率先晋级！胡哲安不敌拉尼尔 1号场地 15:00,http://my1nas.dpdns.org:1234/968329677
 CCTV1-综合,http://116.128.243.121:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1-综合,http://221.221.137.78:8888/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1-综合,http://123.159.71.4:85/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV1-综合,http://139.227.221.198:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV1-综合,http://183.239.248.218:8181/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV10-科教,http://116.128.243.121:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV10-科教,http://221.221.137.78:8888/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV10-科教,http://123.159.71.4:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV10-科教,http://139.227.221.198:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV10-科教,http://183.239.248.218:8181/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV11-戏曲,http://116.128.243.121:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV11-戏曲,http://123.159.71.4:85/tsfile/live/1023_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV11-戏曲,http://139.227.221.198:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV11-戏曲,http://183.239.248.218:8181/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV12-社会与法,http://116.128.243.121:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV12-社会与法,http://221.221.137.78:8888/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV12-社会与法,http://123.159.71.4:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV12-社会与法,http://139.227.221.198:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV12-社会与法,http://183.239.248.218:8181/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13-新闻,http://116.128.243.121:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13-新闻,http://221.221.137.78:8888/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13-新闻,http://123.159.71.4:85/tsfile/live/1025_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -211,21 +239,22 @@ CCTV14-少儿,http://139.227.221.198:85/tsfile/live/0014_1.m3u8?key=txiptv&playl
 CCTV15-音乐,http://116.128.243.121:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15-音乐,http://123.159.71.4:85/tsfile/live/1027_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV15-音乐,http://139.227.221.198:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV15-音乐,http://183.239.248.218:8181/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV16-奥林匹克,http://221.221.137.78:8888/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV17农业农村,http://my1nas.dpdns.org:1234/673168256
 CCTV2-财经,http://116.128.243.121:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2-财经,http://221.221.137.78:8888/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2-财经,http://123.159.71.4:85/tsfile/live/1014_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV2-财经,http://139.227.221.198:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV2-财经,http://183.239.248.218:8181/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3-综艺,http://116.128.243.121:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3-综艺,http://123.159.71.4:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV3-综艺,http://139.227.221.198:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV4-国际,http://116.128.243.121:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4-国际,http://221.221.137.78:8888/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4-国际,http://139.227.221.198:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV4-国际,http://183.239.248.218:8181/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5+体育赛事,http://116.128.243.121:85/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5+体育赛事,http://221.221.137.78:8888/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5+体育赛事,http://my1nas.dpdns.org:1234/641886773
 CCTV5-体育,http://116.128.243.121:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5-体育,http://221.221.137.78:8888/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5-体育,http://123.159.71.4:85/tsfile/live/1017_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -238,6 +267,7 @@ CCTV7-军事,http://116.128.243.121:85/tsfile/live/0007_1.m3u8?key=txiptv&playli
 CCTV7-军农,http://221.221.137.78:8888/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV7-军农,http://123.159.71.4:85/tsfile/live/1019_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV7-军农,http://139.227.221.198:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV7-军农,http://183.239.248.218:8181/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV8-电视剧,http://116.128.243.121:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV8-电视剧,http://123.159.71.4:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV8-电视剧,http://139.227.221.198:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -245,187 +275,33 @@ CCTV9-纪录,http://116.128.243.121:85/tsfile/live/0009_1.m3u8?key=txiptv&playli
 CCTV9-纪录,http://221.221.137.78:8888/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV9-纪录,http://123.159.71.4:85/tsfile/live/1021_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV9-纪录,http://139.227.221.198:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
-CGTN外语纪录,http://my1nas.dpdns.org:1234/609006487
-CGTN西班牙语,http://my1nas.dpdns.org:1234/609006450
-CGTN阿拉伯语,http://my1nas.dpdns.org:1234/609154345
-JCK JCK战觉城王者系列017：赛前新闻发布会 2026JCK战觉城王者系列017：赛前新闻发布会 16:00,http://my1nas.dpdns.org:1234/968352867
-JCK JCK战觉城王者系列017：赛前新闻发布会 JCK战觉城王者系列第017期赛前新闻发布会全场回放（赛场原声） 16:00,http://my1nas.dpdns.org:1234/968360104
-NBA 凯尔特人VS黄蜂 英文原声 07:25,http://my1nas.dpdns.org:1234/968238229
-NBA 凯尔特人VS黄蜂 蔡凯臣 07:25,http://my1nas.dpdns.org:1234/968238249
-NBA 国王VS开拓者 盛哲 09:55,http://my1nas.dpdns.org:1234/968238149
-NBA 国王VS开拓者 英文原声 09:55,http://my1nas.dpdns.org:1234/968238090
-NBA 奇才VS篮网 全场回放（王琰博） 06:55,http://my1nas.dpdns.org:1234/968350021
-NBA 奇才VS篮网 全场回放（英文原声） 06:55,http://my1nas.dpdns.org:1234/968351521
-NBA 尼克斯VS森林狼 全场回放（AI字幕） 07:25,http://my1nas.dpdns.org:1234/968351055
-NBA 尼克斯VS森林狼 全场回放（英文原声） 07:25,http://my1nas.dpdns.org:1234/968352278
-NBA 尼克斯VS森林狼 全场回放（邢晨） 07:25,http://my1nas.dpdns.org:1234/968350829
-NBA 开拓者VS狮子 全场回放（英文原声） 03:55,http://my1nas.dpdns.org:1234/968347988
-NBA 开拓者VS狮子 全场回放（邵化谦） 03:55,http://my1nas.dpdns.org:1234/968347411
-NBA 快船VS掘金 孙博 10:25,http://my1nas.dpdns.org:1234/968237946
-NBA 快船VS掘金 智能字幕 10:25,http://my1nas.dpdns.org:1234/968280450
-NBA 快船VS掘金 英文原声 10:25,http://my1nas.dpdns.org:1234/968237880
-NBA 森林狼VS活塞 英文原声 07:55,http://my1nas.dpdns.org:1234/968237718
-NBA 森林狼VS活塞 邢晨 07:55,http://my1nas.dpdns.org:1234/968237748
-NBA 湖人VS勇士 英文原声 09:55,http://my1nas.dpdns.org:1234/968237959
-NBA 湖人VS勇士 蔡凯臣 季孟年 秋童 09:45,http://my1nas.dpdns.org:1234/968237987
-NBA 热火VS篮网 张泽欣 07:25,http://my1nas.dpdns.org:1234/968238341
-NBA 热火VS篮网 英文原声 07:25,http://my1nas.dpdns.org:1234/968238328
-NBA 爵士VS马刺 全场回放（王晓晨） 08:55,http://my1nas.dpdns.org:1234/968352499
-NBA 爵士VS马刺 全场回放（英文原声） 08:55,http://my1nas.dpdns.org:1234/968353275
-NBA 独行侠VS鹈鹕 盛哲 07:55,http://my1nas.dpdns.org:1234/968238276
-NBA 独行侠VS鹈鹕 英文原声 07:55,http://my1nas.dpdns.org:1234/968237577
-NBA 猛龙VS尼克斯 刘芳宇 06:55,http://my1nas.dpdns.org:1234/968237720
-NBA 猛龙VS尼克斯 智能字幕 06:55,http://my1nas.dpdns.org:1234/968280382
-NBA 猛龙VS尼克斯 英文原声 06:55,http://my1nas.dpdns.org:1234/968237681
-NBA 老鹰VS雷霆 全场回放（盛哲） 06:55,http://my1nas.dpdns.org:1234/968349888
-NBA 老鹰VS雷霆 全场回放（英文原声） 06:55,http://my1nas.dpdns.org:1234/968350904
-NBA 雄鹿VS公牛 智能字幕 07:55,http://my1nas.dpdns.org:1234/968280442
-NBA 雄鹿VS公牛 李嘉伟 07:55,http://my1nas.dpdns.org:1234/968237653
-NBA 雄鹿VS公牛 英文原声 07:55,http://my1nas.dpdns.org:1234/968237607
-NBA 雷霆VS步行者 智能字幕 07:55,http://my1nas.dpdns.org:1234/968280426
-NBA 雷霆VS步行者 罗森 07:55,http://my1nas.dpdns.org:1234/968237818
-NBA 雷霆VS步行者 英文原声 07:55,http://my1nas.dpdns.org:1234/968237793
-NBA 马刺VS太阳 王冠证 07:55,http://my1nas.dpdns.org:1234/968237820
-NBA 马刺VS太阳 英文原声 07:55,http://my1nas.dpdns.org:1234/968237808
-NBA 魔术VS骑士 姜帆 06:55,http://my1nas.dpdns.org:1234/968237592
-NBA 魔术VS骑士 英文原声 06:55,http://my1nas.dpdns.org:1234/968237600
-NBA经典赛事 菲尼克斯太阳 vs 圣安东尼奥马刺 伪直播 18:00,http://my1nas.dpdns.org:1234/968169317
-NBA经典赛事 金州勇士 vs 洛杉矶湖人 伪直播 18:00,http://my1nas.dpdns.org:1234/968169339
-UFC白大拿挑战者系列赛 《白大拿挑战者系列赛》第10季10周 智能字幕 06:55,http://my1nas.dpdns.org:1234/968352784
-UFC白大拿挑战者系列赛 《白大拿挑战者系列赛》第10季10周 英文原声 06:55,http://my1nas.dpdns.org:1234/968351810
-UFC白大拿挑战者系列赛 《白大拿挑战者系列赛》第10季10周 郑文祺 06:55,http://my1nas.dpdns.org:1234/968351797
-上海新闻综合,http://my1nas.dpdns.org:1234/651632657
-上海第一财经,http://my1nas.dpdns.org:1234/608780988
-上视东方影视,http://my1nas.dpdns.org:1234/617290047
-东亚超级联赛 东京电击VS乌兰巴托野马 英文解说 17:50,http://my1nas.dpdns.org:1234/968074700
-东亚超级联赛 东京电击VS乌兰巴托野马 赛场原声 17:50,http://my1nas.dpdns.org:1234/968074684
-东亚超级联赛 长崎维尔卡VS釜山KCC宙斯盾 英文解说 17:50,http://my1nas.dpdns.org:1234/968074716
-东亚超级联赛 长崎维尔卡VS釜山KCC宙斯盾 赛场原声 17:50,http://my1nas.dpdns.org:1234/968074735
-中乙 成都蓉城希拉谷VS青岛红狮 全场回放（官方解说） 19:25,http://my1nas.dpdns.org:1234/968364873
-中华特产,http://my1nas.dpdns.org:1234/959986618
-中国农林卫视,http://my1nas.dpdns.org:1234/956904896
-中国自行车运动协会系列赛 UCI上海场地车世锦赛 解说 17:00,http://my1nas.dpdns.org:1234/968235437
-中国自行车运动协会系列赛 UCI上海场地车世锦赛 解说 18:30,http://my1nas.dpdns.org:1234/968235428
-乒乓球经典赛事 重温林诗栋男团半决赛3-2篠塚大登 经典赛事 19:00,http://my1nas.dpdns.org:1234/968285628
-乒乓球经典赛事 重温梁靖崑男团半决赛鏖战五局胜松岛 全场回放 19:00,http://my1nas.dpdns.org:1234/968337385
-乒乓球经典赛事 重温蒯曼女团决赛3-1击败早田希娜 经典赛事 19:00,http://my1nas.dpdns.org:1234/968285617
-亚冠二级 万隆VS电讯体工 洪宇青 20:00,http://my1nas.dpdns.org:1234/968170645
-亚冠二级 万隆VS电讯体工 赛场原声 20:00,http://my1nas.dpdns.org:1234/968171207
-亚冠二级 东孟加拉VS巴格达警察 全场回放（乔迁） 21:30,http://my1nas.dpdns.org:1234/968365561
-亚冠二级 古晋VS杰志 吴子越 20:00,http://my1nas.dpdns.org:1234/968170902
-亚冠二级 古晋VS杰志 赛场原声 20:00,http://my1nas.dpdns.org:1234/968171075
-亚冠二级 墨尔本胜利VS首尔 刘洋 15:30,http://my1nas.dpdns.org:1234/968170637
-亚冠二级 墨尔本胜利VS首尔 赛场原声 15:30,http://my1nas.dpdns.org:1234/968171199
-亚冠二级 大埔VS狮城水手 张天翼 17:45,http://my1nas.dpdns.org:1234/968170707
-亚冠二级 大埔VS狮城水手 赛场原声 17:45,http://my1nas.dpdns.org:1234/968171214
-亚冠二级 巴吞联VS阿德莱德联 周楚雄 20:00,http://my1nas.dpdns.org:1234/968170745
-亚冠二级 巴吞联VS阿德莱德联 赛场原声 20:00,http://my1nas.dpdns.org:1234/968171264
-亚冠二级 布赖代合作VS赖扬 赛场原声 23:45,http://my1nas.dpdns.org:1234/968171145
-亚冠二级 布赖代合作VS赖扬 鹿中原 23:45,http://my1nas.dpdns.org:1234/968170527
-亚冠二级 柴桢VS上海申花 石庆圣 李彦 魏欣怡 19:45,http://my1nas.dpdns.org:1234/968170820
-亚冠二级 柴桢VS上海申花 赛场原声 20:00,http://my1nas.dpdns.org:1234/968171302
-亚冠二级 江原VS金边皇冠 赛场原声 17:45,http://my1nas.dpdns.org:1234/968171242
-亚冠二级 江原VS金边皇冠 鹿中原 17:45,http://my1nas.dpdns.org:1234/968170730
-亚冠二级 淡滨尼流浪者VS町田泽维亚 刘洋 20:00,http://my1nas.dpdns.org:1234/968170782
-亚冠二级 淡滨尼流浪者VS町田泽维亚 赛场原声 20:00,http://my1nas.dpdns.org:1234/968171276
-亚冠二级 科威特竞技VS永恒体育 刘一臻 23:45,http://my1nas.dpdns.org:1234/968356488
-亚冠二级 科威特竞技VS永恒体育 赛场原声 23:45,http://my1nas.dpdns.org:1234/968356393
-亚冠二级 穆哈拉格VS戈尔戈哈尔锡尔詹 乔迁 23:45,http://my1nas.dpdns.org:1234/968170454
-亚冠二级 穆哈拉格VS戈尔戈哈尔锡尔詹 赛场原声 23:45,http://my1nas.dpdns.org:1234/968171118
-亚冠二级 纳萨夫VS阿布扎比统一 吴子越 21:30,http://my1nas.dpdns.org:1234/968170403
-亚冠二级 纳萨夫VS阿布扎比统一 赛场原声 21:30,http://my1nas.dpdns.org:1234/968171112
-亚冠二级 费萨里体育VS阿尔纳达 洪宇青 02:00,http://my1nas.dpdns.org:1234/968170577
-亚冠二级 费萨里体育VS阿尔纳达 赛场原声 02:00,http://my1nas.dpdns.org:1234/968171150
-亚冠二级 阿布扎比半岛足球俱乐部VS阿尔卡达格 周楚雄 23:45,http://my1nas.dpdns.org:1234/968170487
-亚冠二级 阿布扎比半岛足球俱乐部VS阿尔卡达格 赛场原声 23:45,http://my1nas.dpdns.org:1234/968171133
-亚冠精英 上海海港VS大田韩亚市民 全场回放（娄一晨、刘越、邵凌霄） 17:45,http://my1nas.dpdns.org:1234/968363005
-亚冠精英 京都不死鸟VS拉查武里 全场回放（孙雨轩） 17:45,http://my1nas.dpdns.org:1234/968363014
-亚冠精英 利雅得胜利VS费尔干纳石油工人 全场回放（涂远） 02:00,http://my1nas.dpdns.org:1234/968347066
-亚冠精英 加拉法体育VS德黑兰独立 全场回放（李霄） 02:00,http://my1nas.dpdns.org:1234/968346487
-亚冠精英 吉达联合VS迪拜青年国民 石庆圣 02:00,http://my1nas.dpdns.org:1234/968170594
-亚冠精英 吉达联合VS迪拜青年国民 赛场原声 02:00,http://my1nas.dpdns.org:1234/968170583
-亚冠精英 大不里士拖拉机VS北部区体育 全场回放（孙雨轩） 23:45,http://my1nas.dpdns.org:1234/968341927
-亚冠精英 巴格达空军VS艾因 全场回放（张昊泽） 02:00,http://my1nas.dpdns.org:1234/968344869
-亚冠精英 柏太阳神VS泰港 盛斌 17:45,http://my1nas.dpdns.org:1234/968171018
-亚冠精英 柏太阳神VS泰港 赛场原声 17:45,http://my1nas.dpdns.org:1234/968170994
-亚冠精英 武里南联VS北京国安 全场回放（苏东、董方卓、程思钦） 20:00,http://my1nas.dpdns.org:1234/968364628
-亚冠精英 河内公安VS鹿岛鹿角 全场回放（盛斌） 20:00,http://my1nas.dpdns.org:1234/968364656
-亚冠精英 浦项铁人VS柔佛新山 全场回放（张昊泽） 17:45,http://my1nas.dpdns.org:1234/968362812
-亚冠精英 神户胜利船VS全北现代 涂远 17:45,http://my1nas.dpdns.org:1234/968170991
-亚冠精英 神户胜利船VS全北现代 赛场原声 17:45,http://my1nas.dpdns.org:1234/968170979
-亚冠精英 纽卡斯尔喷气机足球俱乐部VS大阪钢巴 全场回放（鲁靖明） 15:30,http://my1nas.dpdns.org:1234/968360616
-亚冠精英 萨德VS利雅得新月 兰子非 23:45,http://my1nas.dpdns.org:1234/968170552
-亚冠精英 萨德VS利雅得新月 赛场原声 23:45,http://my1nas.dpdns.org:1234/968170534
-亚冠精英 迪拜祈祷VS吉达国民 全场回放（鲁靖明） 23:45,http://my1nas.dpdns.org:1234/968342295
-优漫卡通频道,http://my1nas.dpdns.org:1234/626064703
-体坛名栏汇,http://my1nas.dpdns.org:1234/629943305
-体育休闲频道,http://my1nas.dpdns.org:1234/626064707
-公共新闻频道,http://my1nas.dpdns.org:1234/626064693
-南京十八频道,http://my1nas.dpdns.org:1234/838151753
-南京教科频道,http://my1nas.dpdns.org:1234/838153729
-南京新闻综合频道,http://my1nas.dpdns.org:1234/838109047
-南方影视,http://my1nas.dpdns.org:1234/614961829
-南通新闻综合,http://my1nas.dpdns.org:1234/955227985
-和美乡途轮播台,http://my1nas.dpdns.org:1234/713591450
-咪咕体育日报 undefined 咪咕体育日报 第210期 08:00,http://my1nas.dpdns.org:1234/968047750
-咪咕体育日报 undefined 咪咕体育日报 第211期 08:00,http://my1nas.dpdns.org:1234/968047775
-四海钓鱼,http://my1nas.dpdns.org:1234/637444975
-宜兴新闻综合,http://my1nas.dpdns.org:1234/955227996
-宿迁新闻综合,http://my1nas.dpdns.org:1234/639731832
-广东珠江频道,http://my1nas.dpdns.org:1234/639731952
-建党105周年巡礼,http://my1nas.dpdns.org:1234/713600957
-徐州新闻综合,http://my1nas.dpdns.org:1234/639731747
-意甲 亚特兰大VS威尼斯 全场回放（谭逸雄） 00:15,http://my1nas.dpdns.org:1234/968342259
-意甲 都灵VS乌迪内斯 全场回放 02:30,http://my1nas.dpdns.org:1234/968349846
-意甲 都灵VS乌迪内斯 全场回放（鲁靖明） 02:30,http://my1nas.dpdns.org:1234/968347062
-新动力量创一流,http://my1nas.dpdns.org:1234/713589837
-新片放映厅,http://my1nas.dpdns.org:1234/619495952
-最强综艺趴,http://my1nas.dpdns.org:1234/629942228
-江苏国际,http://my1nas.dpdns.org:1234/626064674
-江苏城市频道,http://my1nas.dpdns.org:1234/626064714
-江苏影视频道,http://my1nas.dpdns.org:1234/626064697
-江苏综艺频道,http://my1nas.dpdns.org:1234/626065193
-泰州新闻综合,http://my1nas.dpdns.org:1234/639731818
-浙BA 宁海78-75诸暨 2026浙江省城市篮球联赛全场回放：宁海VS诸暨（赛场原声） 19:30,http://my1nas.dpdns.org:1234/968365407
-浙BA 海宁VS温州 赛场原声 19:30,http://my1nas.dpdns.org:1234/968179882
-浙BA 绍兴VS瑞安 赛场原声 19:30,http://my1nas.dpdns.org:1234/968179890
-浪琴表北京国际马术大师赛 浪琴表北京国际马术大师赛day1 清流播出 14:00,http://my1nas.dpdns.org:1234/968209229
-海南广播电视总台少儿频道,http://my1nas.dpdns.org:1234/962067523
-海南广播电视总台文旅频道,http://my1nas.dpdns.org:1234/962067526
-海南广播电视总台新闻频道,http://my1nas.dpdns.org:1234/962067517
-海南广播电视总台社会与法频道,http://my1nas.dpdns.org:1234/962045223
-海南广播电视总台自贸频道,http://my1nas.dpdns.org:1234/962045226
-海峡卫视,http://my1nas.dpdns.org:1234/849119120
-淮安新闻综合,http://my1nas.dpdns.org:1234/639731826
+CCTV兵器高清,http://120.238.84.45:9901/tsfile/live/1096_1.m3u8?key=txiptv&playlive=1&authid=0
+中央13新闻,http://183.131.110.207:85/tsfile/live/29/2016_1.m3u8?key=txiptv
+中央1台,http://183.131.110.207:85/tsfile/live/1/2001_1.m3u8?key=txiptv
+中央4中文国际,http://183.131.110.207:85/tsfile/live/5/2004_1.m3u8?key=txiptv
+中央6电影,http://183.131.110.207:85/tsfile/live/8/2006_1.m3u8?key=txiptv
+兴宁台,http://120.238.84.45:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+内蒙古,http://120.238.84.45:9901/tsfile/live/1072_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰中文 高清,http://183.239.248.218:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰中文台,http://120.238.84.45:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰资讯 高清,http://183.239.248.218:8181/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰香港 高清,http://183.239.248.218:8181/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+劲爆体育,http://120.238.84.45:9901/tsfile/live/1105_1.m3u8?key=txiptv&playlive=1&authid=0
+南方一高清,http://120.238.84.45:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+南方二高清,http://120.238.84.45:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+南方五高清,http://120.238.84.45:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+南方四高清,http://120.238.84.45:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+央视文化,http://120.238.84.45:9901/tsfile/live/1092_1.m3u8?key=txiptv&playlive=1&authid=0
+少儿卫视,http://120.238.84.45:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
+广州台 高清,http://183.239.248.218:8181/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
+新视觉高清,http://120.238.84.45:9901/tsfile/live/1097_1.m3u8?key=txiptv&playlive=1&authid=0
+梅县台,http://120.238.84.45:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+梅州-1,http://120.238.84.45:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+梅州-2,http://120.238.84.45:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+梅州导视,http://120.238.84.45:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+梅州山歌文艺,http://120.238.84.45:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视 高清,http://183.239.248.218:8181/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南公共,http://116.128.243.121:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-溧水新闻综合,http://my1nas.dpdns.org:1234/639737327
-熊猫频道01高清,http://my1nas.dpdns.org:1234/609158151
-熊猫频道1,http://my1nas.dpdns.org:1234/608933610
-熊猫频道10,http://my1nas.dpdns.org:1234/609169285
-熊猫频道2,http://my1nas.dpdns.org:1234/608933640
-熊猫频道3,http://my1nas.dpdns.org:1234/608934619
-熊猫频道4,http://my1nas.dpdns.org:1234/608934721
-熊猫频道5,http://my1nas.dpdns.org:1234/608935104
-熊猫频道6,http://my1nas.dpdns.org:1234/608935797
-熊猫频道7,http://my1nas.dpdns.org:1234/609169286
-熊猫频道8,http://my1nas.dpdns.org:1234/609169287
-熊猫频道9,http://my1nas.dpdns.org:1234/609169226
-环广西公路自行车世界巡回赛 环广西公路自行车世界巡回赛 2026环广西公路自行车世界巡回赛Day1全场回放（官方解说） 12:30,http://my1nas.dpdns.org:1234/968357361
-环广西公路自行车世界巡回赛 环广西公路自行车世界巡回赛 解说 13:40,http://my1nas.dpdns.org:1234/968202495
-环广西公路自行车世界巡回赛 环广西公路自行车世界巡回赛 解说 14:30,http://my1nas.dpdns.org:1234/968202511
-盐城新闻综合,http://my1nas.dpdns.org:1234/639731825
-经典动画大集合,http://my1nas.dpdns.org:1234/629942219
-经典香港电影,http://my1nas.dpdns.org:1234/625703337
-英超 考文垂VS纽卡斯尔联 全场回放（AI观赛） 02:55,http://my1nas.dpdns.org:1234/968346957
-英超 考文垂VS纽卡斯尔联 全场回放（英文原声） 02:55,http://my1nas.dpdns.org:1234/968347147
-英超 考文垂VS纽卡斯尔联 全场回放（郭灿亮） 02:55,http://my1nas.dpdns.org:1234/968346909
-西甲 莱万特VS塞维利亚 全场回放（AI智慧观赛） 02:45,http://my1nas.dpdns.org:1234/968347262
-西甲 莱万特VS塞维利亚 全场回放（周楚雄） 02:45,http://my1nas.dpdns.org:1234/968347215
-赛事最经典,http://my1nas.dpdns.org:1234/646596895
-连云港新闻综合,http://my1nas.dpdns.org:1234/639731715
-镇江新闻综合,http://my1nas.dpdns.org:1234/639731783
-陕西体育休闲频道,http://my1nas.dpdns.org:1234/956909356
-陕西新闻资讯频道,http://my1nas.dpdns.org:1234/956909289
-陕西秦腔频道,http://my1nas.dpdns.org:1234/956909303
-陕西都市青春频道,http://my1nas.dpdns.org:1234/956909358
-陕西银龄频道,http://my1nas.dpdns.org:1234/956909362
+炫动卡通,http://120.238.84.45:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
+相声小品,http://120.238.84.45:9901/tsfile/live/1081_1.m3u8?key=txiptv&playlive=1&authid=0
+谍战剧场,http://120.238.84.45:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
