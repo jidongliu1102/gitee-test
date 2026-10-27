@@ -1,662 +1,423 @@
 央视频道,#genre#
 CCTV1,http://120.238.84.45:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV1,http://221.179.116.213:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://49.70.189.172:60001/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV1,http://123.115.202.110:5001/608807420
-CCTV1,http://123.115.202.110:5001/relay/ysp-cctv1.m3u8
-CCTV1,http://113.124.186.195:7788/608807420
+CCTV1,http://123.131.38.84:1234/608807420
 CCTV2,http://120.238.84.45:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2,http://221.179.116.213:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://49.70.189.172:60001/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2,http://123.115.202.110:5001/631780532
-CCTV2,http://123.115.202.110:5001/relay/ysp-cctv2.m3u8
-CCTV2,http://113.124.186.195:7788/631780532
+CCTV2,http://123.131.38.84:1234/631780532
+CCTV2,http://110.72.82.161:808/hls/97/index.m3u8
 CCTV3,http://120.238.84.45:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV3,http://221.179.116.213:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV3,http://123.115.202.110:5001/624878271
-CCTV3,http://123.115.202.110:5001/relay/ysp-cctv3.m3u8
 CCTV3,http://110.72.87.89:808/hls/37/index.m3u8
 CCTV3,http://110.72.66.3:808/hls/37/index.m3u8
 CCTV3,http://110.72.64.226:808/hls/37/index.m3u8
-CCTV3,http://113.124.186.195:7788/624878271
+CCTV3,http://123.131.38.84:1234/624878271
+CCTV3,http://110.72.82.161:808/hls/37/index.m3u8
 CCTV4,http://120.238.84.45:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4,http://221.179.116.213:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4,http://123.115.202.110:5001/631780421
-CCTV4,http://123.115.202.110:5001/relay/ysp-cctv4.m3u8
-CCTV4,http://113.124.186.195:7788/631780421
-CCTV4欧洲,http://123.115.202.110:5001/608807419
-CCTV4欧洲,http://113.124.186.195:7788/608807419
-CCTV4美洲,http://123.115.202.110:5001/608807416
-CCTV4美洲,http://113.124.186.195:7788/608807416
+CCTV4,http://123.131.38.84:1234/631780421
+CCTV4,http://110.72.82.161:808/hls/113/index.m3u8
+CCTV4欧洲,http://123.131.38.84:1234/608807419
+CCTV4美洲,http://123.131.38.84:1234/608807416
 CCTV5,http://120.238.84.45:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5,http://221.179.116.213:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5,http://123.115.202.110:5001/641886683
-CCTV5,http://123.115.202.110:5001/relay/ysp-cctv5.m3u8
 CCTV5,http://110.72.87.89:808/hls/38/index.m3u8
 CCTV5,http://110.72.66.3:808/hls/38/index.m3u8
 CCTV5,http://110.72.64.226:808/hls/38/index.m3u8
-CCTV5,http://113.124.186.195:7788/641886683
+CCTV5,http://123.131.38.84:1234/641886683
+CCTV5,http://110.72.82.161:808/hls/38/index.m3u8
 CCTV5+,http://120.238.84.45:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5+,http://221.179.116.213:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5+,http://110.72.87.89:808/hls/14/index.m3u8
 CCTV5+,http://110.72.66.3:808/hls/14/index.m3u8
 CCTV5+,http://110.72.64.226:808/hls/14/index.m3u8
+CCTV5+,http://110.72.82.161:808/hls/14/index.m3u8
 CCTV6,http://120.238.84.45:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV6,http://221.179.116.213:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV6,http://123.115.202.110:5001/624878396
-CCTV6,http://123.115.202.110:5001/relay/ysp-cctv6.m3u8
 CCTV6,http://110.72.87.89:808/hls/39/index.m3u8
 CCTV6,http://110.72.66.3:808/hls/39/index.m3u8
 CCTV6,http://110.72.64.226:808/hls/39/index.m3u8
-CCTV6,http://113.124.186.195:7788/624878396
+CCTV6,http://123.131.38.84:1234/624878396
+CCTV6,http://110.72.82.161:808/hls/39/index.m3u8
 CCTV7,http://120.238.84.45:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV7,http://221.179.116.213:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV7,http://123.115.202.110:5001/673168121
-CCTV7,http://123.115.202.110:5001/relay/ysp-cctv7.m3u8
 CCTV7,http://110.72.87.89:808/hls/5/index.m3u8
 CCTV7,http://110.72.66.3:808/hls/5/index.m3u8
 CCTV7,http://110.72.64.226:808/hls/5/index.m3u8
-CCTV7,http://113.124.186.195:7788/673168121
+CCTV7,http://123.131.38.84:1234/673168121
+CCTV7,http://110.72.82.161:808/hls/5/index.m3u8
+CCTV7,http://110.72.82.161:808/hls/98/index.m3u8
 CCTV8,http://120.238.84.45:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV8,http://221.179.116.213:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV8,http://123.115.202.110:5001/624878356
-CCTV8,http://123.115.202.110:5001/relay/ysp-cctv8.m3u8
 CCTV8,http://110.72.87.89:808/hls/40/index.m3u8
 CCTV8,http://110.72.66.3:808/hls/40/index.m3u8
 CCTV8,http://110.72.64.226:808/hls/40/index.m3u8
-CCTV8,http://113.124.186.195:7788/624878356
+CCTV8,http://123.131.38.84:1234/624878356
+CCTV8,http://110.72.82.161:808/hls/40/index.m3u8
 CCTV9,http://120.238.84.45:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV9,http://221.179.116.213:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV9,http://49.70.189.172:60001/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV9,http://123.115.202.110:5001/673168140
-CCTV9,http://123.115.202.110:5001/relay/ysp-cctv9.m3u8
-CCTV9,http://113.124.186.195:7788/673168140
+CCTV9,http://123.131.38.84:1234/673168140
+CCTV9,http://110.72.82.161:808/hls/119/index.m3u8
 CCTV10,http://120.238.84.45:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10,http://221.179.116.213:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV10,http://49.70.189.172:60001/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10,http://123.115.202.110:5001/624878405
-CCTV10,http://123.115.202.110:5001/relay/ysp-cctv10.m3u8
-CCTV10,http://113.124.186.195:7788/624878405
+CCTV10,http://123.131.38.84:1234/624878405
+CCTV10,http://110.72.82.161:808/hls/99/index.m3u8
 CCTV11,http://120.238.84.45:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV11,http://221.179.116.213:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV11,http://123.115.202.110:5001/667987558
-CCTV11,http://123.115.202.110:5001/relay/ysp-cctv11.m3u8
-CCTV11,http://113.124.186.195:7788/667987558
+CCTV11,http://123.131.38.84:1234/667987558
+CCTV11,http://110.72.82.161:808/hls/100/index.m3u8
 CCTV12,http://120.238.84.45:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV12,http://221.179.116.213:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV12,http://123.115.202.110:5001/673168185
-CCTV12,http://123.115.202.110:5001/relay/ysp-cctv12.m3u8
-CCTV12,http://113.124.186.195:7788/673168185
+CCTV12,http://123.131.38.84:1234/673168185
+CCTV12,http://110.72.82.161:808/hls/101/index.m3u8
 CCTV13,http://120.238.84.45:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13,http://49.70.189.172:60001/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV13,http://123.115.202.110:5001/608807423
-CCTV13,http://123.115.202.110:5001/relay/ysp-cctv13.m3u8
-CCTV13,http://113.124.186.195:7788/608807423
+CCTV13,http://123.131.38.84:1234/608807423
+CCTV13,http://110.72.82.161:808/hls/106/index.m3u8
 CCTV14,http://120.238.84.45:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV14,http://221.179.116.213:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV14,http://49.70.189.172:60001/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV14,http://123.115.202.110:5001/624878440
-CCTV14,http://123.115.202.110:5001/relay/ysp-cctv14.m3u8
-CCTV14,http://113.124.186.195:7788/624878440
+CCTV14,http://123.131.38.84:1234/624878440
+CCTV14,http://110.72.82.161:808/hls/105/index.m3u8
 CCTV15,http://120.238.84.45:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV15,http://221.179.116.213:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15,http://49.70.189.172:60001/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV15,http://123.115.202.110:5001/673168223
-CCTV15,http://123.115.202.110:5001/relay/ysp-cctv15.m3u8
-CCTV15,http://113.124.186.195:7788/673168223
-CCTV16,http://123.115.202.110:5001/relay/ysp-cctv16.m3u8
-CCTV16,http://123.115.202.110:5001/relay/ysp-cctv164k.m3u8
+CCTV15,http://123.131.38.84:1234/673168223
+CCTV15,http://110.72.82.161:808/hls/102/index.m3u8
 CCTV17,http://120.238.84.45:9901/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV17,http://221.179.116.213:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
 CETV1,http://120.238.84.45:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0
-CETV1,http://123.115.202.110:5001/relay/ysp-cetv1.m3u8
-CETV1,http://123.115.202.110:5001/923287154
-CETV1,http://113.124.186.195:7788/923287154
-CETV2,http://123.115.202.110:5001/923287211
-CETV2,http://113.124.186.195:7788/923287211
-CETV4,http://123.115.202.110:5001/923287339
-CETV4,http://113.124.186.195:7788/923287339
+CETV1,http://123.131.38.84:1234/923287154
+CETV2,http://123.131.38.84:1234/923287211
+CETV4,http://123.131.38.84:1234/923287339
 CGTN,http://139.227.221.198:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
-CGTN,http://123.115.202.110:5001/609017205
-CGTN,http://123.115.202.110:5001/relay/ysp-cgtn.m3u8
-CGTN,http://113.124.186.195:7788/609017205
-CGTN纪录,http://123.115.202.110:5001/relay/ysp-cgtnwyjl.m3u8
-CGTN俄语,http://123.115.202.110:5001/609006446
-CGTN俄语,http://123.115.202.110:5001/relay/ysp-cgtney.m3u8
-CGTN俄语,http://113.124.186.195:7788/609006446
-CGTN法语,http://123.115.202.110:5001/609006476
-CGTN法语,http://123.115.202.110:5001/relay/ysp-cgtnfy.m3u8
-CGTN法语,http://113.124.186.195:7788/609006476
+CGTN,http://123.131.38.84:1234/609017205
+CGTN俄语,http://123.131.38.84:1234/609006446
+CGTN法语,http://123.131.38.84:1234/609006476
 
 中数传媒,#genre#
-CHC影迷电影,http://123.115.202.110:5001/952383261
-CHC影迷电影,http://113.124.186.195:7788/952383261
+CHC影迷电影,http://123.131.38.84:1234/952383261
 CHC家庭影院,http://120.238.84.45:9901/tsfile/live/1093_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC家庭影院,http://221.179.116.213:9901/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC家庭影院,http://123.115.202.110:5001/644368373
-CHC家庭影院,http://113.124.186.195:7788/644368373
+CHC家庭影院,http://123.131.38.84:1234/644368373
 CHC动作电影,http://120.238.84.45:9901/tsfile/live/1094_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC动作电影,http://221.179.116.213:9901/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC动作电影,http://123.115.202.110:5001/644368714
-CHC动作电影,http://113.124.186.195:7788/644368714
+CHC动作电影,http://123.131.38.84:1234/644368714
 第一剧场,http://120.238.84.45:9901/tsfile/live/1086_1.m3u8?key=txiptv&playlive=1&authid=0
-第一剧场,http://123.115.202.110:5001/relay/ysp-cctvdyjc.m3u8
 风云剧场,http://120.238.84.45:9901/tsfile/live/1090_1.m3u8?key=txiptv&playlive=1&authid=0
-风云剧场,http://123.115.202.110:5001/relay/ysp-cctvfyjc.m3u8
 风云足球,http://120.238.84.45:9901/tsfile/live/1087_1.m3u8?key=txiptv&playlive=1&authid=0
-风云足球,http://123.115.202.110:5001/relay/ysp-vip-cctvfyzq.m3u8
 风云音乐,http://120.238.84.45:9901/tsfile/live/1089_1.m3u8?key=txiptv&playlive=1&authid=0
-风云音乐,http://123.115.202.110:5001/relay/ysp-vip-cctvfyyl.m3u8
 世界地理,http://120.238.84.45:9901/tsfile/live/1088_1.m3u8?key=txiptv&playlive=1&authid=0
-世界地理,http://123.115.202.110:5001/relay/ysp-vip-cctvsjdl.m3u8
-电视指南,http://123.115.202.110:5001/relay/ysp-vip-cctvdszn.m3u8
 怀旧剧场,http://120.238.84.45:9901/tsfile/live/1091_1.m3u8?key=txiptv&playlive=1&authid=0
-怀旧剧场,http://123.115.202.110:5001/relay/ysp-cctvhjjc.m3u8
-兵器科技,http://123.115.202.110:5001/relay/ysp-vip-cctvbqkj.m3u8
-女性时尚,http://123.115.202.110:5001/relay/ysp-vip-cctvnxss.m3u8
-央视台球,http://123.115.202.110:5001/relay/ysp-vip-cctvtq.m3u8
-央视文化精品,http://123.115.202.110:5001/relay/ysp-vip-cctvwhjp.m3u8
-梨园频道,http://123.115.202.110:5001/hntv-154
-梨园频道,http://113.124.186.195:7788/961930369
-中学生,http://123.115.202.110:5001/708869532
-中学生,http://113.124.186.195:7788/708869532
-武术世界,http://123.115.202.110:5001/hntv-156
-武术世界,http://113.124.186.195:7788/958475359
-书法频道,http://123.115.202.110:5001/968663920
-书法频道,http://113.124.186.195:7788/968663920
+梨园频道,http://123.131.38.84:1234/961930369
+中学生,http://123.131.38.84:1234/708869532
+法治天地,http://110.72.82.161:808/hls/207/index.m3u8
+游戏风云,http://110.72.82.161:808/hls/215/index.m3u8
+武术世界,http://123.131.38.84:1234/958475359
+书法频道,http://123.131.38.84:1234/968663920
 金鹰纪实,http://120.238.84.45:9901/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰纪实,http://116.128.243.121:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-金鹰纪实,http://123.115.202.110:5001/proxy/mgtv-316.m3u8
-发现之旅,http://123.115.202.110:5001/624878970
-发现之旅,http://113.124.186.195:7788/624878970
-国学频道,http://123.115.202.110:5001/relay/ysp-gxpd.m3u8
-国学频道,http://123.115.202.110:5001/hntv-194
-环球旅游,http://113.124.186.195:7788/958475356
-文物宝库,http://123.115.202.110:5001/hntv-155
-老故事,http://123.115.202.110:5001/884121956
-老故事,http://113.124.186.195:7788/884121956
-快乐垂钓,http://123.115.202.110:5001/961930263
-快乐垂钓,http://123.115.202.110:5001/proxy/mgtv-218.m3u8
-快乐垂钓,http://113.124.186.195:7788/961930263
+发现之旅,http://123.131.38.84:1234/624878970
+环球旅游,http://123.131.38.84:1234/958475356
+老故事,http://123.131.38.84:1234/884121956
+快乐垂钓,http://123.131.38.84:1234/961930263
 
 卫视频道,#genre#
 重庆卫视,http://120.238.84.45:9901/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://116.128.243.121:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://139.227.221.198:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
-重庆卫视,http://60.187.245.110:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://123.115.202.110:5001/738910914
-重庆卫视,http://123.115.202.110:5001/relay/ysp-cqws.m3u8
+重庆卫视,http://183.239.248.218:8181/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://60.223.94.230:9003/hls/24/index.m3u8
-重庆卫视,http://113.124.186.195:7788/738910914
+重庆卫视,http://123.131.38.84:1234/738910914
+重庆卫视,http://110.72.82.161:808/hls/33/index.m3u8
 江苏卫视,http://120.238.84.45:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://183.131.110.207:85/tsfile/live/23/2010_1.m3u8?key=txiptv
 江苏卫视,http://116.128.243.121:85/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-江苏卫视,http://221.179.116.213:9901/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://221.221.137.78:8888/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://139.227.221.198:85/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0
-江苏卫视,http://60.187.245.110:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-江苏卫视,http://123.115.202.110:5001/623899368
-江苏卫视,http://123.115.202.110:5001/relay/ysp-jsws.m3u8
-江苏卫视,http://123.115.202.110:5001/proxy/jstv-670.m3u8
-江苏卫视,http://123.115.202.110:5001/proxy/jstv-676.m3u8
-江苏卫视,http://113.124.186.195:7788/623899368
+江苏卫视,http://183.239.248.218:8181/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://123.131.38.84:1234/623899368
+江苏卫视,http://110.72.82.161:808/hls/30/index.m3u8
 浙江卫视,http://120.238.84.45:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://183.131.110.207:85/tsfile/live/22/2009_1.m3u8?key=txiptv
 浙江卫视,http://116.128.243.121:85/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江卫视,http://221.179.116.213:9901/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://139.227.221.198:85/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
-浙江卫视,http://60.187.245.110:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江卫视,http://123.115.202.110:5001/live/channel4k2160p.m3u8
-浙江卫视,http://123.115.202.110:5001/relay/ysp-zjws.m3u8
-浙江卫视,http://123.115.202.110:5001/relay/cztv-101.m3u8
+浙江卫视,http://183.239.248.218:8181/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://110.72.82.161:808/hls/34/index.m3u8
 东方卫视,http://120.238.84.45:9901/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://183.131.110.207:85/tsfile/live/24/2011_1.m3u8?key=txiptv
 东方卫视,http://116.128.243.121:85/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-东方卫视,http://221.179.116.213:9901/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://221.221.137.78:8888/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://139.227.221.198:85/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0
-东方卫视,http://60.187.245.110:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-东方卫视,http://123.115.202.110:5001/651632648
-东方卫视,http://123.115.202.110:5001/relay/ysp-dfws.m3u8
-东方卫视,http://123.115.202.110:5001/proxy/kankanews-1.m3u8
 东方卫视,http://60.223.94.230:9003/hls/25/index.m3u8
-东方卫视,http://113.124.186.195:7788/651632648
+东方卫视,http://123.131.38.84:1234/651632648
+东方卫视,http://110.72.82.161:808/hls/29/index.m3u8
 深圳卫视,http://120.238.84.45:9901/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://116.128.243.121:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳卫视,http://221.179.116.213:9901/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://221.221.137.78:8888/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://139.227.221.198:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0
-深圳卫视,http://60.187.245.110:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳卫视,http://123.115.202.110:5001/relay/ysp-szws.m3u8
-深圳卫视,http://123.115.202.110:5001/proxy/sztv-24725.m3u8
-深圳卫视,http://123.115.202.110:5001/proxy/sztv-7867.m3u8
+深圳卫视,http://183.239.248.218:8181/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://110.72.82.161:808/hls/1033/index.m3u8
 北京卫视,http://120.238.84.45:9901/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://183.131.110.207:85/tsfile/live/25/2012_1.m3u8?key=txiptv
 北京卫视,http://116.128.243.121:85/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-北京卫视,http://221.179.116.213:9901/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://221.221.137.78:8888/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://139.227.221.198:85/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0
-北京卫视,http://60.187.245.110:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-北京卫视,http://123.115.202.110:5001/proxy/beijing-tv-sn.m3u8
-北京卫视,http://123.115.202.110:5001/630287636
-北京卫视,http://123.115.202.110:5001/relay/ysp-bjws.m3u8
+北京卫视,http://183.239.248.218:8181/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://60.223.94.230:9003/hls/17/index.m3u8
-北京卫视,http://113.124.186.195:7788/630287636
+北京卫视,http://123.131.38.84:1234/630287636
+北京卫视,http://110.72.82.161:808/hls/137/index.m3u8
 山东卫视,http://120.238.84.45:9901/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://183.131.110.207:85/tsfile/live/2/2002_1.m3u8?key=txiptv
 山东卫视,http://116.128.243.121:85/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
-山东卫视,http://221.179.116.213:9901/tsfile/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://221.221.137.78:8888/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://139.227.221.198:85/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
-山东卫视,http://60.187.245.110:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
-山东卫视,http://123.115.202.110:5001/relay/ysp-sdws.m3u8
-山东卫视,http://123.115.202.110:5001/iqilu-sdtv
+山东卫视,http://183.239.248.218:8181/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://60.223.94.230:9003/hls/18/index.m3u8
+山东卫视,http://110.72.82.161:808/hls/35/index.m3u8
 天津卫视,http://120.238.84.45:9901/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0
 天津卫视,http://116.128.243.121:85/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
-天津卫视,http://221.179.116.213:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0
 天津卫视,http://139.227.221.198:85/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0
-天津卫视,http://60.187.245.110:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
-天津卫视,http://123.115.202.110:5001/relay/ysp-tjws.m3u8
-天津卫视,http://123.115.202.110:5001/proxy/tianjin-satellite.m3u8
+天津卫视,http://183.239.248.218:8181/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
 天津卫视,http://60.223.94.230:9003/hls/22/index.m3u8
+天津卫视,http://110.72.82.161:808/hls/20/index.m3u8
 贵州卫视,http://120.238.84.45:9901/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&authid=0
-贵州卫视,http://221.179.116.213:9901/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0
-贵州卫视,http://60.187.245.110:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
-贵州卫视,http://123.115.202.110:5001/relay/ysp-gzhws.m3u8
-贵州卫视,http://123.115.202.110:5001/proxy/gzstv-satellite.m3u8
 贵州卫视,http://60.223.94.230:9003/hls/30/index.m3u8
+贵州卫视,http://110.72.82.161:808/hls/52/index.m3u8
 四川卫视,http://120.238.84.45:9901/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0
 四川卫视,http://116.128.243.121:85/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
-四川卫视,http://221.179.116.213:9901/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&authid=0
-四川卫视,http://60.187.245.110:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
-四川卫视,http://123.115.202.110:5001/relay/ysp-scws.m3u8
+四川卫视,http://183.239.248.218:8181/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://110.72.82.161:808/hls/44/index.m3u8
 云南卫视,http://120.238.84.45:9901/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0
-云南卫视,http://60.187.245.110:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-云南卫视,http://123.115.202.110:5001/relay/ysp-ynws.m3u8
-云南卫视,http://123.115.202.110:5001/proxy/yunnan-satellite.m3u8
+云南卫视,http://183.239.248.218:8181/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
+云南卫视,http://110.72.82.161:808/hls/15/index.m3u8
 广西卫视,http://120.238.84.45:9901/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0
-广西卫视,http://60.187.245.110:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
-广西卫视,http://123.115.202.110:5001/relay/ysp-gxws.m3u8
-广西卫视,http://123.115.202.110:5001/proxy/gxtv-gxws.m3u8
 广西卫视,http://110.72.87.89:808/hls/9/index.m3u8
 广西卫视,http://110.72.66.3:808/hls/9/index.m3u8
 广西卫视,http://60.223.94.230:9003/hls/29/index.m3u8
 广西卫视,http://110.72.64.226:808/hls/9/index.m3u8
+广西卫视,http://110.72.82.161:808/hls/9/index.m3u8
 黑龙江卫视,http://120.238.84.45:9901/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江卫视,http://116.128.243.121:85/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-黑龙江卫视,http://221.179.116.213:9901/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0
-黑龙江卫视,http://60.187.245.110:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-黑龙江卫视,http://123.115.202.110:5001/738906901
-黑龙江卫视,http://123.115.202.110:5001/relay/ysp-hljws.m3u8
-黑龙江卫视,https://123.115.202.110:5001/live/hljws_own.m3u8
+黑龙江卫视,http://183.239.248.218:8181/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江卫视,http://60.223.94.230:9003/hls/31/index.m3u8
-黑龙江卫视,http://113.124.186.195:7788/738906901
+黑龙江卫视,http://123.131.38.84:1234/738906901
+黑龙江卫视,http://110.72.82.161:808/hls/43/index.m3u8
 安徽卫视,http://120.238.84.45:9901/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
 安徽卫视,http://116.128.243.121:85/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视,http://221.179.116.213:9901/tsfile/live/1070_1.m3u8?key=txiptv&playlive=1&authid=0
 安徽卫视,http://139.227.221.198:85/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
-安徽卫视,http://60.187.245.110:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视,http://123.115.202.110:5001/relay/ysp-ahws.m3u8
-安徽卫视,http://123.115.202.110:5001/proxy/anhui-ahwssx.m3u8
+安徽卫视,http://183.239.248.218:8181/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 安徽卫视,http://60.223.94.230:9003/hls/23/index.m3u8
+安徽卫视,http://110.72.82.161:808/hls/145/index.m3u8
 山西卫视,http://120.238.84.45:9901/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
-山西卫视,http://60.187.245.110:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
-山西卫视,http://123.115.202.110:5001/relay/ysp-shanxiws2.m3u8
-山西卫视,http://123.115.202.110:5001/relay/shanxi-satellite.m3u8
 山西卫视,http://60.223.94.230:9003/hls/16/index.m3u8
+山西卫视,http://110.72.82.161:808/hls/42/index.m3u8
 江西卫视,http://120.238.84.45:9901/tsfile/live/1053_1.m3u8?key=txiptv&playlive=1&authid=0
 江西卫视,http://116.128.243.121:85/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-江西卫视,http://221.179.116.213:9901/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0
 江西卫视,http://221.221.137.78:8888/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-江西卫视,http://60.187.245.110:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-江西卫视,http://123.115.202.110:5001/783847495
-江西卫视,http://123.115.202.110:5001/relay/ysp-jxws.m3u8
-江西卫视,http://123.115.202.110:5001/proxy/jxntv-satellite.m3u8
-江西卫视,http://113.124.186.195:7788/783847495
+江西卫视,http://123.131.38.84:1234/783847495
+江西卫视,http://110.72.82.161:808/hls/41/index.m3u8
 湖北卫视,http://120.238.84.45:9901/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,http://116.128.243.121:85/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北卫视,http://221.179.116.213:9901/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,http://139.227.221.198:85/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
-湖北卫视,http://60.187.245.110:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北卫视,http://123.115.202.110:5001/947472496
-湖北卫视,http://123.115.202.110:5001/relay/ysp-hbws.m3u8
-湖北卫视,http://123.115.202.110:5001/proxy/hbtv-431.m3u8
 湖北卫视,http://60.223.94.230:9003/hls/32/index.m3u8
-湖北卫视,http://113.124.186.195:7788/947472496
+湖北卫视,http://123.131.38.84:1234/947472496
+湖北卫视,http://110.72.82.161:808/hls/27/index.m3u8
 旅游卫视,http://120.238.84.45:9901/tsfile/live/1075_1.m3u8?key=txiptv&playlive=1&authid=0
 旅游卫视,http://116.128.243.121:85/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0
 旅游卫视,http://221.221.137.78:8888/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0
 旅游卫视,http://139.227.221.198:85/tsfile/live/0114_1.m3u8?key=txiptv&playlive=0&authid=0
-旅游卫视,http://60.187.245.110:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-旅游卫视,http://123.115.202.110:5001/947472502
-旅游卫视,http://123.115.202.110:5001/relay/ysp-hnws2.m3u8
-旅游卫视,http://123.115.202.110:5001/hnntv-13
 旅游卫视,http://110.72.87.89:808/hls/1/index.m3u8
 旅游卫视,http://110.72.66.3:808/hls/1/index.m3u8
 旅游卫视,http://110.72.64.226:808/hls/1/index.m3u8
-旅游卫视,http://113.124.186.195:7788/947472502
+旅游卫视,http://123.131.38.84:1234/947472502
+旅游卫视,http://110.72.82.161:808/hls/1/index.m3u8
 陕西卫视,http://120.238.84.45:9901/tsfile/live/1070_1.m3u8?key=txiptv&playlive=1&authid=0
-陕西卫视,http://123.115.202.110:5001/738910838
-陕西卫视,http://123.115.202.110:5001/relay/ysp-shanxiws.m3u8
-陕西卫视,http://123.115.202.110:5001/relay/shaanxi-satellite.m3u8
 陕西卫视,http://60.223.94.230:9003/hls/21/index.m3u8
-陕西卫视,http://113.124.186.195:7788/738910838
+陕西卫视,http://123.131.38.84:1234/738910838
+陕西卫视,http://110.72.82.161:808/hls/17/index.m3u8
 东南卫视,http://120.238.84.45:9901/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://139.227.221.198:85/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
-东南卫视,http://60.187.245.110:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-东南卫视,http://123.115.202.110:5001/849116810
-东南卫视,http://123.115.202.110:5001/relay/ysp-fjdnhz.m3u8
-东南卫视,http://123.115.202.110:5001/relay/fjtv-province-665248966136664064.m3u8
+东南卫视,http://183.239.248.218:8181/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://60.223.94.230:9003/hls/26/index.m3u8
-东南卫视,http://113.124.186.195:7788/849116810
+东南卫视,http://123.131.38.84:1234/849116810
+厦门卫视,http://110.72.82.161:808/hls/122/index.m3u8
 吉林卫视,http://120.238.84.45:9901/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0
-吉林卫视,http://60.187.245.110:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
-吉林卫视,http://123.115.202.110:5001/947472500
-吉林卫视,http://123.115.202.110:5001/relay/ysp-jlws.m3u8
-吉林卫视,http://123.115.202.110:5001/proxy/jlntv-satellite.m3u8
-吉林卫视,http://113.124.186.195:7788/947472500
+吉林卫视,http://123.131.38.84:1234/947472500
 辽宁卫视,http://120.238.84.45:9901/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://183.131.110.207:85/tsfile/live/27/2014_1.m3u8?key=txiptv
 辽宁卫视,http://116.128.243.121:85/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁卫视,http://221.179.116.213:9901/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁卫视,http://139.227.221.198:85/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
-辽宁卫视,http://60.187.245.110:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁卫视,http://123.115.202.110:5001/630291707
-辽宁卫视,http://123.115.202.110:5001/relay/ysp-lnws.m3u8
 辽宁卫视,http://110.72.87.89:808/hls/2/index.m3u8
 辽宁卫视,http://110.72.66.3:808/hls/2/index.m3u8
 辽宁卫视,http://110.72.64.226:808/hls/2/index.m3u8
-辽宁卫视,http://113.124.186.195:7788/630291707
-内蒙古卫视,http://123.115.202.110:5001/relay/ysp-nmgws.m3u8
-内蒙古卫视,http://123.115.202.110:5001/proxy/nmtv-satellite.m3u8
+辽宁卫视,http://123.131.38.84:1234/630291707
+辽宁卫视,http://110.72.82.161:808/hls/2/index.m3u8
 湖南卫视,http://120.238.84.45:9901/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://116.128.243.121:85/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视,http://221.179.116.213:9901/tsfile/live/1053_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://139.227.221.198:85/tsfile/live/0128_1.m3u8?key=txiptv&playlive=0&authid=0
-湖南卫视,http://60.187.245.110:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视,http://123.115.202.110:5001/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-湖南卫视,http://123.115.202.110:5001/relay/ysp-hnws.m3u8
+湖南卫视,http://110.72.82.161:808/hls/25/index.m3u8
 广东卫视,http://120.238.84.45:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://116.128.243.121:85/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-广东卫视,http://221.179.116.213:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://139.227.221.198:85/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
-广东卫视,http://60.187.245.110:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-广东卫视,http://123.115.202.110:5001/608831231
-广东卫视,http://123.115.202.110:5001/relay/ysp-gdws.m3u8
-广东卫视,http://123.115.202.110:5001/relay/gdtv-43.m3u8
+广东卫视,http://183.239.248.218:8181/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://110.72.87.89:808/hls/11/index.m3u8
 广东卫视,http://110.72.66.3:808/hls/11/index.m3u8
 广东卫视,http://60.223.94.230:9003/hls/28/index.m3u8
 广东卫视,http://110.72.64.226:808/hls/11/index.m3u8
-广东卫视,http://113.124.186.195:7788/608831231
-大湾区卫视,http://123.115.202.110:5001/608917627
-大湾区卫视,http://123.115.202.110:5001/relay/gdtv-51.m3u8
-大湾区卫视,http://113.124.186.195:7788/608917627
+广东卫视,http://123.131.38.84:1234/608831231
+广东卫视,http://110.72.82.161:808/hls/11/index.m3u8
+大湾区卫视,http://123.131.38.84:1234/608917627
 河南卫视,http://120.238.84.45:9901/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://221.221.137.78:8888/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
-河南卫视,http://60.187.245.110:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
-河南卫视,http://123.115.202.110:5001/790187291
-河南卫视,http://123.115.202.110:5001/relay/ysp-henanws.m3u8
-河南卫视,http://123.115.202.110:5001/hntv-145
+河南卫视,http://183.239.248.218:8181/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://60.223.94.230:9003/hls/20/index.m3u8
-河南卫视,http://113.124.186.195:7788/790187291
+河南卫视,http://123.131.38.84:1234/790187291
+河南卫视,http://110.72.82.161:808/hls/49/index.m3u8
 河北卫视,http://120.238.84.45:9901/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0
 河北卫视,http://116.128.243.121:85/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 河北卫视,http://221.221.137.78:8888/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 河北卫视,http://139.227.221.198:85/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
-河北卫视,http://60.187.245.110:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
-河北卫视,http://123.115.202.110:5001/962042070
-河北卫视,http://123.115.202.110:5001/relay/ysp-hbws2.m3u8
-河北卫视,http://123.115.202.110:5001/relay/hebtv-10524916.m3u8
 河北卫视,http://60.223.94.230:9003/hls/19/index.m3u8
-河北卫视,http://113.124.186.195:7788/962042070
+河北卫视,http://123.131.38.84:1234/962042070
+河北卫视,http://110.72.82.161:808/hls/51/index.m3u8
 宁夏卫视,http://120.238.84.45:9901/tsfile/live/1076_1.m3u8?key=txiptv&playlive=1&authid=0
-宁夏卫视,http://123.115.202.110:5001/738910535
-宁夏卫视,http://123.115.202.110:5001/relay/ysp-nxws.m3u8
-宁夏卫视,https://123.115.202.110:5001/live/nxws1M.m3u8
-宁夏卫视,http://113.124.186.195:7788/738910535
+宁夏卫视,http://123.131.38.84:1234/738910535
+宁夏卫视,http://110.72.82.161:808/hls/50/index.m3u8
 甘肃卫视,http://120.238.84.45:9901/tsfile/live/1079_1.m3u8?key=txiptv&playlive=1&authid=0
-甘肃卫视,http://123.115.202.110:5001/relay/gansu-1.m3u8
 甘肃卫视,http://60.223.94.230:9003/hls/27/index.m3u8
+甘肃卫视,http://110.72.82.161:808/hls/19/index.m3u8
 青海卫视,http://120.238.84.45:9901/tsfile/live/1073_1.m3u8?key=txiptv&playlive=1&authid=0
-青海卫视,http://123.115.202.110:5001/947472506
-青海卫视,http://123.115.202.110:5001/relay/ysp-qhws.m3u8
-青海卫视,http://123.115.202.110:5001/relay/qinghai-qhws.m3u8
-青海卫视,http://113.124.186.195:7788/947472506
-新疆卫视,http://123.115.202.110:5001/relay/ysp-xjws.m3u8
-新疆卫视,http://123.115.202.110:5001/relay/xjtv-1.m3u8
+青海卫视,http://123.131.38.84:1234/947472506
+青海卫视,http://110.72.82.161:808/hls/3/index.m3u8
 西藏卫视,http://120.238.84.45:9901/tsfile/live/1077_1.m3u8?key=txiptv&playlive=1&authid=0
-西藏卫视,http://123.115.202.110:5001/relay/ysp-xzws.m3u8
-西藏卫视,http://123.115.202.110:5001/relay/xizang-satellite.m3u8
 兵团卫视,http://120.238.84.45:9901/tsfile/live/1080_1.m3u8?key=txiptv&playlive=1&authid=0
-兵团卫视,http://123.115.202.110:5001/956923145
-兵团卫视,http://113.124.186.195:7788/956923145
-三沙卫视,http://123.115.202.110:5001/961023778
-三沙卫视,http://123.115.202.110:5001/hnntv-5
-三沙卫视,http://113.124.186.195:7788/961023778
-延边卫视,http://123.115.202.110:5001/proxy/jlntv-yanbian.m3u8
+兵团卫视,http://123.131.38.84:1234/956923145
+三沙卫视,http://183.239.248.218:8181/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+三沙卫视,http://123.131.38.84:1234/961023778
 金鹰卡通,http://120.238.84.45:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://116.128.243.121:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-金鹰卡通,http://123.115.202.110:5001/proxy/mgtv-287.m3u8
+金鹰卡通,http://110.72.82.161:808/hls/26/index.m3u8
 嘉佳卡通,http://120.238.84.45:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
-嘉佳卡通,http://123.115.202.110:5001/relay/gdtv-66.m3u8
-嘉佳卡通,http://113.124.186.195:7788/614952364
-哈哈炫动,http://123.115.202.110:5001/proxy/kankanews-9.m3u8
+嘉佳卡通,http://183.239.248.218:8181/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+嘉佳卡通,http://123.131.38.84:1234/614952364
 卡酷少儿,http://116.128.243.121:85/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-卡酷少儿,http://123.115.202.110:5001/proxy/beijing-tv-se.m3u8
 山东教育卫视,http://120.238.84.45:9901/tsfile/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0
-山东教育卫视,http://123.115.202.110:5001/609154353
-山东教育卫视,http://113.124.186.195:7788/609154353
+山东教育卫视,http://123.131.38.84:1234/609154353
+山东教育卫视,http://110.72.82.161:808/hls/36/index.m3u8
 
 港台节目,#genre#
 翡翠台,http://120.238.84.45:9901/tsfile/live/1103_1.m3u8?key=txiptv&playlive=1&authid=0
-翡翠台,http://221.179.116.213:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 明珠台,http://120.238.84.45:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰中文,http://123.115.202.110:5001/fengshows-chinese.flv
-凤凰资讯,http://123.115.202.110:5001/fengshows-info.flv
-凤凰香港,http://123.115.202.110:5001/fengshows-hongkong.flv
+凤凰中文,http://110.72.82.161:808/hls/249449646/index.m3u8
+凤凰中文,http://110.72.82.161:808/hls/234575323/index.m3u8
+凤凰资讯,http://110.72.82.161:808/hls/261263452/index.m3u8
+凤凰资讯,http://110.72.82.161:808/hls/219429978/index.m3u8
+星空卫视,http://110.72.82.161:808/hls/226879611/index.m3u8
+
+北京节目,#genre#
+北京国际,http://110.72.82.161:808/hls/68/index.m3u8
 
 上海节目,#genre#
-上海都市,http://123.115.202.110:5001/proxy/kankanews-4.m3u8
-第一财经,http://123.115.202.110:5001/proxy/kankanews-5.m3u8
-第一财经,http://123.115.202.110:5001/608780988
-五星体育,http://123.115.202.110:5001/proxy/kankanews-10.m3u8
 都市剧场,http://120.238.84.45:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 
-重庆节目,#genre#
-重庆新闻,http://123.115.202.110:5001/proxy/chongqing-6.m3u8
-
-福建节目,#genre#
-福建综合,http://123.115.202.110:5001/relay/fjtv-province-665248990102917120.m3u8
-
 广西节目,#genre#
-广西影视,http://123.115.202.110:5001/proxy/gxtv-ys.m3u8
 广西影视,http://110.72.87.89:808/hls/201/index.m3u8
 广西影视,http://110.72.66.3:808/hls/201/index.m3u8
 广西影视,http://110.72.64.226:808/hls/201/index.m3u8
-广西新闻,http://123.115.202.110:5001/proxy/gxtv-xw.m3u8
+广西影视,http://110.72.82.161:808/hls/201/index.m3u8
 广西新闻,http://110.72.87.89:808/hls/206/index.m3u8
 广西新闻,http://110.72.66.3:808/hls/206/index.m3u8
 广西新闻,http://110.72.64.226:808/hls/206/index.m3u8
-广西移动,http://123.115.202.110:5001/proxy/gxtv-yd.m3u8
-广西综艺旅游,http://123.115.202.110:5001/proxy/gxtv-zyly.m3u8
-广西都市,http://123.115.202.110:5001/proxy/gxtv-ds.m3u8
+广西新闻,http://110.72.82.161:808/hls/206/index.m3u8
 广西都市,http://110.72.87.89:808/hls/204/index.m3u8
 广西都市,http://110.72.66.3:808/hls/204/index.m3u8
 广西都市,http://110.72.64.226:808/hls/204/index.m3u8
-广西国际,http://123.115.202.110:5001/proxy/gxtv-gj.m3u8
-
-黑龙江节目,#genre#
-黑龙江新闻法治,https://123.115.202.110:5001/live/hljxw_hd.m3u8
-黑龙江影视,https://123.115.202.110:5001/live/hljys_hd.m3u8
-黑龙江农业科教,https://123.115.202.110:5001/live/hljgg_hd.m3u8
-黑龙江少儿,https://123.115.202.110:5001/live/hljse_hd.m3u8
-黑龙江文体,https://123.115.202.110:5001/live/hljwy_hd.m3u8
-黑龙江都市,https://123.115.202.110:5001/live/dushi_hd.m3u8
+广西都市,http://110.72.82.161:808/hls/204/index.m3u8
 
 江苏节目,#genre#
-江苏新闻,http://123.115.202.110:5001/proxy/jstv-668.m3u8
-江苏城市,http://123.115.202.110:5001/proxy/jstv-669.m3u8
-江苏教育,http://123.115.202.110:5001/proxy/jstv-666.m3u8
-江苏教育,http://113.124.186.195:7788/628008321
-江苏影视,http://123.115.202.110:5001/proxy/jstv-664.m3u8
-江苏综艺,http://123.115.202.110:5001/proxy/jstv-663.m3u8
-江苏体育休闲,http://123.115.202.110:5001/proxy/jstv-665.m3u8
-优漫卡通,http://123.115.202.110:5001/proxy/jstv-667.m3u8
-财富天下,http://123.115.202.110:5001/956923159
-财富天下,http://113.124.186.195:7788/956923159
+江苏教育,http://123.131.38.84:1234/628008321
+优漫卡通,http://110.72.82.161:808/hls/31/index.m3u8
+财富天下,http://123.131.38.84:1234/956923159
 
 湖南节目,#genre#
 湖南都市,http://116.128.243.121:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南都市,http://123.115.202.110:5001/proxy/mgtv-346.m3u8
 湖南经视,http://116.128.243.121:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南经视,http://123.115.202.110:5001/proxy/mgtv-280.m3u8
-湖南爱晚,http://123.115.202.110:5001/proxy/mgtv-261.m3u8
 湖南电影,http://116.128.243.121:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南电影,http://123.115.202.110:5001/proxy/mgtv-221.m3u8
 湖南电视剧,http://116.128.243.121:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南电视剧,http://123.115.202.110:5001/proxy/mgtv-484.m3u8
 湖南娱乐,http://116.128.243.121:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南娱乐,http://123.115.202.110:5001/proxy/mgtv-344.m3u8
 湖南教育,http://116.128.243.121:85/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南国际,http://123.115.202.110:5001/proxy/mgtv-229.m3u8
-长沙政法,http://123.115.202.110:5001/proxy/mgtv-254.m3u8
-
-浙江节目,#genre#
-浙江新闻,http://123.115.202.110:5001/relay/cztv-107.m3u8
-浙江经济生活,http://123.115.202.110:5001/relay/cztv-103.m3u8
-浙江少儿,http://123.115.202.110:5001/relay/cztv-108.m3u8
-之江纪录,http://123.115.202.110:5001/relay/cztv-112.m3u8
-杭州综合,http://123.115.202.110:5001/proxy/hangzhou-general.m3u8
-杭州生活,http://123.115.202.110:5001/proxy/hangzhou-life.m3u8
-杭州影视,http://123.115.202.110:5001/proxy/hangzhou-film.m3u8
-杭州青少体育,http://123.115.202.110:5001/proxy/hangzhou-youth.m3u8
-
-山东节目,#genre#
-山东少儿,http://123.115.202.110:5001/iqilu-sepd
 
 广东频道,#genre#
 广东珠江,http://120.238.84.45:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-广东珠江,http://221.179.116.213:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-广东珠江,http://123.115.202.110:5001/relay/gdtv-44.m3u8
 广东新闻,http://120.238.84.45:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-广东新闻,http://123.115.202.110:5001/relay/gdtv-45.m3u8
-广东影视,http://123.115.202.110:5001/relay/gdtv-53.m3u8
+广东影视,http://110.72.82.161:808/hls/59/index.m3u8
 广东民生,http://120.238.84.45:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-广东民生,http://123.115.202.110:5001/relay/gdtv-48.m3u8
-广东少儿,http://123.115.202.110:5001/relay/gdtv-54.m3u8
 岭南戏曲,http://120.238.84.45:9901/tsfile/live/1095_1.m3u8?key=txiptv&playlive=1&authid=0
-岭南戏曲,http://123.115.202.110:5001/relay/gdtv-15.m3u8
 广东体育,http://120.238.84.45:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-广东体育,http://221.179.116.213:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-广东体育,http://123.115.202.110:5001/relay/gdtv-47.m3u8
-广州综合,http://123.115.202.110:5001/gztv-3001
-广州新闻,http://123.115.202.110:5001/gztv-3002
-深圳少儿,http://123.115.202.110:5001/proxy/sztv-7881.m3u8
-深圳电视剧,http://123.115.202.110:5001/proxy/sztv-7880.m3u8
-深圳都市,http://123.115.202.110:5001/proxy/sztv-7868.m3u8
-梅州客家生活,https://123.115.202.110:5001/live/ch_kejiashenghuo.m3u8
+广东体育,http://110.72.82.161:808/hls/13/index.m3u8
 
 地方频道,#genre#
 少儿动画,http://120.238.84.45:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
-财富天下,http://123.115.202.110:5001/956923159
-财富天下,http://113.124.186.195:7788/956923159
+魅力时尚,http://110.72.82.161:808/hls/219/index.m3u8
+财富天下,http://123.131.38.84:1234/956923159
+IPTV野外,http://110.72.82.161:808/hls/1027/index.m3u8
+IPTV法治,http://110.72.82.161:808/hls/1028/index.m3u8
 经典电影,http://120.238.84.45:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
+经典电影,http://110.72.82.161:808/hls/220/index.m3u8
 
 未分类节目,#genre#
-24小时城市联赛轮播台,http://123.115.202.110:5001/915512915
-24小时城市联赛轮播台,http://113.124.186.195:7788/915512915
-BRTV i生活,http://123.115.202.110:5001/proxy/beijing-tv-sh.m3u8
-BRTV体育休闲,http://123.115.202.110:5001/proxy/beijing-tv-ty.m3u8
-BRTV影视,http://123.115.202.110:5001/proxy/beijing-tv-ys.m3u8
-BRTV文艺,http://123.115.202.110:5001/proxy/beijing-tv-wy.m3u8
-BRTV新闻,http://123.115.202.110:5001/proxy/beijing-tv-xw.m3u8
-BRTV纪实科教,http://123.115.202.110:5001/proxy/beijing-tv-kj.m3u8
-BRTV财经,http://123.115.202.110:5001/proxy/beijing-tv-cj.m3u8
-BWF 凤凰组合摘金 安洗莹逆转夺冠 【全场回放】一号场地（英文原声） 18:00,http://113.124.186.195:7788/968783703
-BWF 凤凰组合摘金 安洗莹逆转夺冠 【全场回放】一号场地（赛场原声） 18:00,http://113.124.186.195:7788/968775003
-BWF 凤凰组合摘金 安洗莹逆转夺冠 【回放】乌拜迪拉1-2小波波夫（鸿昆） 18:00,http://113.124.186.195:7788/968766137
-BWF 凤凰组合摘金 安洗莹逆转夺冠 【回放】冯彦哲/黄东萍2-0许邦荣/赖沛君（鸿昆） 18:00,http://113.124.186.195:7788/968762595
-BWF 凤凰组合摘金 安洗莹逆转夺冠 【回放】吴世飞/伊祖丁1-2万炜聪/郑凯文（鸿昆） 18:00,http://113.124.186.195:7788/968768821
-BWF 凤凰组合摘金 安洗莹逆转夺冠 【回放】安洗莹2-1辛杜（余博洋） 18:00,http://113.124.186.195:7788/968758096
-BWF 凤凰组合摘金 安洗莹逆转夺冠 【回放】安洗莹2-1辛杜（金子嘉） 18:00,http://113.124.186.195:7788/968758105
-BWF 凤凰组合摘金 安洗莹逆转夺冠 【回放】福岛由纪/松本麻佑2-1陈康乐/蒂娜（余博洋） 18:00,http://113.124.186.195:7788/968760006
-BWF 海露羽毛球公开赛第一日 1号场地 15:30,http://113.124.186.195:7788/968793099
-BWF 海露羽毛球公开赛第一日 2号场地 15:30,http://113.124.186.195:7788/968793130
-BWF 海露羽毛球公开赛第一日 3号场地 15:30,http://113.124.186.195:7788/968793158
-CBA 上海久事VS广东东阳光 全场回放（张俊卿） 19:25,http://113.124.186.195:7788/968809682
-CBA 上海久事VS广东东阳光 全场回放（莫俊祺） 19:25,http://113.124.186.195:7788/968809728
-CBA 上海久事VS广东东阳光 全场回放（赛场原声） 19:25,http://113.124.186.195:7788/968810926
-CBA 上海久事VS广东东阳光 全场回放（邵化谦、杨鸣、季孟年、佳依） 19:25,http://113.124.186.195:7788/968809892
-CBA 北京首钢VS广州智都集团 全场回放 19:25,http://113.124.186.195:7788/968767597
-CBA 北京首钢VS广州智都集团 全场回放（姜帆、焦健） 19:25,http://113.124.186.195:7788/968763173
-CBA 北京首钢VS广州智都集团 全场回放（张泽欣） 19:25,http://113.124.186.195:7788/968762793
-CBA 北京首钢VS广州智都集团 全场回放（贾磊） 19:25,http://113.124.186.195:7788/968762765
-CBA 四川锦城VS南京同曦宙光 刘圳展 19:20,http://113.124.186.195:7788/968706085
-CBA 四川锦城VS南京同曦宙光 南京主队解说 19:25,http://113.124.186.195:7788/968706070
-CBA 四川锦城VS南京同曦宙光 赛场原声 19:25,http://113.124.186.195:7788/968705687
-CBA 四川锦城VS浙江稠州金租 全场回放（赛场原声） 19:25,http://113.124.186.195:7788/968763570
-CBA 四川锦城VS浙江稠州金租 全场回放（邢晨） 19:25,http://113.124.186.195:7788/968763195
-CBA 四川锦城VS浙江稠州金租 全场回放（金哲豪） 19:25,http://113.124.186.195:7788/968763165
-CBA 宁波町渥VS长白山恩都里 全场回放（林国雄） 19:25,http://113.124.186.195:7788/968809948
-CBA 宁波町渥VS长白山恩都里 全场回放（王润陶、吴博文） 19:25,http://113.124.186.195:7788/968809837
-CBA 宁波町渥VS长白山恩都里 全场回放（赛场原声） 19:25,http://113.124.186.195:7788/968810110
-CBA 宁波町渥VS长白山恩都里 全场回放（陈涛） 19:25,http://113.124.186.195:7788/968809922
-CBA 山东高速VS北京首钢 北京主队解说 19:25,http://113.124.186.195:7788/968706102
-CBA 山东高速VS北京首钢 孙博 曾令旭 19:15,http://113.124.186.195:7788/968706582
-CBA 山东高速VS北京首钢 山东主队解说 19:25,http://113.124.186.195:7788/968706112
-CBA 山东高速VS北京首钢 赛场原声 19:25,http://113.124.186.195:7788/968705704
-CBA 山东高速VS天津先行者 全场回放（寇逸豪） 19:25,http://113.124.186.195:7788/968763283
-CBA 山东高速VS天津先行者 全场回放（赛场原声） 19:25,http://113.124.186.195:7788/968764429
-CBA 山西汾酒VS江苏肯帝亚 全场回放（季孟年） 19:25,http://113.124.186.195:7788/968763363
-CBA 山西汾酒VS江苏肯帝亚 全场回放（田宏强） 19:25,http://113.124.186.195:7788/968764057
-CBA 山西汾酒VS江苏肯帝亚 全场回放（石楷文） 19:25,http://113.124.186.195:7788/968763995
-CBA 山西汾酒VS江苏肯帝亚 全场回放（赛场原声） 19:25,http://113.124.186.195:7788/968764034
-CBA 广州智都集团VS北京控股 北控主队解说 19:25,http://113.124.186.195:7788/968706173
-CBA 广州智都集团VS北京控股 广州主队解说 19:25,http://113.124.186.195:7788/968706204
-CBA 广州智都集团VS北京控股 王冠证 19:20,http://113.124.186.195:7788/968706209
-CBA 广州智都集团VS北京控股 赛场原声 19:25,http://113.124.186.195:7788/968705831
-CBA 新疆广汇能源VS浙江稠州金租 庄宁宇 丁伟 陈正昊 19:30,http://113.124.186.195:7788/968743252
-CBA 新疆广汇能源VS浙江稠州金租 新疆主队解说 19:50,http://113.124.186.195:7788/968706028
-CBA 新疆广汇能源VS浙江稠州金租 浙江主队解说 19:50,http://113.124.186.195:7788/968705997
-CBA 新疆广汇能源VS浙江稠州金租 赛场原声 19:50,http://113.124.186.195:7788/968705667
-CBA 江苏肯帝亚VS福建晋江文旅 吴博文 19:20,http://113.124.186.195:7788/968706140
-CBA 江苏肯帝亚VS福建晋江文旅 赛场原声 19:25,http://113.124.186.195:7788/968705797
-CBA 浙江浙商证券VS辽宁本钢 杨健 杨鸣 拜月宁 19:15,http://113.124.186.195:7788/968706362
-CBA 浙江浙商证券VS辽宁本钢 浙证主队解说 19:25,http://113.124.186.195:7788/968705991
-CBA 浙江浙商证券VS辽宁本钢 赛场原声 19:25,http://113.124.186.195:7788/968705628
-CBA 浙江浙商证券VS辽宁本钢 辽宁主队解说 19:25,http://113.124.186.195:7788/968705969
-CBA 深圳马可波罗VS北京控股 全场回放（周赫） 19:25,http://113.124.186.195:7788/968763368
-CBA 深圳马可波罗VS北京控股 全场回放（庄宁宇、陈正昊、王羽希） 19:25,http://113.124.186.195:7788/968763242
-CBA 深圳马可波罗VS北京控股 全场回放（赛场原声） 19:25,http://113.124.186.195:7788/968767204
-CBA 辽宁本钢VS新疆广汇能源 全场回放（哈秋） 19:25,http://113.124.186.195:7788/968762447
-CBA 辽宁本钢VS新疆广汇能源 全场回放（盛哲） 19:25,http://113.124.186.195:7788/968762539
-CBA 辽宁本钢VS新疆广汇能源 全场回放（赛场原声） 19:25,http://113.124.186.195:7788/968765880
-CBA 辽宁本钢VS新疆广汇能源 全场回放（邵化谦、杨鸣、刘铁、裴优） 19:25,http://113.124.186.195:7788/968763286
-CBA 青岛崂山啤酒VS南京同曦宙光 全场回放（王冠证） 19:25,http://113.124.186.195:7788/968763380
-CBA 青岛崂山啤酒VS南京同曦宙光 全场回放（赛场原声） 19:25,http://113.124.186.195:7788/968769483
-CBA 青岛崂山啤酒VS天津先行者 周鹏 19:20,http://113.124.186.195:7788/968706120
-CBA 青岛崂山啤酒VS天津先行者 赛场原声 19:25,http://113.124.186.195:7788/968705764
+24小时城市联赛轮播台,http://123.131.38.84:1234/915512915
+BWF 海露羽毛球公开赛第三日 1号场地 01:00,http://123.131.38.84:1234/968793259
+BWF 海露羽毛球公开赛第三日 1号场地 17:00,http://123.131.38.84:1234/968793243
+BWF 海露羽毛球公开赛第三日 1号场地英文视角 17:00,http://123.131.38.84:1234/968793330
+BWF 海露羽毛球公开赛第三日 2号场地 17:10,http://123.131.38.84:1234/968793286
+BWF 海露羽毛球公开赛第三日 3号场地 17:10,http://123.131.38.84:1234/968793305
+BWF 海露羽毛球公开赛第二日 1号场地 16:00,http://123.131.38.84:1234/968793171
+BWF 海露羽毛球公开赛第二日 2号场地 16:00,http://123.131.38.84:1234/968793197
+BWF 海露羽毛球公开赛第二日 3号场地 16:00,http://123.131.38.84:1234/968793217
+BWF 许尹鏸/林芝昀三局逆转晋级 1号场地 15:30,http://123.131.38.84:1234/968793099
+BWF 许尹鏸/林芝昀三局逆转晋级 2号场地 15:30,http://123.131.38.84:1234/968793130
+BWF 许尹鏸/林芝昀三局逆转晋级 3号场地 15:30,http://123.131.38.84:1234/968793158
+CBA 四川锦城VS南京同曦宙光 全场回放（刘圳展） 19:25,http://123.131.38.84:1234/968836136
+CBA 四川锦城VS南京同曦宙光 全场回放（王港） 19:25,http://123.131.38.84:1234/968836255
+CBA 四川锦城VS南京同曦宙光 全场回放（赛场原声） 19:25,http://123.131.38.84:1234/968836423
+CBA 山东高速VS北京首钢 全场回放（刘芳宇） 19:25,http://123.131.38.84:1234/968836399
+CBA 山东高速VS北京首钢 全场回放（孙博、曾令旭） 19:25,http://123.131.38.84:1234/968836226
+CBA 山东高速VS北京首钢 全场回放（王新通） 19:25,http://123.131.38.84:1234/968836260
+CBA 山东高速VS北京首钢 全场回放（赛场原声） 19:25,http://123.131.38.84:1234/968838285
+CBA 广州智都集团VS北京控股 全场回放（周赫） 19:25,http://123.131.38.84:1234/968837179
+CBA 广州智都集团VS北京控股 全场回放（张泽欣） 19:25,http://123.131.38.84:1234/968837226
+CBA 广州智都集团VS北京控股 全场回放（王冠证） 19:25,http://123.131.38.84:1234/968837238
+CBA 广州智都集团VS北京控股 全场回放（赛场原声） 19:25,http://123.131.38.84:1234/968837300
+CBA 新疆广汇能源VS浙江稠州金租 全场回放（庄宁宇、丁伟、陈正昊、魏欣怡） 19:50,http://123.131.38.84:1234/968836547
+CBA 新疆广汇能源VS浙江稠州金租 全场回放（盛哲） 19:50,http://123.131.38.84:1234/968836494
+CBA 新疆广汇能源VS浙江稠州金租 全场回放（赛场原声） 19:50,http://123.131.38.84:1234/968836553
+CBA 新疆广汇能源VS浙江稠州金租 全场回放（金哲豪） 19:50,http://123.131.38.84:1234/968836539
+CBA 江苏肯帝亚VS福建晋江文旅 全场回放（吴博文） 19:25,http://123.131.38.84:1234/968836110
+CBA 江苏肯帝亚VS福建晋江文旅 全场回放（赛场原声） 19:25,http://123.131.38.84:1234/968836159
+CBA 浙江浙商证券VS辽宁本钢 全场回放（哈秋） 19:25,http://123.131.38.84:1234/968836559
+CBA 浙江浙商证券VS辽宁本钢 全场回放（杨鸣、杨健、拜月宁） 19:25,http://123.131.38.84:1234/968836678
+CBA 浙江浙商证券VS辽宁本钢 全场回放（赛场原声） 19:25,http://123.131.38.84:1234/968837631
+CBA 浙江浙商证券VS辽宁本钢 全场回放（郭知昊） 19:25,http://123.131.38.84:1234/968836502
+CBA 深圳马可波罗VS山西汾酒 山西主队解说 19:25,http://123.131.38.84:1234/968705941
+CBA 深圳马可波罗VS山西汾酒 庄宁宇 丁伟 19:15,http://123.131.38.84:1234/968706347
+CBA 深圳马可波罗VS山西汾酒 深圳主队解说 19:25,http://123.131.38.84:1234/968705960
+CBA 深圳马可波罗VS山西汾酒 赛场原声 19:25,http://123.131.38.84:1234/968705606
+CBA 青岛崂山啤酒VS天津先行者 全场回放（周鹏） 19:25,http://123.131.38.84:1234/968836371
+CBA 青岛崂山啤酒VS天津先行者 全场回放（赛场原声） 19:25,http://123.131.38.84:1234/968836656
 CCTV-11 SD,http://49.70.189.172:60001/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-12 SD,http://49.70.189.172:60001/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-3 SD,http://49.70.189.172:60001/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-6 SD,http://49.70.189.172:60001/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-7 SD,http://49.70.189.172:60001/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-8 SD,http://49.70.189.172:60001/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-娱乐,http://110.72.82.161:808/hls/66/index.m3u8
 CCTV1 综合,http://60.223.94.230:9003/hls/1/index.m3u8
 CCTV1-综合,http://116.128.243.121:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1-综合,http://221.221.137.78:8888/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1-综合,http://139.227.221.198:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV1-综合,http://60.187.245.110:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1-综合,http://183.239.248.218:8181/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV10 科教,http://60.223.94.230:9003/hls/10/index.m3u8
 CCTV10-科教,http://116.128.243.121:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV10-科教,http://221.221.137.78:8888/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV10-科教,http://139.227.221.198:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV10-科教,http://60.187.245.110:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10-科教,http://183.239.248.218:8181/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV11 戏曲,http://60.223.94.230:9003/hls/11/index.m3u8
 CCTV11-戏曲,http://116.128.243.121:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV11-戏曲,http://139.227.221.198:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV11-戏曲,http://60.187.245.110:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11-戏曲,http://183.239.248.218:8181/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV12 社会与法,http://60.223.94.230:9003/hls/12/index.m3u8
 CCTV12-社会与法,http://116.128.243.121:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV12-社会与法,http://221.221.137.78:8888/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV12-社会与法,http://139.227.221.198:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV12-社会与法,http://60.187.245.110:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12-社会与法,http://183.239.248.218:8181/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13 新闻,http://60.223.94.230:9003/hls/13/index.m3u8
 CCTV13-新闻,http://116.128.243.121:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13-新闻,http://221.221.137.78:8888/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -667,867 +428,420 @@ CCTV14-少儿,http://139.227.221.198:85/tsfile/live/0014_1.m3u8?key=txiptv&playl
 CCTV15 音乐,http://60.223.94.230:9003/hls/15/index.m3u8
 CCTV15-音乐,http://116.128.243.121:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15-音乐,http://139.227.221.198:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV15-音乐,http://183.239.248.218:8181/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV16-奥林匹克,http://221.221.137.78:8888/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV17农业农村,http://123.115.202.110:5001/673168256
-CCTV17农业农村,http://123.115.202.110:5001/relay/ysp-cctv17.m3u8
-CCTV17农业农村,http://113.124.186.195:7788/673168256
+CCTV17农业农村,http://123.131.38.84:1234/673168256
 CCTV2 财经,http://60.223.94.230:9003/hls/2/index.m3u8
 CCTV2-财经,http://116.128.243.121:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2-财经,http://221.221.137.78:8888/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2-财经,http://139.227.221.198:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV2-财经,http://60.187.245.110:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2-财经,http://183.239.248.218:8181/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3 综艺,http://60.223.94.230:9003/hls/3/index.m3u8
 CCTV3-综艺,http://116.128.243.121:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3-综艺,http://139.227.221.198:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV3-综艺,http://60.187.245.110:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4 中文国际,http://60.223.94.230:9003/hls/4/index.m3u8
 CCTV4-国际,http://116.128.243.121:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4-国际,http://221.221.137.78:8888/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4-国际,http://139.227.221.198:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV4-国际,http://60.187.245.110:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4K超高清,http://123.115.202.110:5001/relay/ysp-cctv4k.m3u8
+CCTV4-国际,http://183.239.248.218:8181/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5 体育,http://60.223.94.230:9003/hls/5/index.m3u8
 CCTV5+体育赛事,http://116.128.243.121:85/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5+体育赛事,http://221.221.137.78:8888/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5+体育赛事,http://123.115.202.110:5001/641886773
-CCTV5+体育赛事,http://123.115.202.110:5001/relay/ysp-cctv5p.m3u8
-CCTV5+体育赛事,http://113.124.186.195:7788/641886773
+CCTV5+体育赛事,http://123.131.38.84:1234/641886773
 CCTV5-体育,http://116.128.243.121:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5-体育,http://221.221.137.78:8888/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5-体育,http://139.227.221.198:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV5-体育,http://60.187.245.110:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV6 电影,http://60.223.94.230:9003/hls/6/index.m3u8
 CCTV6-电影,http://116.128.243.121:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV6-电影,http://221.221.137.78:8888/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV6-电影,http://139.227.221.198:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV6-电影,http://60.187.245.110:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV7 国防军事,http://60.223.94.230:9003/hls/7/index.m3u8
 CCTV7-军事,http://116.128.243.121:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV7-军农,http://221.221.137.78:8888/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV7-军农,http://139.227.221.198:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV7-军农,http://60.187.245.110:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7-军农,http://183.239.248.218:8181/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV8 电视剧,http://60.223.94.230:9003/hls/8/index.m3u8
 CCTV8-电视剧,http://116.128.243.121:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV8-电视剧,http://139.227.221.198:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV8-电视剧,http://60.187.245.110:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV8K超高清,http://123.115.202.110:5001/relay/ysp-cctv8k.m3u8
 CCTV9 纪录,http://60.223.94.230:9003/hls/9/index.m3u8
 CCTV9-纪录,http://116.128.243.121:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV9-纪录,http://221.221.137.78:8888/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV9-纪录,http://139.227.221.198:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV9-纪录,http://60.187.245.110:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV兵器高清,http://120.238.84.45:9901/tsfile/live/1096_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV卫生健康,http://123.115.202.110:5001/relay/ysp-vip-cctvwsjk.m3u8
-CCTV高尔夫·网球,http://123.115.202.110:5001/relay/ysp-vip-cctvgfew.m3u8
-CGTN外语纪录,http://123.115.202.110:5001/609006487
-CGTN外语纪录,http://113.124.186.195:7788/609006487
-CGTN西班牙语,http://123.115.202.110:5001/609006450
-CGTN西班牙语,http://123.115.202.110:5001/relay/ysp-cgtnxby.m3u8
-CGTN西班牙语,http://113.124.186.195:7788/609006450
-CGTN阿拉伯语,http://123.115.202.110:5001/609154345
-CGTN阿拉伯语,http://123.115.202.110:5001/relay/ysp-cgtnalby.m3u8
-CGTN阿拉伯语,http://113.124.186.195:7788/609154345
-CHC高清电影高清,http://221.179.116.213:9901/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
-CNA,http://123.115.202.110:5001/asian-live-cna
-France 24 English,http://123.115.202.110:5001/asian-live-france24-en
-France 24 Français,http://123.115.202.110:5001/asian-live-france24-fr
-G 导视HD,http://221.179.116.213:9901/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
-GRTN生活,http://123.115.202.110:5001/relay/gdtv-102.m3u8
+CGTN外语纪录,http://123.131.38.84:1234/609006487
+CGTN西班牙语,http://123.131.38.84:1234/609006450
+CGTN阿拉伯语,http://123.131.38.84:1234/609154345
 IPTV-3,http://110.72.87.89:808/hls/2012/index.m3u8
 IPTV-3,http://110.72.66.3:808/hls/2012/index.m3u8
 IPTV-3,http://110.72.64.226:808/hls/2012/index.m3u8
-ITF世界网球巡回赛 孙心然斩获青少年年终冠军 【回放】乔丹·李2-0塞斯科（官方解说） 11:30,http://113.124.186.195:7788/968750719
-ITF世界网球巡回赛 孙心然斩获青少年年终冠军 【回放】乔丹·李2-0塞斯科（赛场原声） 11:30,http://113.124.186.195:7788/968749735
-ITF世界网球巡回赛 孙心然斩获青少年年终冠军 【回放】孙心然2-1普什卡列娃（官方解说） 11:30,http://113.124.186.195:7788/968756077
-ITF世界网球巡回赛 孙心然斩获青少年年终冠军 【回放】孙心然2-1普什卡列娃（赛场原声） 11:30,http://113.124.186.195:7788/968755963
-NBA 76人VS活塞 全场回放（王冠证、陈正昊、王羽希） 07:25,http://113.124.186.195:7788/968791861
-NBA 76人VS活塞 全场回放（英文原声） 07:25,http://113.124.186.195:7788/968794397
-NBA 76人VS雄鹿 全场回放（孙博、巩晓彬、闫宇峰、佳依） 07:15,http://113.124.186.195:7788/968743079
-NBA 76人VS雄鹿 全场回放（英文原声） 07:15,http://113.124.186.195:7788/968743002
-NBA 公牛VS奇才 全场回放（刘芳宇） 07:55,http://113.124.186.195:7788/968744893
-NBA 公牛VS奇才 全场回放（英文原声） 07:55,http://113.124.186.195:7788/968746989
-NBA 凯尔特人VS公牛 盛哲 07:25,http://113.124.186.195:7788/968749118
-NBA 凯尔特人VS公牛 英文原声 07:25,http://113.124.186.195:7788/968749220
-NBA 国王VS灰熊 全场回放（英文原声） 08:55,http://113.124.186.195:7788/968795092
-NBA 国王VS灰熊 全场回放（贾磊） 08:55,http://113.124.186.195:7788/968794179
-NBA 太阳VS勇士 全场回放（拜月宁） 09:45,http://113.124.186.195:7788/968746701
-NBA 太阳VS勇士 全场回放（李天宇、陈正昊、郭维盛、廖昕阳） 09:45,http://113.124.186.195:7788/968746781
-NBA 太阳VS勇士 全场回放（英文原声） 09:45,http://113.124.186.195:7788/968752600
-NBA 尼克斯VS魔术 全场回放（张泽欣） 06:55,http://113.124.186.195:7788/968788935
-NBA 尼克斯VS魔术 全场回放（英文原声） 06:55,http://113.124.186.195:7788/968794225
-NBA 掘金VS勇士 智能字幕 09:30,http://113.124.186.195:7788/968787619
-NBA 掘金VS勇士 英文原声 09:55,http://113.124.186.195:7788/968748958
-NBA 掘金VS勇士 董倡硕 09:55,http://113.124.186.195:7788/968748992
-NBA 掘金VS勇士 连睿 曾令旭 小七 09:30,http://113.124.186.195:7788/968748862
-NBA 掘金VS鹈鹕 全场回放（周赫） 08:55,http://113.124.186.195:7788/968746104
-NBA 掘金VS鹈鹕 全场回放（英文原声） 08:55,http://113.124.186.195:7788/968749254
-NBA 森林狼VS猛龙 全场回放（盛哲） 06:55,http://113.124.186.195:7788/968789672
-NBA 森林狼VS猛龙 全场回放（英文原声） 06:55,http://113.124.186.195:7788/968793793
-NBA 火箭VS老鹰 周鹏 08:25,http://113.124.186.195:7788/968748604
-NBA 火箭VS老鹰 庄宁宇 郭维盛 魏欣怡 08:00,http://113.124.186.195:7788/968748426
-NBA 火箭VS老鹰 英文原声 08:25,http://113.124.186.195:7788/968748582
-NBA 热火VS独行侠 智能字幕 07:25,http://113.124.186.195:7788/968787649
-NBA 热火VS独行侠 李天宇 殷文玉 07:25,http://113.124.186.195:7788/968749303
-NBA 热火VS独行侠 英文原声 07:25,http://113.124.186.195:7788/968749332
-NBA 爵士VS湖人 全场回放（姜帆、季孟年） 04:55,http://113.124.186.195:7788/968785481
-NBA 爵士VS湖人 全场回放（英文原声） 04:55,http://113.124.186.195:7788/968787426
-NBA 爵士VS灰熊 英文原声 08:55,http://113.124.186.195:7788/968748774
-NBA 爵士VS灰熊 贾磊 08:55,http://113.124.186.195:7788/968748732
-NBA 独行侠VS马刺 全场回放（徐秦威） 07:55,http://113.124.186.195:7788/968743403
-NBA 独行侠VS马刺 全场回放（王晓晨） 07:55,http://113.124.186.195:7788/968743389
-NBA 独行侠VS马刺 全场回放（英文原声） 07:55,http://113.124.186.195:7788/968745760
-NBA 篮网VS步行者 全场回放（刘芳宇） 05:55,http://113.124.186.195:7788/968784777
-NBA 篮网VS步行者 全场回放（英文原声） 05:55,http://113.124.186.195:7788/968789025
-NBA 老鹰VS火箭 全场回放（英文原声） 08:25,http://113.124.186.195:7788/968746420
-NBA 老鹰VS火箭 全场回放（连睿、刘铁、周鹏、秋童） 08:25,http://113.124.186.195:7788/968744965
-NBA 雄鹿VS步行者 宋俊潼 07:55,http://113.124.186.195:7788/968749417
-NBA 雄鹿VS步行者 英文原声 07:55,http://113.124.186.195:7788/968747503
-NBA 雷霆VS太阳 李嘉伟 07:55,http://113.124.186.195:7788/968748145
-NBA 雷霆VS太阳 英文原声 07:55,http://113.124.186.195:7788/968748195
-NBA 雷霆VS快船 全场回放（周赫） 06:55,http://113.124.186.195:7788/968788814
-NBA 雷霆VS快船 全场回放（英文原声） 06:55,http://113.124.186.195:7788/968792110
-NBA 骑士VS森林狼 英文原声 06:55,http://113.124.186.195:7788/968748963
-NBA 骑士VS森林狼 邵化谦 闫宇峰 06:55,http://113.124.186.195:7788/968748948
-NBA 骑士VS篮网 全场回放（姜帆） 07:25,http://113.124.186.195:7788/968743156
-NBA 骑士VS篮网 全场回放（英文原声） 07:25,http://113.124.186.195:7788/968745709
-NBA 黄蜂VS奇才 王凯 06:55,http://113.124.186.195:7788/968748767
-NBA 黄蜂VS奇才 英文原声 06:55,http://113.124.186.195:7788/968748785
-NBA 黄蜂VS热火 全场回放（张泽欣） 05:55,http://113.124.186.195:7788/968738088
-NBA 黄蜂VS热火 全场回放（英文原声） 05:55,http://113.124.186.195:7788/968741542
-NHL FAST,https://123.115.202.110:5001/playlist1080p.m3u8
-PPA亚洲职业匹克球巡回赛 PPA香港1500大满贯赛事 Day6 2026PPA香港1500大满贯赛事Day6全场回放（赛场原声）（一） 13:00,http://113.124.186.195:7788/968758063
-PPA亚洲职业匹克球巡回赛 PPA香港1500大满贯赛事 Day6 2026PPA香港1500大满贯赛事Day6全场回放（赛场原声）（二） 13:00,http://113.124.186.195:7788/968770165
-Red Bull TV,https://123.115.202.110:5001/hls/live/590964/BoRB-AT/master_6660.m3u8
-Reuters,https://123.115.202.110:5001/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/e7493ea5-5c1c-4d7a-a3f7-e95516048ad8/3.m3u8
-TVBS亚洲,http://123.115.202.110:5001/hls/modn/list/4005/playlist.m3u8
-UFC 24/7,https://123.115.202.110:5001/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/194a140c-0cf5-443e-b747-08bf621d75a8/0.m3u8
-WTA 克劳茨克/斯朵拉女双登顶 【女单决赛】莱巴金娜2-0费尔南德斯（邱超） 14:30,http://113.124.186.195:7788/968757930
-WTA 克劳茨克/斯朵拉女双登顶 【女双决赛】布克沙/梅里查尔1-2克劳茨克/斯朵拉（赛场原声） 14:30,http://113.124.186.195:7788/968756477
-WTA 克劳茨克/斯朵拉女双登顶 【女双决赛】布克沙/梅里查尔1-2克劳茨克/斯朵拉（鸿昆） 14:30,http://113.124.186.195:7788/968754972
-WTA 克鲁格VS西尼亚科娃 【女单决赛】克鲁格0-2西尼亚科娃（AI同声传译） 12:30,http://113.124.186.195:7788/968752383
-WTA 克鲁格VS西尼亚科娃 【女单决赛】克鲁格0-2西尼亚科娃（宋光振） 12:30,http://113.124.186.195:7788/968751939
-WTA 克鲁格VS西尼亚科娃 【女单决赛】克鲁格0-2西尼亚科娃（英文原声） 12:30,http://113.124.186.195:7788/968753171
-WTA 克鲁格VS西尼亚科娃 【女单决赛】克鲁格0-2西尼亚科娃（赛场原声） 12:30,http://113.124.186.195:7788/968753385
-WTA 王欣瑜VS帕克斯 【回放】王欣瑜0-2帕克斯（李宁） 09:30,http://113.124.186.195:7788/968793079
-WTA 王欣瑜VS帕克斯 【回放】王欣瑜0-2帕克斯（英文原声） 09:30,http://113.124.186.195:7788/968801009
-WTA 王欣瑜VS帕克斯 【回放】王欣瑜0-2帕克斯（赛场原声） 09:30,http://113.124.186.195:7788/968794565
-WTA 莱巴金娜VS费尔南德斯 全场回放 17:00,http://113.124.186.195:7788/968760083
-WTA 费尔南德斯、大坂直美领衔出战 英文原声 09:30,http://113.124.186.195:7788/968660926
-WTA 费尔南德斯、大坂直美领衔出战 解说 09:30,http://113.124.186.195:7788/968693776
-WTA 费尔南德斯、大坂直美领衔出战 赛场原声 09:30,http://113.124.186.195:7788/968660895
-WTT 孙颖莎冲开门红 林诗栋PK林锺勋 周冠达 侯英超 徐晨皓 18:00,http://113.124.186.195:7788/968633745
-WTT 孙颖莎冲开门红 林诗栋PK林锺勋 智能字幕 19:00,http://113.124.186.195:7788/968636365
-WTT 孙颖莎冲开门红 林诗栋PK林锺勋 赛场原声 19:00,http://113.124.186.195:7788/968633189
-WTT 抽签：曼昱、莎莎分守上下半区 梁靖崑vs温瑞博 全场回放 21:00,http://113.124.186.195:7788/968762062
-World Poker Tour,http://123.115.202.110:5001/asian-live-world-poker-tour
-《红男绿女》慢直播,http://123.115.202.110:5001/proxy/jlntv-slow-red-man-green-woman.m3u8
-三明综合,https://123.115.202.110:5001/hb_smtv/sd/live.m3u8?_upt=0f89196e1793037021
-三汊河,https://123.115.202.110:5001/hls/e01482be-9a78-4c14-a76a-250f733fd993/index.m3u8
-上海国际跳绳精英赛 上海国际跳绳精英赛 2026年上海国际跳绳精英赛Day2全场回放（官方解说）（一） 13:45,http://113.124.186.195:7788/968753219
-上海国际跳绳精英赛 上海国际跳绳精英赛 2026年上海国际跳绳精英赛Day2全场回放（官方解说）（二） 13:45,http://113.124.186.195:7788/968758099
-上海新闻综合,http://123.115.202.110:5001/proxy/kankanews-2.m3u8
-上海第一财经,http://113.124.186.195:7788/608780988
-上视东方影视,http://123.115.202.110:5001/617290047
-上视东方影视,http://113.124.186.195:7788/617290047
-上视新闻综合,http://113.124.186.195:7788/651632657
+IPTV-3,http://110.72.82.161:808/hls/2012/index.m3u8
+IPTV-5,http://110.72.82.161:808/hls/2014/index.m3u8
+IPTV-6,http://110.72.82.161:808/hls/2015/index.m3u8
+IPTV-8,http://110.72.82.161:808/hls/2017/index.m3u8
+NBA 公牛VS尼克斯 王琰博 07:55,http://123.131.38.84:1234/968748326
+NBA 公牛VS尼克斯 英文原声 07:55,http://123.131.38.84:1234/968748263
+NBA 凯尔特人VS公牛 全场回放（盛哲） 07:25,http://123.131.38.84:1234/968819297
+NBA 凯尔特人VS公牛 全场回放（英文原声） 07:25,http://123.131.38.84:1234/968821456
+NBA 凯尔特人VS篮网 刘圳展 07:25,http://123.131.38.84:1234/968749031
+NBA 凯尔特人VS篮网 英文原声 07:25,http://123.131.38.84:1234/968746916
+NBA 尼克斯VS活塞 张泽欣 07:55,http://123.131.38.84:1234/968747002
+NBA 尼克斯VS活塞 智能字幕 07:55,http://123.131.38.84:1234/968787603
+NBA 尼克斯VS活塞 英文原声 07:55,http://123.131.38.84:1234/968747041
+NBA 快船VS湖人 孙博 曾令旭 季孟年 10:00,http://123.131.38.84:1234/968747000
+NBA 快船VS湖人 智能字幕 10:00,http://123.131.38.84:1234/968787556
+NBA 快船VS湖人 英文原声 10:25,http://123.131.38.84:1234/968750473
+NBA 掘金VS勇士 全场回放（英文原声） 09:30,http://123.131.38.84:1234/968823162
+NBA 掘金VS勇士 全场回放（董倡硕） 09:30,http://123.131.38.84:1234/968823018
+NBA 掘金VS勇士 全场回放（连睿、曾令旭、小七） 09:30,http://123.131.38.84:1234/968823014
+NBA 森林狼VS勇士 姜帆 马健 闫宇峰 07:30,http://123.131.38.84:1234/968747082
+NBA 森林狼VS勇士 拜月宁 07:55,http://123.131.38.84:1234/968747116
+NBA 森林狼VS勇士 智能字幕 07:30,http://123.131.38.84:1234/968787577
+NBA 森林狼VS勇士 英文原声 07:55,http://123.131.38.84:1234/968747162
+NBA 步行者VS76人 李天宇 陈正昊 殷文玉 06:30,http://123.131.38.84:1234/968749293
+NBA 步行者VS76人 洪荒 06:55,http://123.131.38.84:1234/968749225
+NBA 步行者VS76人 英文原声 06:55,http://123.131.38.84:1234/968749203
+NBA 步行者VS76人 莫俊祺 06:55,http://123.131.38.84:1234/968749240
+NBA 活塞VS黄蜂 张泽欣 06:55,http://123.131.38.84:1234/968749391
+NBA 活塞VS黄蜂 英文原声 06:55,http://123.131.38.84:1234/968749365
+NBA 湖人VS开拓者 智能字幕 10:30,http://123.131.38.84:1234/968787594
+NBA 湖人VS开拓者 杨健 苏群 曾令旭 10:30,http://123.131.38.84:1234/968747238
+NBA 湖人VS开拓者 英文原声 10:55,http://123.131.38.84:1234/968747268
+NBA 湖人VS开拓者 邢晨 10:55,http://123.131.38.84:1234/968747253
+NBA 火箭VS老鹰 全场回放（周鹏） 08:25,http://123.131.38.84:1234/968821701
+NBA 火箭VS老鹰 全场回放（庄宁宇、郭维盛、魏欣怡） 08:25,http://123.131.38.84:1234/968821529
+NBA 火箭VS老鹰 全场回放（英文原声） 08:25,http://123.131.38.84:1234/968822847
+NBA 热火VS独行侠 全场回放（李天宇、殷文玉） 07:25,http://123.131.38.84:1234/968819665
+NBA 热火VS独行侠 全场回放（英文原声） 07:25,http://123.131.38.84:1234/968822835
+NBA 爵士VS灰熊 全场回放（英文原声） 08:55,http://123.131.38.84:1234/968822901
+NBA 爵士VS灰熊 全场回放（贾磊） 08:55,http://123.131.38.84:1234/968822216
+NBA 爵士VS马刺 王晓晨 08:55,http://123.131.38.84:1234/968748685
+NBA 爵士VS马刺 英文原声 08:55,http://123.131.38.84:1234/968748725
+NBA 爵士VS马刺 连睿 08:55,http://123.131.38.84:1234/968748619
+NBA 独行侠VS雷霆 庄宁宇 郭维盛 09:25,http://123.131.38.84:1234/968748881
+NBA 独行侠VS雷霆 英文原声 09:25,http://123.131.38.84:1234/968748960
+NBA 猛龙VS魔术 罗森 07:25,http://123.131.38.84:1234/968748606
+NBA 猛龙VS魔术 英文原声 07:25,http://123.131.38.84:1234/968748566
+NBA 老鹰VS热火 周赫 06:55,http://123.131.38.84:1234/968747452
+NBA 老鹰VS热火 英文原声 06:55,http://123.131.38.84:1234/968747551
+NBA 雄鹿VS步行者 全场回放（宋俊潼） 07:55,http://123.131.38.84:1234/968820527
+NBA 雄鹿VS步行者 全场回放（英文原声） 07:55,http://123.131.38.84:1234/968822667
+NBA 雄鹿VS火箭 英文原声 07:55,http://123.131.38.84:1234/968746775
+NBA 雄鹿VS火箭 邵化谦 周鹏 07:55,http://123.131.38.84:1234/968747821
+NBA 雷霆VS太阳 全场回放（李嘉伟） 07:55,http://123.131.38.84:1234/968820217
+NBA 雷霆VS太阳 全场回放（英文原声） 07:55,http://123.131.38.84:1234/968822508
+NBA 马刺VS国王 李嘉伟 07:55,http://123.131.38.84:1234/968747121
+NBA 马刺VS国王 王晓晨 07:55,http://123.131.38.84:1234/968747168
+NBA 马刺VS国王 英文原声 07:55,http://123.131.38.84:1234/968747181
+NBA 骑士VS奇才 刘圳展 06:55,http://123.131.38.84:1234/968749564
+NBA 骑士VS奇才 英文原声 06:55,http://123.131.38.84:1234/968749509
+NBA 骑士VS森林狼 全场回放（英文原声） 06:55,http://123.131.38.84:1234/968821474
+NBA 骑士VS森林狼 全场回放（邵化谦、闫宇峰） 06:55,http://123.131.38.84:1234/968819526
+NBA 鹈鹕VS掘金 王凯 07:55,http://123.131.38.84:1234/968747450
+NBA 鹈鹕VS掘金 英文原声 07:55,http://123.131.38.84:1234/968747817
+NBA 黄蜂VS奇才 全场回放（王凯） 06:55,http://123.131.38.84:1234/968817908
+NBA 黄蜂VS奇才 全场回放（英文原声） 06:55,http://123.131.38.84:1234/968820557
+WTA 亚历山德洛娃率先出战 伊埃拉压场亮相 英文原声 09:30,http://123.131.38.84:1234/968661001
+WTA 亚历山德洛娃率先出战 伊埃拉压场亮相 解说 09:30,http://123.131.38.84:1234/968693796
+WTA 亚历山德洛娃率先出战 伊埃拉压场亮相 赛场原声 09:30,http://123.131.38.84:1234/968660965
+WTA 大坂直美东京首战告捷 【回放】乔恩特2-0科斯蒂亚（英文原声） 09:30,http://123.131.38.84:1234/968822598
+WTA 大坂直美东京首战告捷 【回放】乔恩特2-0科斯蒂亚（赛场原声） 09:30,http://123.131.38.84:1234/968822586
+WTA 大坂直美东京首战告捷 【回放】普丁塞娃2-1萨卡里（英文原声） 09:30,http://123.131.38.84:1234/968826751
+WTA 大坂直美东京首战告捷 【女单第1轮】大坂直美2-0保利尼（赛场原声） 09:30,http://123.131.38.84:1234/968832063
+WTA 大坂直美东京首战告捷 【女单第1轮】普丁塞娃2-1萨卡里（赛场原声） 09:30,http://123.131.38.84:1234/968826973
+WTA 大坂直美东京首战告捷 【女单第1轮】费尔南德斯2-0坂诘姬野（赛场原声） 09:30,http://123.131.38.84:1234/968828792
+WTA 女单第二轮 英文原声 09:30,http://123.131.38.84:1234/968661066
+WTA 女单第二轮 解说 09:30,http://123.131.38.84:1234/968693819
+WTA 女单第二轮 赛场原声 09:30,http://123.131.38.84:1234/968661042
+WTT 孙颖莎勇夺开门红 林诗栋晋级16强 2026WTT蒙彼利埃冠军赛Day1晚间场全场回放（AI智慧观赛） 19:00,http://123.131.38.84:1234/968841627
+WTT 孙颖莎勇夺开门红 林诗栋晋级16强 2026WTT蒙彼利埃冠军赛Day1晚间场全场回放（CCTV5） 19:00,http://123.131.38.84:1234/968841194
+WTT 孙颖莎勇夺开门红 林诗栋晋级16强 全场回放（周冠达、侯英超、徐晨皓） 19:00,http://123.131.38.84:1234/968839360
+WTT 孙颖莎勇夺开门红 林诗栋晋级16强 全场回放（智能字幕） 19:00,http://123.131.38.84:1234/968839789
+WTT 孙颖莎勇夺开门红 林诗栋晋级16强 全场回放（智能解说） 19:00,http://123.131.38.84:1234/968840323
+WTT 张本智和冲16强 A·勒布伦PK弗朗西斯卡 智能字幕 01:30,http://123.131.38.84:1234/968636328
+WTT 张本智和冲16强 A·勒布伦PK弗朗西斯卡 李柯鑫 01:30,http://123.131.38.84:1234/968633623
+WTT 张本智和冲16强 A·勒布伦PK弗朗西斯卡 赛场原声 01:30,http://123.131.38.84:1234/968633116
+WTT 温瑞博首轮迎战梁靖崑 向鹏vs奥恰洛夫 周冠达 侯英超 程靖淇 18:00,http://123.131.38.84:1234/968633717
+WTT 温瑞博首轮迎战梁靖崑 向鹏vs奥恰洛夫 智能字幕 19:00,http://123.131.38.84:1234/968636318
+WTT 温瑞博首轮迎战梁靖崑 向鹏vs奥恰洛夫 赛场原声 19:00,http://123.131.38.84:1234/968633101
+WTT 王曼昱、蒯曼冲首胜 周启豪首轮对决吴晙诚 周冠达 侯英超 程靖淇 18:00,http://123.131.38.84:1234/968633734
+WTT 王曼昱、蒯曼冲首胜 周启豪首轮对决吴晙诚 智能字幕 19:00,http://123.131.38.84:1234/968636341
+WTT 王曼昱、蒯曼冲首胜 周启豪首轮对决吴晙诚 赛场原声 19:00,http://123.131.38.84:1234/968633137
+WTT 陈熠3-1闯进16强 松岛辉空鏖战五局晋级 张靖松 01:30,http://123.131.38.84:1234/968633636
+WTT 陈熠3-1闯进16强 松岛辉空鏖战五局晋级 智能字幕 01:30,http://123.131.38.84:1234/968636345
+WTT 陈熠3-1闯进16强 松岛辉空鏖战五局晋级 赛场原声 01:30,http://123.131.38.84:1234/968633159
+上海第一财经,http://123.131.38.84:1234/608780988
+上视东方影视,http://123.131.38.84:1234/617290047
+上视新闻综合,http://123.131.38.84:1234/651632657
+东亚超级联赛 桃园璞园领航猿VS琉球黄金帝王 季孟年 18:50,http://123.131.38.84:1234/968817250
+东亚超级联赛 桃园璞园领航猿VS琉球黄金帝王 英文解说 18:50,http://123.131.38.84:1234/968074903
+东亚超级联赛 桃园璞园领航猿VS琉球黄金帝王 赛场原声 18:50,http://123.131.38.84:1234/968074918
+东亚超级联赛 澳门昊骏VS长崎维尔卡 周鹏 19:50,http://123.131.38.84:1234/968817231
+东亚超级联赛 澳门昊骏VS长崎维尔卡 英文解说 19:50,http://123.131.38.84:1234/968074926
+东亚超级联赛 澳门昊骏VS长崎维尔卡 赛场原声 19:50,http://123.131.38.84:1234/968074941
+东方海外,http://110.72.82.161:808/hls/69/index.m3u8
 东方高清,http://110.72.87.89:808/hls/1004/index.m3u8
 东方高清,http://110.72.66.3:808/hls/1004/index.m3u8
 东方高清,http://110.72.64.226:808/hls/1004/index.m3u8
-中乙 山东泰山B队VS江西庐山 全场回放（官方解说） 15:20,http://113.124.186.195:7788/968806613
-中乙 广东铭途VS长春喜都 全场回放 19:20,http://113.124.186.195:7788/968769507
-中乙 广东铭途VS长春喜都 全场回放（官方解说） 19:20,http://113.124.186.195:7788/968768137
-中乙 海门珂缔缘VS武汉三镇B队 全场回放 19:20,http://113.124.186.195:7788/968769967
-中乙 海门珂缔缘VS武汉三镇B队 全场回放（官方解说） 19:20,http://113.124.186.195:7788/968766526
-中乙 深圳二零二八VS大连可为 全场回放（官方解说） 19:20,http://113.124.186.195:7788/968768199
-中乙 湖北青年星VS上海赛更达 全场回放（官方解说） 16:50,http://113.124.186.195:7788/968758730
-中华特产,http://113.124.186.195:7788/959986618
-中国农林卫视,http://123.115.202.110:5001/956904896
-中国农林卫视,http://113.124.186.195:7788/956904896
-中国自行车运动协会系列赛 中国泵道自行车联赛北京门头沟站 2026中国泵道自行车联赛北京门头沟站Day2全场回放（官方解说）（一） 07:50,http://113.124.186.195:7788/968752327
-中国自行车运动协会系列赛 中国泵道自行车联赛北京门头沟站 2026中国泵道自行车联赛北京门头沟站Day2全场回放（官方解说）（二） 07:50,http://113.124.186.195:7788/968756469
-中甲 定南赣联VS延边龙鼎 全场回放（官方解说） 19:20,http://113.124.186.195:7788/968766641
-中甲 广东广州豹足球俱乐部VS苏州东吴 全场回放（官方解说） 19:20,http://113.124.186.195:7788/968764090
-中甲 无锡吴钩VS陕西联合 全场回放（官方解说） 18:50,http://113.124.186.195:7788/968763911
-临江市·江心岛,http://123.115.202.110:5001/proxy/jlntv-slow-jiangxin-island.m3u8
-临汾-1,http://123.115.202.110:5001/relay/shanxi-linfen-1.m3u8
-临沧综合,http://123.115.202.110:5001/proxy/yunnan-lincang.m3u8
-乌兰察布,http://123.115.202.110:5001/proxy/nmtv-ulanqab.m3u8
-乌海,http://123.115.202.110:5001/proxy/nmtv-wuhai.m3u8
-乒乓球亚锦赛 石油组合横扫晋级 陈熠笑傲姐妹战 全场回放（一号桌） 13:00,http://113.124.186.195:7788/968755130
-乒乓球亚锦赛 石油组合横扫晋级 陈熠笑傲姐妹战 全场回放（二号桌） 13:00,http://113.124.186.195:7788/968756080
-乒乓球亚锦赛 石油组合横扫晋级 陈熠笑傲姐妹战 全场回放（马特） 13:00,http://113.124.186.195:7788/968753914
-乒乓球亚锦赛 陈熠横扫张本美和夺冠 李天阳2-3张本智和 【女单决赛】张本美和0-3陈熠 17:00,http://113.124.186.195:7788/968759700
-乒乓球亚锦赛 陈熠横扫张本美和夺冠 李天阳2-3张本智和 【女双决赛】张本美和/早田希娜1-3蒯曼/王艺迪 17:00,http://113.124.186.195:7788/968757322
-乒乓球亚锦赛 陈熠横扫张本美和夺冠 李天阳2-3张本智和 【女团决赛】中国2-3日本 17:00,http://113.124.186.195:7788/968643619
-乒乓球亚锦赛 陈熠横扫张本美和夺冠 李天阳2-3张本智和 【混双决赛】黄友政/陈熠2-3松岛辉空/张本美和 17:00,http://113.124.186.195:7788/968673373
-乒乓球亚锦赛 陈熠横扫张本美和夺冠 李天阳2-3张本智和 【男单决赛】李天阳2-3张本智和 17:00,http://113.124.186.195:7788/968761790
-乒乓球亚锦赛 陈熠横扫张本美和夺冠 李天阳2-3张本智和 【男双决赛】林诗栋/黄友政3-1温瑞博/袁励岑 17:00,http://113.124.186.195:7788/968758285
-乒乓球亚锦赛 陈熠横扫张本美和夺冠 李天阳2-3张本智和 【男团决赛】韩国0-3中国 17:00,http://113.124.186.195:7788/968646552
-乒乓球亚锦赛 陈熠横扫张本美和夺冠 李天阳2-3张本智和 全场回放 17:00,http://113.124.186.195:7788/968768044
-乒乓球亚锦赛 陈熠横扫张本美和夺冠 李天阳2-3张本智和 全场回放（周冠达、侯英超、程靖淇） 17:00,http://113.124.186.195:7788/968764895
-云南康旅,http://123.115.202.110:5001/proxy/yunnan-travel.m3u8
-云南白马雪山自然保护区,http://123.115.202.110:5001/proxy/ipanda-yunnan-baima-snow-mountain.m3u8
-云南都市,http://123.115.202.110:5001/proxy/yunnan-urban.m3u8
-云南｜云南红河建水双龙桥,http://123.115.202.110:5001/proxy/livechina-pshdxg01.m3u8
-云南｜云南驿茶马古道,http://123.115.202.110:5001/proxy/livechina-tyhjtys.m3u8
-云南｜保山板桥镇青龙街,http://123.115.202.110:5001/proxy/livechina-ylxs12.m3u8
-云南｜勐焕大金塔,http://123.115.202.110:5001/proxy/livechina-dhyyqsm.m3u8
-云南｜千年古寨曼丢,http://123.115.202.110:5001/proxy/livechina-fcw03.m3u8
-云南｜寻甸县城区,http://123.115.202.110:5001/proxy/livechina-mdjxxmhjyxj.m3u8
-云南｜弥勒月亮小镇,http://123.115.202.110:5001/proxy/livechina-hsyg.m3u8
-云南｜景迈山,http://123.115.202.110:5001/proxy/livechina-tms05.m3u8
-云南｜樱花谷,http://123.115.202.110:5001/proxy/livechina-taishan01.m3u8
-云南｜瓦窑镇瓦窑码头,http://123.115.202.110:5001/proxy/livechina-hsxhdxg.m3u8
-五华,http://221.179.116.213:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-五四广场,https://123.115.202.110:5001/aqdwsgc2022/manifest.m3u8
-五马渡,https://123.115.202.110:5001/hls/019fe26e-5595-4330-a3be-df72d5e01e6b/index.m3u8
-亚冠精英 上海海港VS河内公安 娄一晨 刘越 邵凌霄 17:30,http://113.124.186.195:7788/968742780
-亚冠精英 上海海港VS河内公安 赛场原声 17:45,http://113.124.186.195:7788/968635313
-亚冠精英 京都不死鸟VS纽卡斯尔喷气机足球俱乐部 孙雨轩 17:45,http://113.124.186.195:7788/968635097
-亚冠精英 京都不死鸟VS纽卡斯尔喷气机足球俱乐部 赛场原声 17:45,http://113.124.186.195:7788/968635078
-亚冠精英 北京国安VS全北现代 苏东 董方卓 程思钦 19:45,http://113.124.186.195:7788/968635010
-亚冠精英 北京国安VS全北现代 赛场原声 20:00,http://113.124.186.195:7788/968634995
-亚冠精英 吉达国民VS加拉法体育 赛场原声 23:45,http://113.124.186.195:7788/968634582
-亚冠精英 吉达国民VS加拉法体育 鲁靖明 23:45,http://113.124.186.195:7788/968634600
-亚冠精英 大田韩亚市民VS神户胜利船 石庆圣 17:45,http://113.124.186.195:7788/968635275
-亚冠精英 大田韩亚市民VS神户胜利船 赛场原声 17:45,http://113.124.186.195:7788/968635257
-亚冠精英 巴格达空军VS塔什干棉农 张昊泽 02:00,http://113.124.186.195:7788/968635164
-亚冠精英 巴格达空军VS塔什干棉农 赛场原声 02:00,http://113.124.186.195:7788/968635141
-亚冠精英 拉查武里VS柏太阳神 盛斌 20:00,http://113.124.186.195:7788/968634960
-亚冠精英 拉查武里VS柏太阳神 赛场原声 20:00,http://113.124.186.195:7788/968634901
-亚冠精英 柔佛新山VS泰港 张昊泽 17:45,http://113.124.186.195:7788/968635053
-亚冠精英 柔佛新山VS泰港 赛场原声 17:45,http://113.124.186.195:7788/968635047
-亚冠精英 胡拜尔库迪西亚VS萨德 涂远 02:00,http://113.124.186.195:7788/968635116
-亚冠精英 胡拜尔库迪西亚VS萨德 赛场原声 02:00,http://113.124.186.195:7788/968635107
-亚冠精英 艾因VS大不里士拖拉机 孙雨轩 23:45,http://113.124.186.195:7788/968634541
-亚冠精英 艾因VS大不里士拖拉机 赛场原声 23:45,http://113.124.186.195:7788/968634517
-亚冠精英 费尔干纳石油工人VS吉达联合 智能解说 21:40,http://113.124.186.195:7788/968694650
-亚冠精英 费尔干纳石油工人VS吉达联合 李霄 21:30,http://113.124.186.195:7788/968634467
-亚冠精英 费尔干纳石油工人VS吉达联合 赛场原声 21:30,http://113.124.186.195:7788/968634446
-仙游电视台,http://123.115.202.110:5001/relay/putian-xianyou.m3u8
-优漫卡通频道,http://113.124.186.195:7788/626064703
-体坛名栏汇,http://123.115.202.110:5001/629943305
-体坛名栏汇,http://113.124.186.195:7788/629943305
-体育休闲频道,http://113.124.186.195:7788/626064707
-保定,http://123.115.202.110:5001/relay/hebtv-11605042.m3u8
-全国垂钓俱乐部挑战赛 2026“武昌鱼”杯全国垂钓俱乐部挑战赛（鄂城 · 鄂州） 2026“武昌鱼”杯全国垂钓俱乐部挑战赛（鄂州鄂城站）Day3全场回放（官方解说）（一） 08:00,http://113.124.186.195:7788/968756029
-全国垂钓俱乐部挑战赛 2026“武昌鱼”杯全国垂钓俱乐部挑战赛（鄂城 · 鄂州） 2026“武昌鱼”杯全国垂钓俱乐部挑战赛（鄂州鄂城站）Day3全场回放（官方解说）（二） 08:00,http://113.124.186.195:7788/968757077
-全国游泳锦标赛 张雨霏100米个人混合泳预赛第一晋级 全场回放（赛场原声） 09:00,http://113.124.186.195:7788/968749884
-全国游泳锦标赛 潘展乐斩获100米混合泳冠军 2026年全国游泳锦标赛Day4全场回放（赛场原声） 19:00,http://113.124.186.195:7788/968811093
-全国游泳锦标赛 潘展乐男子100米自由泳冲冠 2026年全国游泳锦标赛Day3全场回放（赛场原声） 19:00,http://113.124.186.195:7788/968767601
-全国游泳锦标赛 王曦喆男子100米蝶泳预赛第一 2026年全国游泳锦标赛Day4全场回放（赛场原声） 09:00,http://113.124.186.195:7788/968798674
-全国游泳锦标赛 男女子100米蝶泳 决赛 清流播出 19:00,http://113.124.186.195:7788/968638371
-全国游泳锦标赛 男女子400米个人混合泳 清流播出 09:00,http://113.124.186.195:7788/968637939
-公共新闻频道,http://113.124.186.195:7788/626064693
-公视高清,http://123.115.202.110:5001/0.ts
+东方高清,http://110.72.82.161:808/hls/1004/index.m3u8
+中华特产,http://123.131.38.84:1234/959986618
+中国农林卫视,http://123.131.38.84:1234/956904896
+中国围棋甲级联赛 围甲总决赛第一轮 解说 14:00,http://123.131.38.84:1234/968822990
+中国教育1,http://110.72.82.161:808/hls/129/index.m3u8
+中国电影,http://110.72.82.161:808/hls/61/index.m3u8
+中国电影2,http://110.72.82.161:808/hls/65/index.m3u8
+中央13新闻,http://183.131.110.207:85/tsfile/live/29/2016_1.m3u8?key=txiptv
+中央1台,http://183.131.110.207:85/tsfile/live/1/2001_1.m3u8?key=txiptv
+中央4中文国际,http://183.131.110.207:85/tsfile/live/5/2004_1.m3u8?key=txiptv
+中央6电影,http://183.131.110.207:85/tsfile/live/8/2006_1.m3u8?key=txiptv
+亚冠二级 万隆VS墨尔本胜利 张天翼 20:00,http://123.131.38.84:1234/968634728
+亚冠二级 万隆VS墨尔本胜利 智能解说 20:10,http://123.131.38.84:1234/968694626
+亚冠二级 万隆VS墨尔本胜利 赛场原声 20:00,http://123.131.38.84:1234/968634702
+亚冠二级 上海申花VS町田泽维亚 石庆圣 李彦 孙蕊 19:45,http://123.131.38.84:1234/968635255
+亚冠二级 上海申花VS町田泽维亚 赛场原声 20:00,http://123.131.38.84:1234/968635241
+亚冠二级 大埔VS巴吞联 周楚雄 20:00,http://123.131.38.84:1234/968635199
+亚冠二级 大埔VS巴吞联 赛场原声 20:00,http://123.131.38.84:1234/968635189
+亚冠二级 巴格达警察VS伊尔比德侯赛因 洪宇青 02:00,http://123.131.38.84:1234/968634681
+亚冠二级 巴格达警察VS伊尔比德侯赛因 赛场原声 02:00,http://123.131.38.84:1234/968634652
+亚冠二级 戈尔戈哈尔锡尔詹VS阿尔卡达格 乔迁 21:30,http://123.131.38.84:1234/968634610
+亚冠二级 戈尔戈哈尔锡尔詹VS阿尔卡达格 赛场原声 21:30,http://123.131.38.84:1234/968634554
+亚冠二级 永恒体育VS阿布扎比统一 刘一臻 02:00,http://123.131.38.84:1234/968634515
+亚冠二级 永恒体育VS阿布扎比统一 赛场原声 02:00,http://123.131.38.84:1234/968634450
+亚冠二级 江原VS古晋 刘洋 17:45,http://123.131.38.84:1234/968635168
+亚冠二级 江原VS古晋 赛场原声 17:45,http://123.131.38.84:1234/968635118
+亚冠二级 淡滨尼流浪者VS柴桢 张天翼 17:45,http://123.131.38.84:1234/968634857
+亚冠二级 淡滨尼流浪者VS柴桢 赛场原声 17:45,http://123.131.38.84:1234/968634837
+亚冠二级 电讯体工VS首尔 刘洋 20:00,http://123.131.38.84:1234/968634770
+亚冠二级 电讯体工VS首尔 赛场原声 20:00,http://123.131.38.84:1234/968634756
+亚冠二级 纳萨夫VS科威特竞技 吴子越 21:30,http://123.131.38.84:1234/968634525
+亚冠二级 纳萨夫VS科威特竞技 赛场原声 21:30,http://123.131.38.84:1234/968634493
+亚冠二级 费萨里体育VS布赖代合作 洪宇青 02:00,http://123.131.38.84:1234/968634564
+亚冠二级 费萨里体育VS布赖代合作 赛场原声 02:00,http://123.131.38.84:1234/968634538
+亚冠二级 金边皇冠VS杰志 吴子越 20:00,http://123.131.38.84:1234/968635293
+亚冠二级 金边皇冠VS杰志 赛场原声 20:00,http://123.131.38.84:1234/968635281
+亚冠二级 锡卜VS东孟加拉 全场回放（乔迁） 23:45,http://123.131.38.84:1234/968840453
+亚冠二级 阿尔纳达VS赖扬 赛场原声 23:45,http://123.131.38.84:1234/968634333
+亚冠二级 阿尔纳达VS赖扬 鹿中原 23:45,http://123.131.38.84:1234/968634461
+亚冠二级 阿布扎比半岛足球俱乐部VS穆哈拉格 周楚雄 23:45,http://123.131.38.84:1234/968634354
+亚冠二级 阿布扎比半岛足球俱乐部VS穆哈拉格 赛场原声 23:45,http://123.131.38.84:1234/968634331
+亚冠二级 阿德莱德联VS狮城水手 赛场原声 15:30,http://123.131.38.84:1234/968634802
+亚冠二级 阿德莱德联VS狮城水手 鹿中原 15:30,http://123.131.38.84:1234/968634821
+亚冠精英 上海海港VS河内公安 全场回放（娄一晨、刘越、邵凌霄） 17:45,http://123.131.38.84:1234/968834217
+亚冠精英 京都不死鸟VS纽卡斯尔喷气机足球俱乐部 全场回放（孙雨轩） 17:45,http://123.131.38.84:1234/968835268
+亚冠精英 北京国安VS全北现代 全场回放（苏东、董方卓、程思钦） 20:00,http://123.131.38.84:1234/968837160
+亚冠精英 北部区体育VS利雅得新月 涂远 02:00,http://123.131.38.84:1234/968635244
+亚冠精英 北部区体育VS利雅得新月 赛场原声 02:00,http://123.131.38.84:1234/968635227
+亚冠精英 吉达国民VS加拉法体育 全场回放（鲁靖明） 23:45,http://123.131.38.84:1234/968812950
+亚冠精英 大田韩亚市民VS神户胜利船 全场回放 17:45,http://123.131.38.84:1234/968836805
+亚冠精英 大田韩亚市民VS神户胜利船 全场回放（石庆圣） 17:45,http://123.131.38.84:1234/968833605
+亚冠精英 大阪钢巴VS武里南联 盛斌 17:45,http://123.131.38.84:1234/968634864
+亚冠精英 大阪钢巴VS武里南联 赛场原声 17:45,http://123.131.38.84:1234/968634833
+亚冠精英 巴格达空军VS塔什干棉农 全场回放（张昊泽） 02:00,http://123.131.38.84:1234/968815566
+亚冠精英 拉查武里VS柏太阳神 全场回放 20:00,http://123.131.38.84:1234/968839336
+亚冠精英 拉查武里VS柏太阳神 全场回放（盛斌） 20:00,http://123.131.38.84:1234/968838072
+亚冠精英 柔佛新山VS泰港 全场回放 17:45,http://123.131.38.84:1234/968836147
+亚冠精英 柔佛新山VS泰港 全场回放（张昊泽） 17:45,http://123.131.38.84:1234/968834401
+亚冠精英 胡拜尔库迪西亚VS萨德 全场回放（涂远） 02:00,http://123.131.38.84:1234/968813712
+亚冠精英 艾因VS大不里士拖拉机 全场回放（孙雨轩） 23:45,http://123.131.38.84:1234/968812918
+亚冠精英 迪拜青年国民VS德黑兰独立 全场回放（李霄） 23:45,http://123.131.38.84:1234/968840243
+亚冠精英 鹿岛鹿角VS浦项铁人 赛场原声 17:45,http://123.131.38.84:1234/968634766
+亚冠精英 鹿岛鹿角VS浦项铁人 鲁靖明 17:45,http://123.131.38.84:1234/968634797
+优漫卡通频道,http://123.131.38.84:1234/626064703
+体坛名栏汇,http://123.131.38.84:1234/629943305
+体育休闲频道,http://123.131.38.84:1234/626064707
+全国游泳锦标赛 全国游泳锦标赛Day 6 清流播出 19:00,http://123.131.38.84:1234/968638381
+全国游泳锦标赛 张展硕男子800米自由泳摘金 2026全国游泳锦标赛Day5晚间场全场回放（赛场原声） 19:00,http://123.131.38.84:1234/968839012
+全国游泳锦标赛 潘展乐、于子迪、李冰洁领衔出战 清流播出 09:00,http://123.131.38.84:1234/968637995
+全国游泳锦标赛 预赛头名！陆屹宸400混合泳晋级决赛 2026年全国游泳锦标赛Day5上午场全场回放（赛场原声） 09:00,http://123.131.38.84:1234/968824983
+公共新闻频道,http://123.131.38.84:1234/626064693
 兴宁台,http://120.238.84.45:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-兴安盟,http://123.115.202.110:5001/proxy/nmtv-hinggan.m3u8
 内蒙古,http://120.238.84.45:9901/tsfile/live/1072_1.m3u8?key=txiptv&playlive=1&authid=0
-内蒙古农牧,http://123.115.202.110:5001/proxy/nmtv-agriculture.m3u8
-内蒙古少儿,http://123.115.202.110:5001/proxy/nmtv-kids.m3u8
-内蒙古文体娱乐,http://123.115.202.110:5001/proxy/nmtv-culture-sports.m3u8
-内蒙古新闻综合,http://123.115.202.110:5001/proxy/nmtv-news-general.m3u8
-内蒙古经济生活,http://123.115.202.110:5001/proxy/nmtv-economy-life.m3u8
-内蒙古蒙古语卫视,http://123.115.202.110:5001/proxy/nmtv-mongolian-satellite.m3u8
-内蒙古蒙古语文化频道,http://123.115.202.110:5001/proxy/nmtv-mongolian-culture.m3u8
-农林卫视,http://123.115.202.110:5001/relay/shaanxi-nonglin.m3u8
+农林卫视,http://110.72.82.161:808/hls/18/index.m3u8
+凤凰中文 高清,http://183.239.248.218:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰中文台,http://120.238.84.45:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰资讯 高清,http://183.239.248.218:8181/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰香港 高清,http://183.239.248.218:8181/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 劲爆体育,http://120.238.84.45:9901/tsfile/live/1105_1.m3u8?key=txiptv&playlive=1&authid=0
-包头,http://123.115.202.110:5001/proxy/nmtv-baotou.m3u8
 北京高清,http://110.72.87.89:808/hls/1005/index.m3u8
 北京高清,http://110.72.66.3:808/hls/1005/index.m3u8
 北京高清,http://110.72.64.226:808/hls/1005/index.m3u8
-北京｜古北水镇,http://123.115.202.110:5001/proxy/livechina-dlst03.m3u8
-北外滩,http://123.115.202.110:5001/proxy/kankanews-scenic-13973.m3u8
-北极阁,https://123.115.202.110:5001/hls/157b42cc-93a7-42aa-89e7-0a07452ad4c3/index.m3u8
-南京十八·生活,https://123.115.202.110:5001/hls/1173a815-bfdb-4c3c-9f73-89ec37ae7716/index.m3u8
-南京十八频道,http://113.124.186.195:7788/838151753
-南京南站,https://123.115.202.110:5001/hls/ed208474-9d66-48d1-adfe-55f0d783915c/index.m3u8
-南京教科频道,http://113.124.186.195:7788/838153729
-南京教育科技,https://123.115.202.110:5001/hls/75b3c462-b831-4de7-a34b-5d3221db2069/index.m3u8
-南京文旅纪录,https://123.115.202.110:5001/hls/9b2005c4-046c-422f-ba45-e6adc4f4de07/index.m3u8
-南京新闻综合,https://123.115.202.110:5001/hls/d511bc9d-a694-4453-b3a2-4fc842cc97a1/index.m3u8
-南京新闻综合频道,http://113.124.186.195:7788/838109047
-南京眼,https://123.115.202.110:5001/hls/2496cb32-fa2a-469b-bfd7-2d1991d671d5/index.m3u8
-南平综合,https://123.115.202.110:5001/hb_nptv/sd/live.m3u8?_upt=667f5d3f1793037021
+北京高清,http://110.72.82.161:808/hls/1005/index.m3u8
+南京十八频道,http://123.131.38.84:1234/838151753
+南京教科频道,http://123.131.38.84:1234/838153729
+南京新闻综合频道,http://123.131.38.84:1234/838109047
 南方一高清,http://120.238.84.45:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-南方一高清,http://221.179.116.213:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 南方二高清,http://120.238.84.45:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 南方五高清,http://120.238.84.45:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 南方卫视,http://110.72.87.89:808/hls/81/index.m3u8
 南方卫视,http://110.72.66.3:808/hls/81/index.m3u8
 南方卫视,http://110.72.64.226:808/hls/81/index.m3u8
+南方卫视,http://110.72.82.161:808/hls/81/index.m3u8
 南方四高清,http://120.238.84.45:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
-南方影视,http://123.115.202.110:5001/614961829
-南方影视,http://113.124.186.195:7788/614961829
-南通新闻综合,http://113.124.186.195:7788/955227985
-厦视一套,http://123.115.202.110:5001/proxy/fjtv-xiamen-16.m3u8
-厦视三套,http://123.115.202.110:5001/proxy/fjtv-xiamen-18.m3u8
-厦视二套,http://123.115.202.110:5001/proxy/fjtv-xiamen-17.m3u8
-双流综合,http://123.115.202.110:5001/chengdu-sl
-吉林乡村,http://123.115.202.110:5001/proxy/jlntv-rural.m3u8
-吉林乡村频道,http://113.124.186.195:7788/968553176
-吉林影视,http://123.115.202.110:5001/proxy/jlntv-movies.m3u8
-吉林影视频道,http://123.115.202.110:5001/968553184
-吉林影视频道,http://113.124.186.195:7788/968553184
-吉林新闻综合,http://123.115.202.110:5001/proxy/jlntv-jilin-city.m3u8
-吉林生活,http://123.115.202.110:5001/proxy/jlntv-life.m3u8
-吉林生活频道,http://113.124.186.195:7788/968553133
-吉林综艺文化,http://123.115.202.110:5001/proxy/jlntv-variety-culture.m3u8
-吉林综艺文化频道,http://113.124.186.195:7788/968553163
-吉林都市,http://123.115.202.110:5001/proxy/jlntv-city.m3u8
-吉林都市频道,http://113.124.186.195:7788/968553190
-吉林｜北山公园,http://123.115.202.110:5001/proxy/livechina-hkylxs03.m3u8
-吉林｜朱雀云顶远眺,http://123.115.202.110:5001/proxy/livechina-hsxksqj.m3u8
-吉林｜松花江吉林市区段,http://123.115.202.110:5001/proxy/livechina-zh03.m3u8
-吕梁-1,http://123.115.202.110:5001/relay/shanxi-lvliang-1.m3u8
-呼伦贝尔,http://123.115.202.110:5001/proxy/nmtv-hulunbuir.m3u8
-呼和浩特,http://123.115.202.110:5001/proxy/nmtv-hohhot.m3u8
-和美乡途轮播台,http://123.115.202.110:5001/713591450
-和美乡途轮播台,http://113.124.186.195:7788/713591450
-咪咕3X3篮球联赛 咪咕3x3合肥大区赛决赛 2026咪咕3x3篮球联赛合肥大区赛决赛全场回放（赛场原声） 14:00,http://113.124.186.195:7788/968758202
-咪咕3X3篮球联赛 咪咕3x3太原大区赛决赛 2026咪咕3x3太原大区赛决赛全场回放（赛场原声） 14:00,http://113.124.186.195:7788/968757887
-咪咕体育日报 undefined 咪咕体育日报 第223期 08:00,http://113.124.186.195:7788/968047949
-哈萨克语新闻综合,http://123.115.202.110:5001/relay/xjtv-3.m3u8
-唐山,http://123.115.202.110:5001/relay/hebtv-11605039.m3u8
-嘉兴公共频道,http://123.115.202.110:5001/relay/jiaxing-public.m3u8
-嘉兴文化影视,http://123.115.202.110:5001/relay/jiaxing-culture.m3u8
-嘉兴新闻综合,http://123.115.202.110:5001/relay/jiaxing-news.m3u8
-四川｜安顺廊桥,http://123.115.202.110:5001/proxy/livechina-zsslsjjfsd.m3u8
-四平新闻综合,http://123.115.202.110:5001/proxy/jlntv-siping.m3u8
-四海钓鱼,http://123.115.202.110:5001/637444975
-四海钓鱼,http://113.124.186.195:7788/637444975
-外滩观光平台,http://123.115.202.110:5001/proxy/kankanews-scenic-13755.m3u8
-外白渡桥,http://123.115.202.110:5001/proxy/kankanews-scenic-13974.m3u8
-大湾区卫视（海外版）,http://123.115.202.110:5001/relay/gdtv-46.m3u8
-大立电视台,http://123.115.202.110:5001/live/dali/index.m3u8
-大连文体,http://123.115.202.110:5001/proxy/dalian-9.m3u8
-大连新闻综合,http://123.115.202.110:5001/proxy/dalian-7.m3u8
-大连生活,http://123.115.202.110:5001/proxy/dalian-8.m3u8
-大邑综合,http://123.115.202.110:5001/chengdu-dy
-天台和合频道,http://123.115.202.110:5001/relay/taizhou-tiantai-hehe.m3u8
-天津体育,http://123.115.202.110:5001/proxy/tianjin-sports.m3u8
-天津影视,http://123.115.202.110:5001/proxy/tianjin-film.m3u8
-天津教育,http://123.115.202.110:5001/proxy/tianjin-education.m3u8
-天津文艺,http://123.115.202.110:5001/proxy/tianjin-arts.m3u8
-天津新闻,http://123.115.202.110:5001/proxy/tianjin-news.m3u8
-天津都市,http://123.115.202.110:5001/proxy/tianjin-city.m3u8
+南方影视,http://123.131.38.84:1234/614961829
+南通新闻综合,http://123.131.38.84:1234/955227985
+卡酷动漫,http://110.72.82.161:808/hls/138/index.m3u8
+吉林乡村频道,http://123.131.38.84:1234/968553176
+吉林影视频道,http://123.131.38.84:1234/968553184
+吉林生活频道,http://123.131.38.84:1234/968553133
+吉林综艺文化频道,http://123.131.38.84:1234/968553163
+吉林都市频道,http://123.131.38.84:1234/968553190
+和美乡途轮播台,http://123.131.38.84:1234/713591450
+咪咕体育日报 undefined 咪咕体育日报 第224期 08:00,http://123.131.38.84:1234/968047958
+咪咕体育日报 undefined 咪咕体育日报 第225期 08:00,http://123.131.38.84:1234/968047978
+嘉嘉卡通,http://110.72.82.161:808/hls/12/index.m3u8
+四海钓鱼,http://123.131.38.84:1234/637444975
 天津高清,http://110.72.87.89:808/hls/1009/index.m3u8
 天津高清,http://110.72.66.3:808/hls/1009/index.m3u8
 天津高清,http://110.72.64.226:808/hls/1009/index.m3u8
-太原-1,http://123.115.202.110:5001/relay/shanxi-taiyuan-1.m3u8
+天津高清,http://110.72.82.161:808/hls/1009/index.m3u8
 央视文化,http://120.238.84.45:9901/tsfile/live/1092_1.m3u8?key=txiptv&playlive=1&authid=0
-奥帆中心,https://123.115.202.110:5001/aqdafzx2022/manifest.m3u8
-宁夏公共,https://123.115.202.110:5001/live/nxgg1M.m3u8
-宁夏文旅,https://123.115.202.110:5001/live/nxwl1M.m3u8
-宁德文化旅游,https://123.115.202.110:5001/live/d1znvar7tabf.m3u8
-宁德新闻综合,https://123.115.202.110:5001/hb_ndtv/sd/live.m3u8?_upt=3639e9a61793037021
-宁德新闻综合,https://123.115.202.110:5001/live/aedcnbnyl2jd.m3u8
-宁波影视剧,http://123.115.202.110:5001/relay/ningbo-drama.m3u8
-宁波新闻综合,http://123.115.202.110:5001/relay/ningbo-news.m3u8
-宁波经济生活,http://123.115.202.110:5001/relay/ningbo-economy.m3u8
-宁波都市文体,http://123.115.202.110:5001/relay/ningbo-city.m3u8
-安多卫视,http://123.115.202.110:5001/relay/qinghai-amdo.m3u8
-安徽公共,http://123.115.202.110:5001/proxy/anhui-ggtv.m3u8
-安徽农业科教,http://123.115.202.110:5001/proxy/anhui-nykjtv.m3u8
-安徽国际,http://123.115.202.110:5001/proxy/anhui-gjtv.m3u8
-安徽影视,http://123.115.202.110:5001/proxy/anhui-ystv.m3u8
-安徽经济生活,http://123.115.202.110:5001/proxy/anhui-jjshtv.m3u8
-安徽综艺体育,http://123.115.202.110:5001/proxy/anhui-zytytv.m3u8
-安徽｜光明顶,http://123.115.202.110:5001/proxy/livechina-drs01.m3u8
-安徽｜卧云峰,http://123.115.202.110:5001/proxy/livechina-wgw02.m3u8
-安徽｜飞来石,http://123.115.202.110:5001/proxy/livechina-hsptgy.m3u8
-定州,http://123.115.202.110:5001/relay/hebtv-10936263.m3u8
-宜兴新闻综合,http://113.124.186.195:7788/955227996
-宿迁新闻综合,http://113.124.186.195:7788/639731832
+安多卫视,http://110.72.82.161:808/hls/4/index.m3u8
+宜兴新闻综合,http://123.131.38.84:1234/955227996
+宿迁新闻综合,http://123.131.38.84:1234/639731832
 少儿卫视,http://120.238.84.45:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
-山东体育休闲,http://123.115.202.110:5001/iqilu-typd
-山东农科,http://123.115.202.110:5001/iqilu-nkpd
-山东文旅,http://123.115.202.110:5001/iqilu-yspd
-山东新闻,http://123.115.202.110:5001/iqilu-ggpd
-山东生活,http://123.115.202.110:5001/iqilu-shpd
-山东综艺,http://123.115.202.110:5001/iqilu-zypd
 山东高清,http://110.72.87.89:808/hls/1011/index.m3u8
 山东高清,http://110.72.66.3:808/hls/1011/index.m3u8
 山东高清,http://110.72.64.226:808/hls/1011/index.m3u8
-山东｜艾山天文台,http://123.115.202.110:5001/proxy/livechina-jhs01.m3u8
-山西影视,http://123.115.202.110:5001/relay/shanxi-film.m3u8
-山西文体生活,http://123.115.202.110:5001/relay/shanxi-culture-sports-life.m3u8
-山西社会与法治,http://123.115.202.110:5001/relay/shanxi-society-law.m3u8
-山西经济与科技,http://123.115.202.110:5001/relay/shanxi-economy-tech.m3u8
-崇州电视台,http://123.115.202.110:5001/chengdu-cz
-巴彦淖尔,http://123.115.202.110:5001/proxy/nmtv-bayannur.m3u8
-平潭综合,https://123.115.202.110:5001/hb_pttv/sd/live.m3u8?_upt=6e50b1a51793037021
-广东4K超高清,http://123.115.202.110:5001/relay/gdtv-16.m3u8
-广东4K超高清,http://123.115.202.110:5001/relay/gdtv-74.m3u8
-广东健康,http://123.115.202.110:5001/relay/gdtv-99.m3u8
-广东台经典剧,http://123.115.202.110:5001/relay/gdtv-100.m3u8
-广东珠江频道,http://113.124.186.195:7788/639731952
-广东纪录片,http://123.115.202.110:5001/relay/gdtv-94.m3u8
-广东｜福田红树林,http://123.115.202.110:5001/proxy/livechina-djyqyl1.m3u8
+山东高清,http://110.72.82.161:808/hls/1011/index.m3u8
+平南综合频道,http://110.72.82.161:808/hls/6/index.m3u8
+广东珠江频道,http://123.131.38.84:1234/639731952
+广东高清,http://110.72.82.161:808/hls/1002/index.m3u8
 广告宣传,http://110.72.87.89:808/hls/10/index.m3u8
 广告宣传,http://110.72.66.3:808/hls/10/index.m3u8
 广告宣传,http://110.72.64.226:808/hls/10/index.m3u8
-广州南国都市4K,http://123.115.202.110:5001/gztv-3003
+广告宣传,http://110.72.82.161:808/hls/10/index.m3u8
+广州台 高清,http://183.239.248.218:8181/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
 广西公共,http://110.72.87.89:808/hls/202/index.m3u8
 广西公共,http://110.72.66.3:808/hls/202/index.m3u8
 广西公共,http://110.72.64.226:808/hls/202/index.m3u8
+广西公共,http://110.72.82.161:808/hls/202/index.m3u8
 广西综艺,http://110.72.87.89:808/hls/334/index.m3u8
 广西综艺,http://110.72.66.3:808/hls/334/index.m3u8
 广西综艺,http://110.72.64.226:808/hls/334/index.m3u8
-廊坊,http://123.115.202.110:5001/relay/hebtv-11605041.m3u8
-建党105周年巡礼,http://123.115.202.110:5001/713600957
-建党105周年巡礼,http://113.124.186.195:7788/713600957
-张家口,http://123.115.202.110:5001/relay/hebtv-11605035.m3u8
-彭州电视台,http://123.115.202.110:5001/chengdu-pz
-徐州新闻综合,http://113.124.186.195:7788/639731747
-德化电视台,https://123.115.202.110:5001/live/63a563ec75764af588f3215b0afa2588.m3u8
-德甲 多特蒙德VS法兰克福 全场回放（AI观赛） 00:15,http://113.124.186.195:7788/968728780
-德甲 多特蒙德VS法兰克福 全场回放（智能解说） 00:15,http://113.124.186.195:7788/968728948
-德甲 多特蒙德VS法兰克福 全场回放（沈云怡、秦游夏） 00:15,http://113.124.186.195:7788/968729858
-德甲 弗赖堡VS拜仁慕尼黑 全场回放（AI智慧观赛） 00:15,http://113.124.186.195:7788/968774378
-德甲 弗赖堡VS拜仁慕尼黑 全场回放（智能解说） 00:15,http://113.124.186.195:7788/968774068
-德甲 弗赖堡VS拜仁慕尼黑 全场回放（涂远、张力） 00:15,http://113.124.186.195:7788/968775547
-德甲 霍芬海姆VS勒沃库森 全场回放（鲁靖明） 22:15,http://113.124.186.195:7788/968770742
-快速路大润发方向,https://123.115.202.110:5001/sxt1/manifest.m3u8
-忻州综合,http://123.115.202.110:5001/relay/shanxi-xinzhou-general.m3u8
-怒江综合,http://123.115.202.110:5001/proxy/yunnan-nujiang.m3u8
-意甲 乌迪内斯VSAC米兰 全场回放（AI智慧观赛） 03:40,http://113.124.186.195:7788/968780456
-意甲 乌迪内斯VSAC米兰 全场回放（智能解说） 03:40,http://113.124.186.195:7788/968780459
-意甲 乌迪内斯VSAC米兰 全场回放（石庆圣、李彦） 03:40,http://113.124.186.195:7788/968780438
-意甲 亚特兰大VS弗罗西诺内 全场回放（乔迁） 21:45,http://113.124.186.195:7788/968769420
-意甲 国际米兰VS佛罗伦萨 全场回放（AI智慧观赛） 19:00,http://113.124.186.195:7788/968763219
-意甲 国际米兰VS佛罗伦萨 全场回放（刘腾、贺宇） 19:00,http://113.124.186.195:7788/968763252
-意甲 国际米兰VS佛罗伦萨 全场回放（智能解说） 19:00,http://113.124.186.195:7788/968764800
-意甲 拉齐奥VS帕尔马 全场回放（鲁靖明） 02:30,http://113.124.186.195:7788/968731760
-意甲 热那亚VS威尼斯 全场回放（吴奕博） 21:45,http://113.124.186.195:7788/968769410
-意甲 莱切VS尤文图斯 全场回放（孙雨轩、刘腾） 00:45,http://113.124.186.195:7788/968774901
-意甲 那不勒斯VS罗马 全场回放（AI智慧观赛） 23:55,http://113.124.186.195:7788/968729669
-意甲 那不勒斯VS罗马 全场回放（智能解说） 23:55,http://113.124.186.195:7788/968727049
-意甲 那不勒斯VS罗马 全场回放（涂远、马延峰） 23:55,http://113.124.186.195:7788/968727648
-成华有线电视,http://123.115.202.110:5001/chengdu-ch
-成都·一号别墅A,https://123.115.202.110:5001/gcwbnd/xiongmao09_2/index.m3u8
-成都·一号别墅B,https://123.115.202.110:5001/gcwbnd/xiongmao10_2/index.m3u8
-成都·六号别墅A,https://123.115.202.110:5001/gcwbnd/xiongmao03_2/index.m3u8
-成都·六号别墅B,https://123.115.202.110:5001/gcwbnd/xiongmao04_2/index.m3u8
-成都·幼儿园A,https://123.115.202.110:5001/gcwbnd/xiongmao05_2/index.m3u8
-成都·幼儿园B,https://123.115.202.110:5001/gcwbnd/xiongmao06_2/index.m3u8
-成都·成年园A,https://123.115.202.110:5001/gcwbnd/xiongmao01_2/index.m3u8
-成都·成年园B,https://123.115.202.110:5001/gcwbnd/xiongmao02_2/index.m3u8
-成都·母子园A,https://123.115.202.110:5001/gcwbnd/xiongmao07_2/index.m3u8
-成都·母子园B,https://123.115.202.110:5001/gcwbnd/xiongmao08_2/index.m3u8
-成都公共,http://123.115.202.110:5001/chengdu-cdtv5
-成都基地 24小时,http://123.115.202.110:5001/proxy/ipanda-chengdu.m3u8
-成都少儿,http://123.115.202.110:5001/chengdu-cdtv6
-成都影视文艺,http://123.115.202.110:5001/chengdu-cdtv4
-成都新闻综合,http://123.115.202.110:5001/chengdu-cdtv1
-成都经济资讯,http://123.115.202.110:5001/chengdu-cdtv2
-成都蓉城先锋,http://123.115.202.110:5001/chengdu-cdrcxf
-成都都市生活,http://123.115.202.110:5001/chengdu-cdtv3
-成都高新电视台,http://123.115.202.110:5001/chengdu-gx
-扬州新闻,https://123.115.202.110:5001/live/8bb.m3u8
-扬州民生,https://123.115.202.110:5001/live/8bd.m3u8
-承德,http://123.115.202.110:5001/relay/hebtv-11605049.m3u8
-攀岩系列赛 中国速度攀岩系列赛(江苏昆山站) 2026年中国速度攀岩系列赛江苏昆山站Day1全场回放（官方解说） 15:50,http://113.124.186.195:7788/968810208
-攀岩系列赛 中国速度攀岩系列赛(江苏昆山站) 江苏昆山站 09:30,http://113.124.186.195:7788/968632206
-斯诺克 凯伦·威尔逊VS杰克·琼斯 【回放】凯伦·威尔逊6-2杰克·琼斯（AI观赛） 21:00,http://113.124.186.195:7788/968771616
-斯诺克 凯伦·威尔逊VS杰克·琼斯 【回放】凯伦·威尔逊6-2杰克·琼斯（朱峰立） 21:00,http://113.124.186.195:7788/968769448
-斯诺克 凯伦·威尔逊VS杰克·琼斯 【回放】凯伦·威尔逊6-2杰克·琼斯（赛场原声） 21:00,http://113.124.186.195:7788/968771628
-斯诺克 凯伦·威尔逊VS杰克·琼斯 【回放】凯伦·威尔逊9-2杰克·琼斯（AI观赛） 03:00,http://113.124.186.195:7788/968779012
-斯诺克 凯伦·威尔逊VS杰克·琼斯 【回放】凯伦·威尔逊9-2杰克·琼斯（卢正浩） 03:00,http://113.124.186.195:7788/968777708
-斯诺克 凯伦·威尔逊VS杰克·琼斯 【回放】凯伦·威尔逊9-2杰克·琼斯（赛场原声） 03:00,http://113.124.186.195:7788/968778900
-斯诺克 马克·威廉姆斯VS杰克·琼斯 【回放】马克·威廉姆斯5-6杰克·琼斯（AI观赛） 02:00,http://113.124.186.195:7788/968739722
-斯诺克 马克·威廉姆斯VS杰克·琼斯 【回放】马克·威廉姆斯5-6杰克·琼斯（杨江源） 02:00,http://113.124.186.195:7788/968735872
-斯诺克 马克·威廉姆斯VS杰克·琼斯 【回放】马克·威廉姆斯5-6杰克·琼斯（赛场原声） 02:00,http://113.124.186.195:7788/968737472
-新动力量创一流,http://113.124.186.195:7788/713589837
-新庄立交,https://123.115.202.110:5001/hls/e75a4b63-c05f-49c1-9d53-9c24c09107de/index.m3u8
-新津电视台,http://123.115.202.110:5001/chengdu-xj
-新片放映厅,http://123.115.202.110:5001/619495952
-新片放映厅,http://113.124.186.195:7788/619495952
-新疆体育健康,http://123.115.202.110:5001/relay/xjtv-7.m3u8
-新疆少儿,http://123.115.202.110:5001/relay/xjtv-8.m3u8
-新疆汉语综艺,http://123.115.202.110:5001/relay/xjtv-4.m3u8
-新纪实,http://123.115.202.110:5001/proxy/kankanews-12.m3u8
+广西综艺,http://110.72.82.161:808/hls/334/index.m3u8
+广西高清,http://110.72.82.161:808/hls/1001/index.m3u8
+建党105周年巡礼,http://123.131.38.84:1234/713600957
+徐州新闻综合,http://123.131.38.84:1234/639731747
+意甲 AC米兰VS博洛尼亚 智能字幕 01:15,http://123.131.38.84:1234/968787351
+意甲 AC米兰VS博洛尼亚 智能解说 01:25,http://123.131.38.84:1234/968787453
+意甲 AC米兰VS博洛尼亚 石庆圣 李彦 01:15,http://123.131.38.84:1234/968787282
+意甲 AC米兰VS博洛尼亚 赛场原声 01:15,http://123.131.38.84:1234/968787236
+意甲 威尼斯VS国际米兰 刘腾 贺宇 01:15,http://123.131.38.84:1234/968787839
+意甲 威尼斯VS国际米兰 智能字幕 01:15,http://123.131.38.84:1234/968787879
+意甲 威尼斯VS国际米兰 智能解说 01:25,http://123.131.38.84:1234/968787929
+意甲 威尼斯VS国际米兰 赛场原声 01:15,http://123.131.38.84:1234/968787823
+意甲 帕尔马VS乌迪内斯 乔迁 01:15,http://123.131.38.84:1234/968787601
+意甲 帕尔马VS乌迪内斯 智能解说 01:25,http://123.131.38.84:1234/968787664
+意甲 帕尔马VS乌迪内斯 赛场原声 01:15,http://123.131.38.84:1234/968787583
+意甲 热那亚VS尤文图斯 孙雨轩 王宇 03:30,http://123.131.38.84:1234/968788081
+意甲 热那亚VS尤文图斯 智能字幕 03:30,http://123.131.38.84:1234/968788154
+意甲 热那亚VS尤文图斯 智能解说 03:40,http://123.131.38.84:1234/968788231
+意甲 热那亚VS尤文图斯 赛场原声 03:30,http://123.131.38.84:1234/968788058
+意甲 罗马VS卡利亚里 刘腾 03:30,http://123.131.38.84:1234/968786792
+意甲 罗马VS卡利亚里 智能解说 03:40,http://123.131.38.84:1234/968786817
+意甲 罗马VS卡利亚里 赛场原声 03:30,http://123.131.38.84:1234/968786756
+意甲 蒙扎VS那不勒斯 赛场原声 03:30,http://123.131.38.84:1234/968788335
+意甲 蒙扎VS那不勒斯 鲁靖明 03:30,http://123.131.38.84:1234/968788351
+意甲 都灵VS科莫 智能解说 03:40,http://123.131.38.84:1234/968787061
+意甲 都灵VS科莫 谭逸雄 03:30,http://123.131.38.84:1234/968787003
+意甲 都灵VS科莫 赛场原声 03:30,http://123.131.38.84:1234/968786987
+攀岩系列赛 中国速度攀岩系列赛(江苏昆山站) 2026年中国速度攀岩系列赛江苏昆山站Day2全场回放（官方解说） 09:50,http://123.131.38.84:1234/968824144
+新动力量创一流,http://123.131.38.84:1234/713589837
+新片放映厅,http://123.131.38.84:1234/619495952
 新视觉高清,http://120.238.84.45:9901/tsfile/live/1097_1.m3u8?key=txiptv&playlive=1&authid=0
-新都电视台,http://123.115.202.110:5001/chengdu-xd
-无锡娱乐,http://123.115.202.110:5001/relay/wuxi-ent.m3u8
-无锡新闻综合,http://123.115.202.110:5001/relay/wuxi-news.m3u8
-无锡生活,http://123.115.202.110:5001/relay/wuxi-life.m3u8
-无锡经济,http://123.115.202.110:5001/relay/wuxi-economy.m3u8
-无锡都市资讯,http://123.115.202.110:5001/relay/wuxi-city.m3u8
-昭通综合,http://123.115.202.110:5001/proxy/yunnan-zhaotong.m3u8
-晋中综合,http://123.115.202.110:5001/relay/shanxi-jinzhong-general.m3u8
-晋城新闻综合,http://123.115.202.110:5001/relay/shanxi-jincheng-news.m3u8
-晋江电视台,https://123.115.202.110:5001/jjtv/sd/live.m3u8
-最强综艺趴,http://113.124.186.195:7788/629942228
-朔州-1,http://123.115.202.110:5001/relay/shanxi-shuozhou-1.m3u8
-松原市·查干湖,http://123.115.202.110:5001/proxy/jlntv-slow-chagan-lake.m3u8
-松原新闻综合,http://123.115.202.110:5001/proxy/jlntv-songyuan.m3u8
-松江融媒慢直播,http://123.115.202.110:5001/relay/songjiang-slow-live.m3u8
+最强综艺趴,http://123.131.38.84:1234/629942228
 梅县台,http://120.238.84.45:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
 梅州-1,http://120.238.84.45:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 梅州-2,http://120.238.84.45:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-梅州1,http://221.179.116.213:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-梅州2,http://221.179.116.213:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 梅州导视,http://120.238.84.45:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 梅州山歌文艺,http://120.238.84.45:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-武侯电视台,http://123.115.202.110:5001/chengdu-wh
-江苏国际,http://123.115.202.110:5001/proxy/jstv-671.m3u8
-江苏国际,http://113.124.186.195:7788/626064674
-江苏城市频道,http://113.124.186.195:7788/626064714
-江苏大丰麋鹿国家级自然保护区,http://123.115.202.110:5001/proxy/ipanda-jiangsu-dafeng-milu.m3u8
-江苏影视频道,http://113.124.186.195:7788/626064697
-江苏综艺频道,http://113.124.186.195:7788/626065193
+江苏国际,http://123.131.38.84:1234/626064674
+江苏城市频道,http://123.131.38.84:1234/626064714
+江苏影视频道,http://123.131.38.84:1234/626064697
+江苏综艺频道,http://123.131.38.84:1234/626065193
 江苏高清,http://110.72.87.89:808/hls/1007/index.m3u8
 江苏高清,http://110.72.66.3:808/hls/1007/index.m3u8
 江苏高清,http://110.72.64.226:808/hls/1007/index.m3u8
-江苏｜无锡大剧院,http://123.115.202.110:5001/proxy/livechina-taishan05.m3u8
-江苏｜江苏徐州之夜,http://123.115.202.110:5001/proxy/livechina-hspyt.m3u8
-江苏｜玄武湖景区,http://123.115.202.110:5001/proxy/livechina-xwh01.m3u8
-江西公共农业,http://123.115.202.110:5001/proxy/jxntv-public-agriculture.m3u8
-江西少儿,http://123.115.202.110:5001/proxy/jxntv-kids.m3u8
-江西新闻,http://123.115.202.110:5001/proxy/jxntv-news.m3u8
-江西移动电视,http://123.115.202.110:5001/proxy/jxntv-mobile.m3u8
-江西经济生活,http://123.115.202.110:5001/proxy/jxntv-economy-life.m3u8
-江西都市,http://123.115.202.110:5001/proxy/jxntv-city.m3u8
-江西陶瓷,http://123.115.202.110:5001/proxy/jxntv-ceramics.m3u8
-江都频道,https://123.115.202.110:5001/live/8c1.m3u8
-沧州,http://123.115.202.110:5001/relay/hebtv-11605043.m3u8
-河北三农,http://123.115.202.110:5001/relay/hebtv-10516508.m3u8
-河北少儿科教,http://123.115.202.110:5001/relay/hebtv-10516511.m3u8
-河北文旅体育,http://123.115.202.110:5001/relay/hebtv-10516510.m3u8
-河北经济生活,http://123.115.202.110:5001/relay/hebtv-10516507.m3u8
-河北都市,http://123.115.202.110:5001/relay/hebtv-10516509.m3u8
-河北｜京娘湖 视角1,http://123.115.202.110:5001/proxy/livechina-zjjsrsm.m3u8
-河北｜京娘湖 视角2,http://123.115.202.110:5001/proxy/livechina-xjtcdhsz.m3u8
-河北｜南川老街,http://123.115.202.110:5001/proxy/livechina-lpsgmjng01.m3u8
-河北｜塞罕坝视角1,http://123.115.202.110:5001/proxy/livechina-hssxf.m3u8
-河北｜塞罕坝视角2,http://123.115.202.110:5001/proxy/livechina-gllj01.m3u8
-河北｜河北承德金山岭长城,http://123.115.202.110:5001/proxy/livechina-hkts03.m3u8
-河北｜老龙头景区,http://123.115.202.110:5001/proxy/livechina-zjwzbblh.m3u8
-河北｜金梦海湾,http://123.115.202.110:5001/proxy/livechina-zjwzblt.m3u8
-河南乡村,http://123.115.202.110:5001/hntv-152
-河南公共,http://123.115.202.110:5001/hntv-151
-河南新闻,http://123.115.202.110:5001/hntv-149
-河南民生,http://123.115.202.110:5001/hntv-146
-河南法治,http://123.115.202.110:5001/hntv-147
-河南电视剧,http://123.115.202.110:5001/hntv-148
-河南都市,http://123.115.202.110:5001/hntv-141
-河南｜永城市日月湖景区,http://123.115.202.110:5001/proxy/livechina-hgsspzxdpb.m3u8
-河南｜浉河港镇文新茶村,http://123.115.202.110:5001/proxy/livechina-xjtcdgs.m3u8
-河南｜浚县古城景区北城门,http://123.115.202.110:5001/proxy/livechina-hlzycc.m3u8
-河南｜红石峡,http://123.115.202.110:5001/proxy/livechina-pts01.m3u8
-河南｜鲁山县画眉谷景区,http://123.115.202.110:5001/proxy/livechina-xjtcmys.m3u8
-泉州新闻综合,https://123.115.202.110:5001/hb_qztv/sd/live.m3u8?_upt=9f5a84b01793037021
-泉州新闻综合,http://123.115.202.110:5001/proxy/quanzhou-news-tv.m3u8
-泉州闽南语,http://123.115.202.110:5001/proxy/quanzhou-minnan-tv.m3u8
-法甲 图卢兹VS特鲁瓦 全场回放（邵煊） 00:00,http://113.124.186.195:7788/968774047
-法甲 巴黎圣日耳曼VS里昂 智能解说 03:15,http://113.124.186.195:7788/968655153
-法甲 巴黎圣日耳曼VS里昂 赛场原声 03:15,http://113.124.186.195:7788/968627999
-法甲 巴黎圣日耳曼VS里昂 鹿中原 王宇 03:15,http://113.124.186.195:7788/968628005
-法甲 摩纳哥VS里尔 全场回放（盛斌） 21:45,http://113.124.186.195:7788/968769633
-法甲 昂热VS洛里昂 全场回放（李永熙） 00:00,http://113.124.186.195:7788/968773282
-法甲 朗斯VS巴黎FC 全场回放（邵煊） 02:30,http://113.124.186.195:7788/968732159
-法甲 欧塞尔VS勒芒 全场回放（盛斌） 00:00,http://113.124.186.195:7788/968773612
-法甲 雷恩VS斯特拉斯堡 全场回放（张天翼） 00:00,http://113.124.186.195:7788/968773895
-法甲 马赛VS勒阿弗尔 全场回放（乔迁） 00:00,http://113.124.186.195:7788/968773469
-泰州新闻综合,http://113.124.186.195:7788/639731818
-浙BA 余姚VS江山 赛场原声 19:30,http://113.124.186.195:7788/968788869
-浙BA 桐乡VS普陀 赛场原声 19:30,http://113.124.186.195:7788/968788895
-浙BA 玉环68-78衢州 2026浙江省城市篮球联赛小组赛第7轮全场回放：玉环vs衢州（赛场原声） 19:30,http://113.124.186.195:7788/968768029
-浙BA 绍兴89-63临安 2026浙江省城市篮球联赛小组赛第7轮全场回放：绍兴vs临安（赛场原声） 19:30,http://113.124.186.195:7788/968769896
-浙BA 舟山72-87瑞安 2026浙江省城市篮球联赛小组赛第7轮全场回放：舟山VS瑞安（赛场原声） 19:30,http://113.124.186.195:7788/968810681
-浙江国际,http://123.115.202.110:5001/relay/cztv-110.m3u8
-浙江教科影视,http://123.115.202.110:5001/relay/cztv-104.m3u8
-浙江民生休闲,http://123.115.202.110:5001/relay/cztv-106.m3u8
+江苏高清,http://110.72.82.161:808/hls/1007/index.m3u8
+江西卫视 高清,http://183.239.248.218:8181/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+法甲 巴黎圣日耳曼VS里昂 全场回放（AI观赛） 03:15,http://123.131.38.84:1234/968815077
+法甲 巴黎圣日耳曼VS里昂 全场回放（智能解说） 03:15,http://123.131.38.84:1234/968815094
+法甲 巴黎圣日耳曼VS里昂 全场回放（鹿中原、王宇） 03:15,http://123.131.38.84:1234/968815170
+泰州新闻综合,http://123.131.38.84:1234/639731818
+测试-TVBJ,http://110.72.82.161:808/hls/58/index.m3u8
+测试-TVB剧集/体彩,http://110.72.82.161:808/hls/57/index.m3u8
+浙BA 余姚75-63江山 2026浙江省城市篮球联赛小组赛第8轮全场回放：余姚VS江山（赛场原声） 19:30,http://123.131.38.84:1234/968837831
+浙BA 台州VS杭州 赛场原声 19:30,http://123.131.38.84:1234/968788937
+浙BA 桐乡75-71普陀 2026浙江省城市篮球联赛小组赛第8轮全场回放：桐乡VS普陀（赛场原声） 19:30,http://123.131.38.84:1234/968838888
+浙BA 永康VS丽水 赛场原声 19:30,http://123.131.38.84:1234/968789015
+浙BA 绍兴VS临海 赛场原声 19:30,http://123.131.38.84:1234/968789061
+浙BA 舟山VS临安 赛场原声 19:30,http://123.131.38.84:1234/968789036
 浙江高清,http://110.72.87.89:808/hls/1006/index.m3u8
 浙江高清,http://110.72.66.3:808/hls/1006/index.m3u8
 浙江高清,http://110.72.64.226:808/hls/1006/index.m3u8
-浙江｜东极岛,http://123.115.202.110:5001/proxy/livechina-djd01.m3u8
-浙江｜嵊泗县中心渔港,http://123.115.202.110:5001/proxy/livechina-emsyh.m3u8
-海南少儿,http://123.115.202.110:5001/hnntv-7
-海南广播电视总台少儿频道,http://113.124.186.195:7788/962067523
-海南广播电视总台文旅频道,http://113.124.186.195:7788/962067526
-海南广播电视总台新闻频道,http://113.124.186.195:7788/962067517
-海南广播电视总台社会与法频道,http://113.124.186.195:7788/962045223
-海南广播电视总台自贸频道,http://113.124.186.195:7788/962045226
-海南文旅,http://123.115.202.110:5001/hnntv-6
-海南新闻,http://123.115.202.110:5001/hnntv-3
-海南社会与法,http://123.115.202.110:5001/hnntv-4
-海南自贸,http://123.115.202.110:5001/hnntv-1
-海峡卫视,http://123.115.202.110:5001/849119120
-海峡卫视,http://123.115.202.110:5001/relay/fjtv-province-665248523855695872.m3u8
-海峡卫视,http://113.124.186.195:7788/849119120
-淮安新闻综合,http://113.124.186.195:7788/639731826
-深圳国际,http://123.115.202.110:5001/proxy/sztv-7944.m3u8
-深圳移动电视,http://123.115.202.110:5001/proxy/sztv-7869.m3u8
+浙江高清,http://110.72.82.161:808/hls/1006/index.m3u8
+海南广播电视总台少儿频道,http://123.131.38.84:1234/962067523
+海南广播电视总台文旅频道,http://123.131.38.84:1234/962067526
+海南广播电视总台新闻频道,http://123.131.38.84:1234/962067517
+海南广播电视总台社会与法频道,http://123.131.38.84:1234/962045223
+海南广播电视总台自贸频道,http://123.131.38.84:1234/962045226
+海峡卫视,http://123.131.38.84:1234/849119120
+海峡卫视,http://110.72.82.161:808/hls/590478925/index.m3u8
+淮安新闻综合,http://123.131.38.84:1234/639731826
 深圳高清,http://110.72.87.89:808/hls/1008/index.m3u8
 深圳高清,http://110.72.66.3:808/hls/1008/index.m3u8
 深圳高清,http://110.72.64.226:808/hls/1008/index.m3u8
-温江电视台,http://123.115.202.110:5001/chengdu-wj
-湖北垄上,http://123.115.202.110:5001/proxy/hbtv-438.m3u8
-湖北影视,http://123.115.202.110:5001/proxy/hbtv-435.m3u8
-湖北教育,http://123.115.202.110:5001/proxy/hbtv-437.m3u8
-湖北经视,http://123.115.202.110:5001/proxy/hbtv-432.m3u8
-湖北综合,http://123.115.202.110:5001/proxy/hbtv-433.m3u8
+深圳高清,http://110.72.82.161:808/hls/1008/index.m3u8
 湖北高清,http://110.72.87.89:808/hls/1010/index.m3u8
 湖北高清,http://110.72.66.3:808/hls/1010/index.m3u8
 湖北高清,http://110.72.64.226:808/hls/1010/index.m3u8
+湖北高清,http://110.72.82.161:808/hls/1010/index.m3u8
 湖南公共,http://116.128.243.121:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南高清,http://110.72.87.89:808/hls/1003/index.m3u8
 湖南高清,http://110.72.66.3:808/hls/1003/index.m3u8
 湖南高清,http://110.72.64.226:808/hls/1003/index.m3u8
-湖南｜崀山八角寨,http://123.115.202.110:5001/proxy/livechina-hkts02.m3u8
-湖南｜田汉文化园,http://123.115.202.110:5001/proxy/livechina-zsslstpt.m3u8
-溧水新闻综合,http://113.124.186.195:7788/639737327
-漳州新闻综合,https://123.115.202.110:5001/hb_zztv/sd/live.m3u8?_upt=155bf1e01793037021
-澜湄国际,http://123.115.202.110:5001/proxy/yunnan-lancang.m3u8
-澳门莲花卫视,http://123.115.202.110:5001/relay/lotustv-live.m3u8
+湖南高清,http://110.72.82.161:808/hls/1003/index.m3u8
+溧水新闻综合,http://123.131.38.84:1234/639737327
 炫动卡通,http://120.238.84.45:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
-熊猫频道01高清,http://113.124.186.195:7788/609158151
-熊猫频道1,http://113.124.186.195:7788/608933610
-熊猫频道10,http://113.124.186.195:7788/609169285
-熊猫频道2,http://113.124.186.195:7788/608933640
-熊猫频道3,http://113.124.186.195:7788/608934619
-熊猫频道4,http://113.124.186.195:7788/608934721
-熊猫频道5,http://113.124.186.195:7788/608935104
-熊猫频道6,http://113.124.186.195:7788/608935797
-熊猫频道7,http://113.124.186.195:7788/609169286
-熊猫频道8,http://113.124.186.195:7788/609169287
-熊猫频道9,http://113.124.186.195:7788/609169226
-琼超 临高VS琼海 全场回放 15:30,http://113.124.186.195:7788/968757922
-琼超 乐东VS东方 全场回放 15:30,http://113.124.186.195:7788/968757339
-琼超 五指山VS三亚 全场回放 19:35,http://113.124.186.195:7788/968767333
-琼超 定安VS儋州 全场回放 15:30,http://113.124.186.195:7788/968756657
-甘肃公共应急,http://123.115.202.110:5001/relay/gansu-6.m3u8
-甘肃少儿,http://123.115.202.110:5001/relay/gansu-4.m3u8
-甘肃文化影视,http://123.115.202.110:5001/relay/gansu-2.m3u8
-甘肃科教,http://123.115.202.110:5001/relay/gansu-5.m3u8
-甘肃移动电视,http://123.115.202.110:5001/relay/gansu-3.m3u8
-甘肃｜漳县贵清山植物园,http://123.115.202.110:5001/proxy/livechina-lsdfgfl.m3u8
-白城新闻综合,http://123.115.202.110:5001/proxy/jlntv-baicheng.m3u8
-白山新闻综合,http://123.115.202.110:5001/proxy/jlntv-baishan.m3u8
-盐城新闻综合,http://113.124.186.195:7788/639731825
+炫动卡通,http://110.72.82.161:808/hls/28/index.m3u8
+熊猫频道01高清,http://123.131.38.84:1234/609158151
+熊猫频道1,http://123.131.38.84:1234/608933610
+熊猫频道10,http://123.131.38.84:1234/609169285
+熊猫频道2,http://123.131.38.84:1234/608933640
+熊猫频道3,http://123.131.38.84:1234/608934619
+熊猫频道4,http://123.131.38.84:1234/608934721
+熊猫频道5,http://123.131.38.84:1234/608935104
+熊猫频道6,http://123.131.38.84:1234/608935797
+熊猫频道7,http://123.131.38.84:1234/609169286
+熊猫频道8,http://123.131.38.84:1234/609169287
+熊猫频道9,http://123.131.38.84:1234/609169226
+珠江台,http://110.72.82.161:808/hls/24/index.m3u8
+盐城新闻综合,http://123.131.38.84:1234/639731825
 相声小品,http://120.238.84.45:9901/tsfile/live/1081_1.m3u8?key=txiptv&playlive=1&authid=0
-睛彩中原,http://123.115.202.110:5001/hntv-157
-石家庄,http://123.115.202.110:5001/relay/hebtv-11605050.m3u8
-石狮新闻综合,https://123.115.202.110:5001/SSTV/sd/live.m3u8
-石臼湖,https://123.115.202.110:5001/hls/2a317dc5-f482-48ce-8bad-20a0b33926a3/index.m3u8
-石象路,https://123.115.202.110:5001/live/mzb_sxl_1/playlist.m3u8
-福州少儿,http://123.115.202.110:5001/video/s10001-fztv-4/index.m3u8
-福州生活,http://123.115.202.110:5001/video/s10001-fztv-3/index.m3u8
-福州综合,http://123.115.202.110:5001/video/s10001-fztv-1/index.m3u8
-福建少儿,http://123.115.202.110:5001/relay/fjtv-province-665248553475870720.m3u8
-福建文旅体育,http://123.115.202.110:5001/relay/fjtv-province-665248752898248704.m3u8
-福建新闻,http://123.115.202.110:5001/relay/fjtv-province-665248914378952704.m3u8
-福建｜武夷山玉女峰,http://123.115.202.110:5001/proxy/livechina-wysynf.m3u8
-秦皇岛,http://123.115.202.110:5001/relay/hebtv-11605037.m3u8
-简阳新闻综合,http://123.115.202.110:5001/chengdu-jy
-紫金山,https://123.115.202.110:5001/hls/aff6d607-073a-4b4b-ab42-2f65f2b9ac4c/index.m3u8
-纬来体育,https://123.115.202.110:5001/live/vl.m3u8?expire=1786948372&sign=2e4a56b89fe644db147552011f972714
-绍兴公共,http://123.115.202.110:5001/relay/shaoxing-public.m3u8
-绍兴文化影视,http://123.115.202.110:5001/relay/shaoxing-culture.m3u8
-绍兴新闻综合,http://123.115.202.110:5001/relay/shaoxing-news.m3u8
-经典动画大集合,http://123.115.202.110:5001/629942219
-经典动画大集合,http://113.124.186.195:7788/629942219
-经典香港电影,http://123.115.202.110:5001/625703337
-经典香港电影,http://113.124.186.195:7788/625703337
-维吾尔语影视,http://123.115.202.110:5001/relay/xjtv-5.m3u8
-维吾尔语新闻综合,http://123.115.202.110:5001/relay/xjtv-2.m3u8
-耀才财经,https://123.115.202.110:5001/webcast/bshdlive-pc/playlist.m3u8
-胶宁高架福州路口,https://123.115.202.110:5001/sxt3/manifest.m3u8
-胶宁高架银川西路口,https://123.115.202.110:5001/sxt2/manifest.m3u8
-苏州4K,https://123.115.202.110:5001/szgd/csztv4k_4k.m3u8
-苏州文化生活,https://123.115.202.110:5001/szgd/csztv3.m3u8
-苏州新闻综合,https://123.115.202.110:5001/szgd/csztv1.m3u8
-苏州生活资讯,https://123.115.202.110:5001/szgd/csztv5.m3u8
-苏州电影娱乐,https://123.115.202.110:5001/szgd/csztv4.m3u8
-苏州社会经济,https://123.115.202.110:5001/szgd/csztv2.m3u8
-英女超 伯明翰女足VS查尔顿女足 全场回放（邵凌霄） 21:45,http://113.124.186.195:7788/968776811
-英女超 利物浦足球俱乐部VS伦敦城雌狮女足 全场回放（张天翼） 21:45,http://113.124.186.195:7788/968770614
-英女超 利物浦足球俱乐部VS伦敦城雌狮女足 全场回放（邵凌霄） 21:45,http://113.124.186.195:7788/968774297
-英女超 埃弗顿女足VS阿斯顿维拉女足 全场回放（鹿中原） 21:45,http://113.124.186.195:7788/968770488
-英女超 布莱顿女足VS西汉姆联女足 全场回放（林梦鸽） 00:00,http://113.124.186.195:7788/968728413
-英女超 曼联女足VS曼城女足 全场回放（兰子非） 01:45,http://113.124.186.195:7788/968781956
-英女超 水晶宫女足VS切尔西女足 全场回放（涂远） 19:55,http://113.124.186.195:7788/968769762
-英超 切尔西VS托特纳姆热刺 全场回放（AI智慧观赛） 00:15,http://113.124.186.195:7788/968729809
-英超 切尔西VS托特纳姆热刺 全场回放（智能解说） 00:15,http://113.124.186.195:7788/968729502
-英超 切尔西VS托特纳姆热刺 全场回放（洪荒） 00:15,http://113.124.186.195:7788/968729583
-英超 切尔西VS托特纳姆热刺 全场回放（詹俊、张路、郭小仙儿） 00:15,http://113.124.186.195:7788/968729184
-英超 切尔西VS托特纳姆热刺 全场回放（陈凯冬、何辉） 00:15,http://113.124.186.195:7788/968731346
-英超 利物浦VS布莱顿 全场回放（AI观赛） 21:45,http://113.124.186.195:7788/968770035
-英超 利物浦VS布莱顿 全场回放（智能解说） 21:45,http://113.124.186.195:7788/968769910
-英超 利物浦VS布莱顿 全场回放（江忠德） 21:45,http://113.124.186.195:7788/968769362
-英超 利物浦VS布莱顿 全场回放（詹俊、张路、程思钦） 21:45,http://113.124.186.195:7788/968769916
-英超 曼联VS伯恩茅斯 全场回放（AI智慧观赛） 21:45,http://113.124.186.195:7788/968770491
-英超 曼联VS伯恩茅斯 全场回放（智能解说） 21:45,http://113.124.186.195:7788/968770500
-英超 曼联VS伯恩茅斯 全场回放（苏东、徐阳、李子琪） 21:45,http://113.124.186.195:7788/968770178
-英超 曼联VS伯恩茅斯 全场回放（陆毅隽、何辉） 21:45,http://113.124.186.195:7788/968772390
-英超 桑德兰VS利兹联 全场回放（郭灿亮） 00:15,http://113.124.186.195:7788/968775665
-英超 水晶宫VS纽卡斯尔联 全场回放（林梦鸽） 21:45,http://113.124.186.195:7788/968769464
-英超 水晶宫VS纽卡斯尔联 全场回放（英文原声） 21:45,http://113.124.186.195:7788/968771780
-英超 赫尔城VS布伦特福德 全场回放（英文原声） 21:45,http://113.124.186.195:7788/968771808
-英超 赫尔城VS布伦特福德 全场回放（黄航） 21:45,http://113.124.186.195:7788/968769288
-莆田文旅生活,http://123.115.202.110:5001/relay/putian-culture.m3u8
-莆田新闻综合,https://123.115.202.110:5001/hb_puttv/sd/live.m3u8?_upt=79aa1b3e1793037021
-莆田新闻综合,http://123.115.202.110:5001/relay/putian-news.m3u8
-莫干山跑山赛 莫干山跑山赛 2026莫干山跑山赛Day3全场回放（官方解说） 05:50,http://113.124.186.195:7788/968751055
-蒲江电视台,http://123.115.202.110:5001/chengdu-pj
-衡水,http://123.115.202.110:5001/relay/hebtv-11605044.m3u8
-西宁新闻综合,https://123.115.202.110:5001/a65jur/96iln2.m3u8
-西湖明珠,http://123.115.202.110:5001/proxy/hangzhou-pearl.m3u8
-西甲 塞尔塔VS皇家贝蒂斯 全场回放（AI智慧观赛） 23:10,http://113.124.186.195:7788/968772439
-西甲 塞尔塔VS皇家贝蒂斯 全场回放（张昊泽、王宇） 23:10,http://113.124.186.195:7788/968772321
-西甲 塞尔塔VS皇家贝蒂斯 全场回放（智能解说） 23:10,http://113.124.186.195:7788/968774041
-西甲 塞维利亚VS奥萨苏纳 智能解说 03:55,http://113.124.186.195:7788/968655214
-西甲 塞维利亚VS奥萨苏纳 李霄 03:45,http://113.124.186.195:7788/968625959
-西甲 塞维利亚VS奥萨苏纳 赛场原声 03:45,http://113.124.186.195:7788/968625921
-西甲 巴塞罗那VS皇家马德里 全场回放（AI智慧观赛） 03:55,http://113.124.186.195:7788/968781194
-西甲 巴塞罗那VS皇家马德里 全场回放（智能解说） 03:55,http://113.124.186.195:7788/968781158
-西甲 巴塞罗那VS皇家马德里 全场回放（林梦鸽、孙雷） 03:55,http://113.124.186.195:7788/968781336
-西甲 巴塞罗那VS皇家马德里 全场回放（梁祥宇、李欣、李子琪） 03:55,http://113.124.186.195:7788/968781376
-西甲 毕尔巴鄂竞技VS赫塔菲 全场回放（兰子非） 20:45,http://113.124.186.195:7788/968767584
-西甲 瓦伦西亚VS比利亚雷亚尔 全场回放（周楚雄） 00:15,http://113.124.186.195:7788/968729954
-西甲 皇家社会VS莱万特 全场回放（李霄） 01:15,http://113.124.186.195:7788/968775912
-西甲 马德里竞技VS拉科鲁尼亚 全场回放(智能解说） 02:55,http://113.124.186.195:7788/968733238
-西甲 马德里竞技VS拉科鲁尼亚 全场回放（AI观赛) 02:55,http://113.124.186.195:7788/968732996
-西甲 马德里竞技VS拉科鲁尼亚 全场回放（张天翼、贺宇） 02:55,http://113.124.186.195:7788/968732896
-西藏影视文化,http://123.115.202.110:5001/relay/xizang-film-culture.m3u8
-西藏藏语卫视,http://123.115.202.110:5001/relay/xizang-tibetan.m3u8
-西藏｜南迦巴瓦星空,http://123.115.202.110:5001/proxy/livechina-jhs05.m3u8
-西藏｜岷山彩门民宿,http://123.115.202.110:5001/proxy/livechina-hkylxs06.m3u8
-西藏｜甲岗拉姆雪山及县城湿地,http://123.115.202.110:5001/proxy/livechina-ahhs01.m3u8
-让吉林影像写入中国记忆,http://123.115.202.110:5001/proxy/jlntv-slow-china-memory.m3u8
+相声小品,http://110.72.82.161:808/hls/1025/index.m3u8
+碟战剧场,http://110.72.82.161:808/hls/1024/index.m3u8
+福建卫视,http://110.72.82.161:808/hls/121/index.m3u8
+经典动画大集合,http://123.131.38.84:1234/629942219
+经典香港电影,http://123.131.38.84:1234/625703337
+西甲 塞维利亚VS奥萨苏纳 全场回放（AI智能观赛） 03:55,http://123.131.38.84:1234/968815629
+西甲 塞维利亚VS奥萨苏纳 全场回放（智能解说） 03:55,http://123.131.38.84:1234/968815637
+西甲 塞维利亚VS奥萨苏纳 全场回放（李霄） 03:55,http://123.131.38.84:1234/968815605
 谍战剧场,http://120.238.84.45:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
-贵州公共,http://123.115.202.110:5001/proxy/gzstv-public.m3u8
-贵州大众生活,http://123.115.202.110:5001/proxy/gzstv-life.m3u8
-贵州影视文艺,http://123.115.202.110:5001/proxy/gzstv-film-arts.m3u8
-贵州生态乡村,http://123.115.202.110:5001/proxy/gzstv-eco-rural.m3u8
-贵州科教健康,http://123.115.202.110:5001/proxy/gzstv-science-health.m3u8
-贵州移动电视,http://123.115.202.110:5001/proxy/gzstv-mobile.m3u8
-贵州经济,http://123.115.202.110:5001/proxy/gzstv-economy.m3u8
 贵港新闻综合,http://110.72.87.89:808/hls/7/index.m3u8
 贵港新闻综合,http://110.72.66.3:808/hls/7/index.m3u8
 贵港新闻综合,http://110.72.64.226:808/hls/7/index.m3u8
-赛事最经典,http://123.115.202.110:5001/646596895
-赛事最经典,http://113.124.186.195:7788/646596895
-赤峰,http://123.115.202.110:5001/proxy/nmtv-chifeng.m3u8
-超三联赛 超三联赛 总决赛 半决赛及决赛 【回放】上海久事21:14上海横沙誉民 18:55,http://113.124.186.195:7788/968761680
-超三联赛 超三联赛 总决赛 半决赛及决赛 【回放】南昌凯锆商贸17:21上海横沙誉民 18:55,http://113.124.186.195:7788/968759281
-超三联赛 超三联赛 总决赛 半决赛及决赛 【回放】宁波海曙捷英11:22上海久事 18:55,http://113.124.186.195:7788/968758332
-超三联赛 超三联赛 总决赛 半决赛及决赛 【回放】宁波海曙捷英20:21南昌凯锆商贸 18:55,http://113.124.186.195:7788/968760189
-超三联赛 超三联赛 总决赛 半决赛及决赛 全场回放（蔡凯臣、李嘉伟） 18:55,http://113.124.186.195:7788/968767698
-超三联赛 超三联赛 总决赛 半决赛及决赛 全场回放（赛场原声） 18:55,http://113.124.186.195:7788/968765677
-超三联赛 超三联赛 总决赛 四分之一决赛 【回放】上海久事22:17重庆瀚动 13:55,http://113.124.186.195:7788/968753264
-超三联赛 超三联赛 总决赛 四分之一决赛 【回放】上海横沙誉民19:16北京控股 13:55,http://113.124.186.195:7788/968753722
-超三联赛 超三联赛 总决赛 四分之一决赛 【回放】南昌凯锆商贸21:17广东光正教育 13:55,http://113.124.186.195:7788/968753574
-超三联赛 超三联赛 总决赛 四分之一决赛 【回放】宁波海曙捷英21:9深圳龙华启航 13:55,http://113.124.186.195:7788/968753617
-超三联赛 超三联赛 总决赛 四分之一决赛 全场回放（蔡凯臣、李嘉伟） 13:55,http://113.124.186.195:7788/968755078
-超三联赛 超三联赛 总决赛 四分之一决赛 全场回放（赛场原声） 13:55,http://113.124.186.195:7788/968754684
-辽宁｜沈阳浑河桥,http://123.115.202.110:5001/proxy/livechina-ljgcdsc.m3u8
-辽源新闻综合,http://123.115.202.110:5001/proxy/jlntv-liaoyuan.m3u8
-辽超 本溪队VS丹东队 全场回放 14:55,http://113.124.186.195:7788/968757390
-运城-1,http://123.115.202.110:5001/relay/shanxi-yuncheng-1.m3u8
-连云港新闻综合,http://113.124.186.195:7788/639731715
-逐马计划 2026恒丰银行济南泉城马拉松 2026恒丰银行济南（泉城）马拉松全场回放（赛场原声） 07:15,http://113.124.186.195:7788/968746194
-逐马计划 2026恒丰银行济南泉城马拉松 2026济南马拉松吴浩然视角全场回放（赛场原声） 07:15,http://113.124.186.195:7788/968745440
-逐马计划 2026极氪汽车成都马拉松 2026极氪汽车成都马拉松全场回放（赛场原声） 07:15,http://113.124.186.195:7788/968746429
-通化市·浑江,http://123.115.202.110:5001/proxy/jlntv-slow-hunjiang.m3u8
-通化新闻综合,http://123.115.202.110:5001/proxy/jlntv-tonghua.m3u8
-通辽,http://123.115.202.110:5001/proxy/nmtv-tongliao.m3u8
-邗江频道,https://123.115.202.110:5001/live/8c3.m3u8
-邛崃综合,http://123.115.202.110:5001/chengdu-ql
-邢台,http://123.115.202.110:5001/relay/hebtv-11605045.m3u8
-邯郸,http://123.115.202.110:5001/relay/hebtv-11605046.m3u8
-郫都新闻综合,http://123.115.202.110:5001/chengdu-pd
-都江堰 24小时,http://123.115.202.110:5001/proxy/ipanda-dujiangyan.m3u8
-都江堰·优悠,https://123.115.202.110:5001/gcwbnd/xiongmao15_2/index.m3u8
-都江堰·吉福A,https://123.115.202.110:5001/gcwbnd/xiongmao11_2/index.m3u8
-都江堰·吉福B,https://123.115.202.110:5001/gcwbnd/xiongmao18_2/index.m3u8
-都江堰·新乔,https://123.115.202.110:5001/gcwbnd/xiongmao13_2/index.m3u8
-都江堰·春野、秋野,https://123.115.202.110:5001/gcwbnd/xiongmao20_2/index.m3u8
-都江堰·瑞喜、乔怡A,https://123.115.202.110:5001/gcwbnd/xiongmao12_2/index.m3u8
-都江堰·瑞喜、乔怡B,https://123.115.202.110:5001/gcwbnd/xiongmao16_2/index.m3u8
-都江堰·青灵,https://123.115.202.110:5001/gcwbnd/xiongmao14_2/index.m3u8
-都江堰电视台,http://123.115.202.110:5001/chengdu-djy
-鄂尔多斯,http://123.115.202.110:5001/proxy/nmtv-ordos.m3u8
-重庆｜巫山长江大桥,http://123.115.202.110:5001/proxy/livechina-hswlf.m3u8
-重庆｜巫山长江画卷,http://123.115.202.110:5001/proxy/livechina-ljgcwglytylxs.m3u8
-重庆｜李子坝站,http://123.115.202.110:5001/proxy/livechina-ylh04.m3u8
-金堂电视台,http://123.115.202.110:5001/chengdu-jt
-金牛电视台,http://123.115.202.110:5001/chengdu-jn
-钱江都市,http://123.115.202.110:5001/relay/cztv-102.m3u8
-铁人三项系列赛 中国铁人三项联赛暨“她铁”粉色铁人三项挑战赛无锡站 2026年中国铁人三项联赛暨“她铁”粉色铁人三项挑战赛无锡站全场回放（官方解说） 07:45,http://113.124.186.195:7788/968752328
-铁人三项系列赛 黄山国际铁人三项赛 2026黄山国际铁人三项赛全场回放（官方解说） 07:00,http://113.124.186.195:7788/968751973
-锡林郭勒,http://123.115.202.110:5001/proxy/nmtv-xilingol.m3u8
-锦江电视,http://123.115.202.110:5001/chengdu-jj
-镇江新闻综合,http://113.124.186.195:7788/639731783
-长春市·南湖公园,http://123.115.202.110:5001/proxy/jlntv-slow-nanhu-park.m3u8
-长春市·双阳区,http://123.115.202.110:5001/proxy/jlntv-slow-shuangyang.m3u8
-长春市·新民广场,http://123.115.202.110:5001/proxy/jlntv-slow-xinmin-square.m3u8
-长春市·碧松净月塔楼,http://123.115.202.110:5001/proxy/jlntv-slow-jingyu-tower.m3u8
-长春综合,http://123.115.202.110:5001/proxy/jlntv-changchun.m3u8
-长江大桥,https://123.115.202.110:5001/hls/292e69b9-9ca1-4908-bba0-32438dd7c464/index.m3u8
-长沙新闻综合,http://123.115.202.110:5001/proxy/mgtv-269.m3u8
-长治-1,http://123.115.202.110:5001/relay/shanxi-changzhi-1.m3u8
-长白山·万达滑雪场,http://123.115.202.110:5001/proxy/jlntv-slow-wanda-ski.m3u8
-长白山·万达滑雪场将军顶,http://123.115.202.110:5001/proxy/jlntv-slow-jiangjunding.m3u8
-阳泉新闻综合,http://123.115.202.110:5001/relay/shanxi-yangquan-news.m3u8
-阿拉善,http://123.115.202.110:5001/proxy/nmtv-alxa.m3u8
-陆家嘴,http://123.115.202.110:5001/proxy/kankanews-scenic-15989.m3u8
-陕西体育休闲频道,http://123.115.202.110:5001/relay/shaanxi-sports-leisure.m3u8
-陕西体育休闲频道,http://113.124.186.195:7788/956909356
-陕西新闻资讯频道,http://123.115.202.110:5001/relay/shaanxi-news.m3u8
-陕西新闻资讯频道,http://113.124.186.195:7788/956909289
-陕西秦腔频道,http://123.115.202.110:5001/relay/shaanxi-qinqiang.m3u8
-陕西秦腔频道,http://113.124.186.195:7788/956909303
-陕西移动电视,http://123.115.202.110:5001/relay/shaanxi-mobile.m3u8
-陕西都市青春频道,http://123.115.202.110:5001/relay/shaanxi-urban-youth.m3u8
-陕西都市青春频道,http://113.124.186.195:7788/956909358
-陕西银龄频道,http://123.115.202.110:5001/relay/shaanxi-silver-age.m3u8
-陕西银龄频道,http://113.124.186.195:7788/956909362
-陕西｜乾陵景区,http://123.115.202.110:5001/proxy/livechina-taishan02.m3u8
-陕西｜西安钟楼,http://123.115.202.110:5001/proxy/livechina-blg03.m3u8
-陕西｜阎良关山石川河风景区,http://123.115.202.110:5001/proxy/livechina-nss01.m3u8
-陕西｜陕西西安大雁塔,http://123.115.202.110:5001/proxy/livechina-hkylxs01.m3u8
-雄安新区,http://123.115.202.110:5001/relay/hebtv-11605048.m3u8
-青岛城市足球争霸赛 即墨区2-2市北区 全场回放（赛场原声） 13:50,http://113.124.186.195:7788/968754622
-青岛城市足球争霸赛 李沧区4-3崂山区 全场回放（赛场原声） 13:50,http://113.124.186.195:7788/968755072
-青岛城市足球争霸赛 胶州市1-3平度市 全场回放（赛场原声） 13:50,http://113.124.186.195:7788/968756442
-青岛城市足球争霸赛 西海岸新区2-1市南区 全场回放（赛场原声） 13:50,http://113.124.186.195:7788/968755265
-青岛影视,http://123.115.202.110:5001/proxy/qingdao-3.m3u8
-青岛教育,http://123.115.202.110:5001/proxy/qingdao-5.m3u8
-青岛新闻综合,http://123.115.202.110:5001/proxy/qingdao-1.m3u8
-青岛生活服务,http://123.115.202.110:5001/proxy/qingdao-2.m3u8
-青岛都市,http://123.115.202.110:5001/proxy/qingdao-4.m3u8
-青海经济生活,http://123.115.202.110:5001/relay/qinghai-qhsh.m3u8
-青海都市,http://123.115.202.110:5001/relay/qinghai-qhds.m3u8
-青海｜仙米国家森林公园,http://123.115.202.110:5001/proxy/livechina-mdjxxdsb.m3u8
-青白江电视台,http://123.115.202.110:5001/chengdu-qbj
-青羊电视台,http://123.115.202.110:5001/chengdu-qy
-靖宇县·四海龙湾玛珥湖,http://123.115.202.110:5001/proxy/jlntv-slow-sihai-longwan.m3u8
-靖宇县·松花江仁义风景区,http://123.115.202.110:5001/proxy/jlntv-slow-renyi.m3u8
-音乐台,https://123.115.202.110:5001/hls/3c38d3ba-ee74-4b93-933c-da8e1e5418fa/index.m3u8
-香港卫视,http://123.115.202.110:5001/relay/hkstv-live.m3u8
-马拉松系列赛 2026临汾半程马拉松 2026临汾半程马拉松全场回放（赛场原声） 07:15,http://113.124.186.195:7788/968744127
-马拉松系列赛 2026北京房山良乡大学城半程马拉松 2026北京房山良乡大学城半程马拉松全场回放（赛场原声） 07:45,http://113.124.186.195:7788/968745608
-马拉松系列赛 2026北京昌平马拉松 2026北京昌平马拉松全场回放（赛场原声） 07:15,http://113.124.186.195:7788/968747429
-马拉松系列赛 2026华贵洪湖半程马拉松 2026华贵洪湖半程马拉松全场回放（赛场原声） 07:45,http://113.124.186.195:7788/968746208
-马拉松系列赛 2026哈密新星双城半程马拉松 2026哈密新星双城半程马拉松全场回放（赛场原声） 10:45,http://113.124.186.195:7788/968751105
-马拉松系列赛 2026天津银行天津马拉松 2026天津银行天津马拉松全场回放（赛场原声） 07:15,http://113.124.186.195:7788/968746843
-马拉松系列赛 2026扬子江龙凤堂泰州马拉松 2026扬子江龙凤堂泰州马拉松（赛场原声） 07:15,http://113.124.186.195:7788/968748707
-马拉松系列赛 2026桐庐半程马拉松 2026桐庐半程马拉松全场回放（赛场原声） 06:45,http://113.124.186.195:7788/968743159
-马拉松系列赛 2026泗洪农商银行泗洪马拉松 2026泗洪农商银行泗洪马拉松全场回放（赛场原声） 07:15,http://113.124.186.195:7788/968752949
-魔都眼,http://123.115.202.110:5001/proxy/kankanews-11.m3u8
-魔都眼景观,http://123.115.202.110:5001/proxy/kankanews-scenic-12835.m3u8
-鱼嘴,https://123.115.202.110:5001/hls/509207c4-e2b1-43f0-b8f0-f04d0f584ed8/index.m3u8
-黄河电视台,http://123.115.202.110:5001/relay/shanxi-huanghe.m3u8
-黑龙江｜嘟噜河省级自然保护区视角1,http://123.115.202.110:5001/proxy/livechina-taishan03.m3u8
-黑龙江｜嘟噜河省级自然保护区视角2,http://123.115.202.110:5001/proxy/livechina-hkylxs05.m3u8
-黑龙江｜霁虹桥,http://123.115.202.110:5001/proxy/livechina-hkts09.m3u8
-鼓楼广场,https://123.115.202.110:5001/hls/82df63bc-e231-4b84-a277-30f603dd44ca/index.m3u8
-齐鲁频道,http://123.115.202.110:5001/iqilu-qlpd
-龙岩综合,https://123.115.202.110:5001/hb_lytv/sd/live.m3u8?_upt=915ce6bc1793037021
+贵港新闻综合,http://110.72.82.161:808/hls/7/index.m3u8
+赛事最经典,http://123.131.38.84:1234/646596895
+连云港新闻综合,http://123.131.38.84:1234/639731715
+金色频道,http://110.72.82.161:808/hls/1021/index.m3u8
+镇江新闻综合,http://123.131.38.84:1234/639731783
+陕西体育休闲频道,http://123.131.38.84:1234/956909356
+陕西新闻资讯频道,http://123.131.38.84:1234/956909289
+陕西秦腔频道,http://123.131.38.84:1234/956909303
+陕西都市青春频道,http://123.131.38.84:1234/956909358
+陕西银龄频道,http://123.131.38.84:1234/956909362
+香港卫视HD,http://110.72.82.161:808/hls/235577686/index.m3u8
+香港音乐,http://110.72.82.161:808/hls/229291699/index.m3u8
 ﻿CCTV-1,http://110.72.87.89:808/hls/54/index.m3u8
 ﻿CCTV-1,http://110.72.66.3:808/hls/54/index.m3u8
 ﻿CCTV-1,http://110.72.64.226:808/hls/54/index.m3u8
+﻿CCTV-1,http://110.72.82.161:808/hls/54/index.m3u8
